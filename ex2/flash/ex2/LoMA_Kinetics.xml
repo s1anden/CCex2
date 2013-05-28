@@ -1,0 +1,304 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Equilibrium is dynamic</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>0</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>37</ymp_yAbsolute>
+		<ymp_xOffset>376</ymp_xOffset>
+		<ymp_yOffset>47</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+		<ymp_txt><!--[1] -->Equilibrium systems are dynamic. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>75.1</ymp_xAbsolute>
+		<ymp_yAbsolute>95.45</ymp_yAbsolute>
+		<ymp_xOffset>225</ymp_xOffset>
+		<ymp_yOffset>15</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->In module 3, we described how reversible reactions eventually reach a &lt;b&gt;steady state&lt;/b&gt; where</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>93</ymp_xAbsolute>
+		<ymp_yAbsolute>124.15</ymp_yAbsolute>
+		<ymp_xOffset>234</ymp_xOffset>
+		<ymp_yOffset>11</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->some reactants are being converted to products and vice versa, </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>93</ymp_xAbsolute>
+		<ymp_yAbsolute>148</ymp_yAbsolute>
+		<ymp_xOffset>282</ymp_xOffset>
+		<ymp_yOffset>13</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->but the total amounts of reactants and products isn't changing. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>78.1</ymp_xAbsolute>
+		<ymp_yAbsolute>180</ymp_yAbsolute>
+		<ymp_xOffset>128</ymp_xOffset>
+		<ymp_yOffset>11</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->But, how is it possible that reactions are occurring, but the amounts of products and reactants are staying the same?  This might seem counterintuitive and confusing. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>93</ymp_xAbsolute>
+		<ymp_yAbsolute>205</ymp_yAbsolute>
+		<ymp_xOffset>380</ymp_xOffset>
+		<ymp_yOffset>29</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->But, it actually has a simple explanation:  the concentrations remain constant because, at equilibrium, both the forward and reverse reactions occur at equal &lt;b&gt;rates&lt;b/&gt;. The study of rates is called &lt;b&gt;kinetics&lt;/b&gt;; this module will explain the relationship between kinetics and equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>93</ymp_xAbsolute>
+		<ymp_yAbsolute>248</ymp_yAbsolute>
+		<ymp_xOffset>363</ymp_xOffset>
+		<ymp_yOffset>15</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->Since the rates are equal at equilibrium, that means the overall concentrations do not change. The amount of product being formed from the forward reaction is exactly balanced by the amount of reactant formed by the reverse reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>130</ymp_xAbsolute>
+		<ymp_yAbsolute>275</ymp_yAbsolute>
+		<ymp_xOffset>364</ymp_xOffset>
+		<ymp_yOffset>126</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->Recall how we visualized the progress of reaction of the conversion of NO2 to N2O4 in Module 2:</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>130</ymp_xAbsolute>
+		<ymp_yAbsolute>395</ymp_yAbsolute>
+		<ymp_xOffset>281</ymp_xOffset>
+		<ymp_yOffset>9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->At the beginning of the reaction, there is no product, so the forward reaction is fast, but as more and more product accumulates, the reaction slows down (we use smaller arrows to indicate that). </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>130</ymp_xAbsolute>
+		<ymp_yAbsolute>425</ymp_yAbsolute>
+		<ymp_xOffset>364</ymp_xOffset>
+		<ymp_yOffset>79</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->As the reverse reaction progresses, the concentration of N2O4 decreases and the rate of the reverse reaction slows. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>130</ymp_xAbsolute>
+		<ymp_yAbsolute>540</ymp_yAbsolute>
+		<ymp_xOffset>364</ymp_xOffset>
+		<ymp_yOffset>79</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->Since both the forward and reverse reactions occur simultaneously, we can combine them together in the following diagram. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>156.5</ymp_xAbsolute>
+		<ymp_yAbsolute>521</ymp_yAbsolute>
+		<ymp_xOffset>276</ymp_xOffset>
+		<ymp_yOffset>73</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->Chemical equilibrium is established when the forward rate is equal to the reverse rate, as occurs at this point. But, why are the rates of the reactions changing? </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>70</ymp_xAbsolute>
+		<ymp_yAbsolute>645</ymp_yAbsolute>
+		<ymp_xOffset>277</ymp_xOffset>
+		<ymp_yOffset>134</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->To answer this we must think about the energy that is involved in making the chemistry happen. We can draw an &lt;b&gt;energy diagram&lt;/b&gt; to show this energy. The x axis is the progress of the reaction; the y axis is the free energy. Notice that NO2 is higher energy than N2O4. This means that N2O4 is more stable. The products are more stable than the reactants - that means that this reaction is spontaneous - it will happen on its own. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>375</ymp_xAbsolute>
+		<ymp_yAbsolute>685</ymp_yAbsolute>
+		<ymp_xOffset>225</ymp_xOffset>
+		<ymp_yOffset>103</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->Notice that there is a bump between the reactants and products. This is called the "&lt;b&gt;energy barrier&lt;/b&gt;" - the reactants have to undergo some chemistry to create the products and that chemistry takes energy. Some energy barriers are small and some are large. How fast a reaction goes is determined by how much energy it takes to get over the hill, (aka, the energy barrier). Bigger hills take more energy and take longer to climb. So, which reaction is faster, the forward or the reverse? </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>365</ymp_xAbsolute>
+		<ymp_yAbsolute>795</ymp_yAbsolute>
+		<ymp_xOffset>220</ymp_xOffset>
+		<ymp_yOffset>10</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->The forward reaction is faster because it has a smaller hill to climb.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>90</ymp_xAbsolute>
+		<ymp_yAbsolute>789</ymp_yAbsolute>
+		<ymp_xOffset>501</ymp_xOffset>
+		<ymp_yOffset>46</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->Where does the energy to "climb the hill" come from? Molecular collisions. In real life, these molecules are constantly bouncing off of one another like bumper cars. To get over the hill, two NO2 molecules have to hit hard enough (have enough energy) and hit each other in the right place (correct geometry). If you have some NO2 in a beaker, the molecules are bumping around.  Some are forming N2O4 and some N2O4 is breaking up into NO2.  Many are just bumping into each other and nothing is happening.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>135</ymp_xAbsolute>
+		<ymp_yAbsolute>840</ymp_yAbsolute>
+		<ymp_xOffset>338</ymp_xOffset>
+		<ymp_yOffset>11</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->Since the barrier of the forward reaction is smaller, it takes less energy to cross over. So, a larger percentage of the collisions will have enough energy to cross over - i.e. there will be more &lt;b&gt;productive collisions&lt;/b&gt;.</ymp_txt>
+	</ymp_slice>
+
+		<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>60</ymp_xAbsolute>
+		<ymp_yAbsolute>870</ymp_yAbsolute>
+		<ymp_xOffset>547</ymp_xOffset>
+		<ymp_yOffset>23</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->The combination of the number of collisions and the number of molecules that are in the correct geometry is called the rate constant, written as a lower case k. The rate constant is simply how fast the chemistry of that reaction can happen. It is constant for a given temp, pressure, etc. Higher temp means the molecules are moving faster and bumping together more often, so higher temp increases the rate constant.</ymp_txt>
+	</ymp_slice>
+	
+	
+	
+		<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>19</ymp_idx>
+		<ymp_xAbsolute>60</ymp_xAbsolute>
+		<ymp_yAbsolute>910</ymp_yAbsolute>
+		<ymp_xOffset>537</ymp_xOffset>
+		<ymp_yOffset>60</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[19] -->Mathematically, the rate constant is &lt;b&gt;k&lt;/b&gt; = number of collisions * probability of a successful reaction</ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>20</ymp_idx>
+		<ymp_xAbsolute>162.65</ymp_xAbsolute>
+		<ymp_yAbsolute>985</ymp_yAbsolute>
+		<ymp_xOffset>191</ymp_xOffset>
+		<ymp_yOffset>17</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[20] -->The rate constant of the forward reaction is written: k1 The subscript is 1 because there is only one forward step. Some reactions have multiple steps.</ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>21</ymp_idx>
+		<ymp_xAbsolute>162.65</ymp_xAbsolute>
+		<ymp_yAbsolute>1010</ymp_yAbsolute>
+		<ymp_xOffset>191</ymp_xOffset>
+		<ymp_yOffset>18</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[21] -->The rate constant of the reverse reaction is written: k-1   The subscript is negative to indicate that it is the reverse of k1.</ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>22</ymp_idx>
+		<ymp_xAbsolute>60</ymp_xAbsolute>
+		<ymp_yAbsolute>1045</ymp_yAbsolute>
+		<ymp_xOffset>355</ymp_xOffset>
+		<ymp_yOffset>17</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[22] -->Don't confuse rate constants with the rate of reaction, r. The rate of reaction, r, (aka, the rate) is the rate of product formation, or how much product you make in a unit of time (e.g. M/s). </ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>23</ymp_idx>
+		<ymp_xAbsolute>120</ymp_xAbsolute>
+		<ymp_yAbsolute>1075</ymp_yAbsolute>
+		<ymp_xOffset>398</ymp_xOffset>
+		<ymp_yOffset>37</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[23] -->To find the rate of reaction, you multiply how much you have by how fast you can go. Obviously, the more molecules you have, the more collisions there will be, and the faster you can go, so the &lt;b&gt;concentration&lt;/b&gt; matters. We write concentrations in brackets like this:  [NO2] and [N2O4].</ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>24</ymp_idx>
+		<ymp_xAbsolute>180</ymp_xAbsolute>
+		<ymp_yAbsolute>1125</ymp_yAbsolute>
+		<ymp_xOffset>294</ymp_xOffset>
+		<ymp_yOffset>39</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[24] -->Now, we can write equations for the rates of the reactions (forward and reverse). If we look at the units, we see that the rate of a reaction will be concentration per unit time, usually M/s. </ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>25</ymp_idx>
+		<ymp_xAbsolute>120</ymp_xAbsolute>
+		<ymp_yAbsolute>1195</ymp_yAbsolute>
+		<ymp_xOffset>456</ymp_xOffset>
+		<ymp_yOffset>74</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[25] -->As a reaction progresses, the rate constants don't change, but the concentrations do, so the rates of reaction will change... for a while at least... until we reach equilibrium. At equilibrium, the forward and reverse rates are the same. We would then write the equation like this:</ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>26</ymp_idx>
+		<ymp_xAbsolute>130</ymp_xAbsolute>
+		<ymp_yAbsolute>1285</ymp_yAbsolute>
+		<ymp_xOffset>142</ymp_xOffset>
+		<ymp_yOffset>39</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[26] -->At equilibrium, the reactions are still occurring, but the concentrations of the reactants and products stays the same. Remember, the reaction quotient, Q, describes the ratio of products to reactants before equilibrium, and the equilibrium constant, K, describes the ratio of products to reactants at equilibrium. So, the equation above can be rearranged so that we see how the ratio of the rates is directly related to the ratio of the concentrations, i.e. the equilibrium constant. </ymp_txt>
+	</ymp_slice>
+	
+	</ymp_presentation>
+

@@ -1,0 +1,161 @@
+<ymp_presentation>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Quantitative Equilibrium Calculations&lt;br&gt;Overview (Equilibrium vs. limiting reagents)</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>60.6</ymp_xAbsolute>
+		<ymp_yAbsolute>56</ymp_yAbsolute>
+		<ymp_xOffset>106.3</ymp_xOffset>
+		<ymp_yOffset>14.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->Suppose we mix together some chemical solutions, and we know the identity and initial concentrations of the chemical species in a given container.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>60.1</ymp_xAbsolute>
+		<ymp_yAbsolute>82.3</ymp_yAbsolute>
+		<ymp_xOffset>189.9</ymp_xOffset>
+		<ymp_yOffset>14.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->Let's assume we also know that a chemical reaction will take place, and we know the equilibrium constant, K, for this reaction.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>284.2</ymp_xAbsolute>
+		<ymp_yAbsolute>50</ymp_yAbsolute>
+		<ymp_xOffset>215.1</ymp_xOffset>
+		<ymp_yOffset>24.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->How can we determine the final concentrations of the chemical species?</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>395.8</ymp_xAbsolute>
+		<ymp_yAbsolute>71.6</ymp_yAbsolute>
+		<ymp_xOffset>154.1</ymp_xOffset>
+		<ymp_yOffset>23.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->By final concentrations we mean the point at which  the concentrations of chemical species stop changing. When chemicals react, their concentrations may change for some time. But eventually, the concentrations reach a final, steady state.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>71.5</ymp_xAbsolute>
+		<ymp_yAbsolute>126.05</ymp_yAbsolute>
+		<ymp_xOffset>127.3</ymp_xOffset>
+		<ymp_yOffset>13.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->Chemical reactions fall into two general categories.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>113.75</ymp_xAbsolute>
+		<ymp_yAbsolute>157.15</ymp_yAbsolute>
+		<ymp_xOffset>348.3</ymp_xOffset>
+		<ymp_yOffset>13.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->The first type is a chemical reaction that goes all the way to completion.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>257.5</ymp_xAbsolute>
+		<ymp_yAbsolute>170.2</ymp_yAbsolute>
+		<ymp_xOffset>272.2</ymp_xOffset>
+		<ymp_yOffset>25.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->By completion, we mean the reaction occurs until one of the reactants runs out. In this type of reaction, reactants can form products but the products are not able to react to re-form reactants.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>257.4</ymp_xAbsolute>
+		<ymp_yAbsolute>196.85</ymp_yAbsolute>
+		<ymp_xOffset>273.8</ymp_xOffset>
+		<ymp_yOffset>25.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->The reactant that runs out is called the limiting reagent, and the approach we use to handle this is often called "solving the limiting reagent problem".</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>117.85</ymp_xAbsolute>
+		<ymp_yAbsolute>250</ymp_yAbsolute>
+		<ymp_xOffset>352.1</ymp_xOffset>
+		<ymp_yOffset>12.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->The other broad category of chemical reaction are reversible reactions. In this reactions both the forward and reverse reactions are possible, and when the rate of these reactions is equal, at the steady-state, none of the reactants have run out. These situations use "chemical equilibrium" reasoning.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>158.5</ymp_xAbsolute>
+		<ymp_yAbsolute>280.4</ymp_yAbsolute>
+		<ymp_xOffset>261.9</ymp_xOffset>
+		<ymp_yOffset>13.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->In the following library entries, we will introduce the ideas of chemical equilibrium in systems that have an intermediate value of K, and no simplifying assumptions are possible.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>160.05</ymp_xAbsolute>
+		<ymp_yAbsolute>307.15</ymp_yAbsolute>
+		<ymp_xOffset>187.8</ymp_xOffset>
+		<ymp_yOffset>12.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->We'll then consider a situation that occurs so frequently it is almost more important to understand than the intermediate case.  This situation occurs for reactions in which K is very large such that the chemical reaction goes nearly to completion.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>174.85</ymp_xAbsolute>
+		<ymp_yAbsolute>322.35</ymp_yAbsolute>
+		<ymp_xOffset>301.9</ymp_xOffset>
+		<ymp_yOffset>26.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->When reactions progress nearly to completion, we can approximate equilibrium concentrations using the limiting reagent calculation. For these types of reversible reactions, we'll demonstrate in the following modules that it's useful to think of the forward and reverse reactions separately. First, we'll identify the strongest reaction and use the limiting reagent calculation to find concentrations of the majority species at completion. Then, we'll consider the weaker reaction and find concetrations of the minority species at equilibrium.
+		</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

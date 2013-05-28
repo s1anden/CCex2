@@ -1,0 +1,628 @@
+<ymp_presentation>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Quantitative Equilibrium Calculations&lt;br&gt;Calculations for large or small values of K</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>68.9</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>318.1</ymp_xOffset>
+		<ymp_yOffset>28.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->When a chemical reaction has a very large or small value of K, we can use a two step approach to determine the concentrations of the chemical species at equilibrium. We will first discuss the strategy of this two-step procedure and then demonstrate worked examples.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>70.8</ymp_xAbsolute>
+		<ymp_yAbsolute>38.2</ymp_yAbsolute>
+		<ymp_xOffset>320.4</ymp_xOffset>
+		<ymp_yOffset>11.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->The first step determines the majority species, i.e. which chemical species will have large concentrations at equilibrium?</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>103.65</ymp_xAbsolute>
+		<ymp_yAbsolute>57.45</ymp_yAbsolute>
+		<ymp_xOffset>241.6</ymp_xOffset>
+		<ymp_yOffset>12.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->Step 1 is to determine whether the equilibrium state will be closer to the left (mostly reactants) or to the right (mostly products) along the progress of reaction. For instance, if K is very large, we can assume the reaction will progress nearly all the way to the right. If we make the approximation that K isinfinitely large, this would correspond to the forward reaction progressing to completion.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>103.4</ymp_xAbsolute>
+		<ymp_yAbsolute>74.75</ymp_yAbsolute>
+		<ymp_xOffset>238.2</ymp_xOffset>
+		<ymp_yOffset>12.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->If a reaction has a very small K, we can assume the reaction will lie nearly all the way to the left. If we make the approximation that K is not just small, but infinitely small, i.e. K=0, this would correspond to the reverse reaction progressing to completion.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>87.75</ymp_xAbsolute>
+		<ymp_yAbsolute>59.3</ymp_yAbsolute>
+		<ymp_xOffset>357.4</ymp_xOffset>
+		<ymp_yOffset>68.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->These assumptions lead to limiting reagent calculations. For K=infinity, the forward reaction goes all the way to completion, i.e. until one of the reactants runs out. For K=0, the reverse reaction proceeds to completion (towards reactants) until one of the products runs out. In either case, the reaction progresses until one or more of the chemical species runs out.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>77.2</ymp_xAbsolute>
+		<ymp_yAbsolute>128.8</ymp_yAbsolute>
+		<ymp_xOffset>393.6</ymp_xOffset>
+		<ymp_yOffset>65.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->At completion some of the chemical species have non-zero concentrations and some (the limiting reagents) have zero concentration.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>86.65</ymp_xAbsolute>
+		<ymp_yAbsolute>189.65</ymp_yAbsolute>
+		<ymp_xOffset>148.1</ymp_xOffset>
+		<ymp_yOffset>70.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->Those species that have non-zero concentration are majority species. These species are present in large concentrations and the limiting reagent calculation in Step 1 has given us these concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>303.25</ymp_xAbsolute>
+		<ymp_yAbsolute>196.05</ymp_yAbsolute>
+		<ymp_xOffset>148.1</ymp_xOffset>
+		<ymp_yOffset>29.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->In step 1, we assumed K was either 0 or infinity. Under these assumptions, some chemical species (the limiting reagents) are completely consumed and so have zero concentration. However, in equilibrium systems both forward and reverse reactions are constantly occurring, so we know that no species will have a zero concentration. Instead, the concentrations of the "limiting reagents" are present in very small amounts, and we call these minority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>237.5</ymp_xAbsolute>
+		<ymp_yAbsolute>227.9</ymp_yAbsolute>
+		<ymp_xOffset>224.4</ymp_xOffset>
+		<ymp_yOffset>64.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->If K is very large or very small, we can assume that the equilibrium concentrations of the majority species are very close to the values we found in Step 1. In Step 2 we determine the concentrations of the minority species at equilibrium by using K=Q.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>65.35</ymp_xAbsolute>
+		<ymp_yAbsolute>304.7</ymp_yAbsolute>
+		<ymp_xOffset>336.6</ymp_xOffset>
+		<ymp_yOffset>35.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->This two-step procedure allows us to approximate equilibrium values when the equilibrium constant, K, is either very large or small. To make sure our assumptions hold for a given situation, we compare the concentration of the minority species to that of the majority species. If our assumption is valid, the concentrations of the minority species will be much smaller than that of the majority species (e.g., less than 5% of the majority). If this is not true, and our assumption that the reaction is near completion at equilibrium is not valid and we must use the procedure described in the previous module for intermediate values of K.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>52</ymp_xAbsolute>
+		<ymp_yAbsolute>357.35</ymp_yAbsolute>
+		<ymp_xOffset>439.8</ymp_xOffset>
+		<ymp_yOffset>51.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->Next we'll give an example of this two-step procedure. Consider a reaction in which an iron ion reacts with a ligand, L, to form a complex in which the two ligands are bound to the iron. The initial concentrations, in units of molarity M, are given along with the equilibrium constant, K=1000.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>50.7</ymp_xAbsolute>
+		<ymp_yAbsolute>419.35</ymp_yAbsolute>
+		<ymp_xOffset>335.6</ymp_xOffset>
+		<ymp_yOffset>33.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->For this reaction, K is large and so in step 1, we assume the reaction progresses all the way to the right (as if K is infinite.)</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>58.75</ymp_xAbsolute>
+		<ymp_yAbsolute>460</ymp_yAbsolute>
+		<ymp_xOffset>450.7</ymp_xOffset>
+		<ymp_yOffset>76.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->For K = infinity, the reaction will progress towards product until one of the  reactants runs out. To determine the limiting reagent, we divide the concentration of each species by the stoichiometric coefficients in the reaction. The smaller value is that for the ligand L, and so L is the limiting reagent.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>190.3</ymp_xAbsolute>
+		<ymp_yAbsolute>525.6</ymp_yAbsolute>
+		<ymp_xOffset>31.2</ymp_xOffset>
+		<ymp_yOffset>11.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->Since L is the limiting reagent, we know it is totally consumed by the reaction and so the change in [L] is -3.0.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>59.3</ymp_xAbsolute>
+		<ymp_yAbsolute>527.3</ymp_yAbsolute>
+		<ymp_xOffset>490.5</ymp_xOffset>
+		<ymp_yOffset>96.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->We can then use the change in [L] to determine the change in concentration of the other chemical species by using the appropriate stoichiometric ratios.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>58.8</ymp_xAbsolute>
+		<ymp_yAbsolute>550.1</ymp_yAbsolute>
+		<ymp_xOffset>247.4</ymp_xOffset>
+		<ymp_yOffset>14.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->Adding/Subtracting the change values from the intial concentrations leads to the final concentrations, labeled here as K= infinity, to indicate that we have assumed an infinite K.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>57.1</ymp_xAbsolute>
+		<ymp_yAbsolute>560.5</ymp_yAbsolute>
+		<ymp_xOffset>218.2</ymp_xOffset>
+		<ymp_yOffset>52.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->Those species that have nonzero concentrations when K = infinity are majority species, and we assume their concentrations are very close to the actual equilibrium concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>177.4</ymp_xAbsolute>
+		<ymp_yAbsolute>566.05</ymp_yAbsolute>
+		<ymp_xOffset>149.5</ymp_xOffset>
+		<ymp_yOffset>88.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->When K = infinity, the limiting reagent is completely consumed and has zero concentration. However, because K is large but not infinite, the concentration is small, i.e. nearly zero, and this is a minority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>19</ymp_idx>
+		<ymp_xAbsolute>52.1</ymp_xAbsolute>
+		<ymp_yAbsolute>704.75</ymp_yAbsolute>
+		<ymp_xOffset>402.4</ymp_xOffset>
+		<ymp_yOffset>12.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[19] -->In step 2, we use the equilibrium expression K=Q to determine the concentration of the minority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>20</ymp_idx>
+		<ymp_xAbsolute>70.15</ymp_xAbsolute>
+		<ymp_yAbsolute>725.1</ymp_yAbsolute>
+		<ymp_xOffset>181.4</ymp_xOffset>
+		<ymp_yOffset>37.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[20] -->For this reaction, K=Q takes this form.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>21</ymp_idx>
+		<ymp_xAbsolute>259.35</ymp_xAbsolute>
+		<ymp_yAbsolute>725.55</ymp_yAbsolute>
+		<ymp_xOffset>79.4</ymp_xOffset>
+		<ymp_yOffset>35.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[21] -->Since we assume the concentrations of the majority species are approximately equal to equilibrium concentrations we can put them into our equilibrium expression.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>22</ymp_idx>
+		<ymp_xAbsolute>91.6</ymp_xAbsolute>
+		<ymp_yAbsolute>781.05</ymp_yAbsolute>
+		<ymp_xOffset>215.6</ymp_xOffset>
+		<ymp_yOffset>31.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[22] -->We can then solve for the concentration of the minority species, L.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>23</ymp_idx>
+		<ymp_xAbsolute>67.65</ymp_xAbsolute>
+		<ymp_yAbsolute>830.25</ymp_yAbsolute>
+		<ymp_xOffset>403.7</ymp_xOffset>
+		<ymp_yOffset>43.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[23] -->We have now calculated the concentrations of both the majority and minority species. Our final step is to check our assumption that the the equilibrium state of the reaction is far to the right. To do this, we checked to make sure that the concentration of the minority species is less than 5% that of the majority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>24</ymp_idx>
+		<ymp_xAbsolute>296.7</ymp_xAbsolute>
+		<ymp_yAbsolute>885.5</ymp_yAbsolute>
+		<ymp_xOffset>223.8</ymp_xOffset>
+		<ymp_yOffset>36.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[24] -->We'll take the ratio between the minority species and the majority species with the smallest concentration. This ratio gives us 0.015 or 1.5%. This is less than 5% and so our assumption of large K holds. (We use the majority species with the smallest concentration since if our minority species is less than 5% that of the least concentrated majority species, it must also be less than 5% that of the more concentrated majority species.)</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>25</ymp_idx>
+		<ymp_xAbsolute>58.45</ymp_xAbsolute>
+		<ymp_yAbsolute>941.05</ymp_yAbsolute>
+		<ymp_xOffset>475.1</ymp_xOffset>
+		<ymp_yOffset>63.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[25] -->In the next example, we will consider a reaction with a very small equilibrium constant K. In this case, the reaction is for a ligand that only weakly binds to an iron ion, such that the K is 1/1000. The stoichiometry of the reaction is the same as that of the previous example, and we will also consider the same initial concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>26</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>1022.25</ymp_yAbsolute>
+		<ymp_xOffset>480.8</ymp_xOffset>
+		<ymp_yOffset>60.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[26] -->One approach we could take is to simply write the reverse of the above reaction. When the reaction is written in the reverse direction, the equilibrium constant, K, will be the inverse of the original K, or 1000. This would give us the same situation as in the previous example, since we have a reaction with a large K. However, it is also useful to be able to handle the case of small K directly and so we will proceed in that manner.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>27</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>1083.95</ymp_yAbsolute>
+		<ymp_xOffset>370.1</ymp_xOffset>
+		<ymp_yOffset>62.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[27] -->Since K is very small, we can assume the reaction lies far to the left by approximating that K is not just small but infinitely small, i.e. K=0.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>28</ymp_idx>
+		<ymp_xAbsolute>57.75</ymp_xAbsolute>
+		<ymp_yAbsolute>1148.65</ymp_yAbsolute>
+		<ymp_xOffset>414.6</ymp_xOffset>
+		<ymp_yOffset>64.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[28] -->When K=0, the reaction will proceed towards reactants until one of the products runs out. This is a limiting reagent calculation for the reaction proceeding from right to left. Since there is only one product, this species is the limiting reagent.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>29</ymp_idx>
+		<ymp_xAbsolute>270.6</ymp_xAbsolute>
+		<ymp_yAbsolute>1222</ymp_yAbsolute>
+		<ymp_xOffset>37.5</ymp_xOffset>
+		<ymp_yOffset>11.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[29] -->The product is completely consumed and so we know the change in its concentration.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>30</ymp_idx>
+		<ymp_xAbsolute>58.35</ymp_xAbsolute>
+		<ymp_yAbsolute>1189.1</ymp_yAbsolute>
+		<ymp_xOffset>483.8</ymp_xOffset>
+		<ymp_yOffset>87.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[30] -->From the change in the limiting reagent, we can use the appropriate stoichiometric ratios to determine the change in concentration of the other (majority) species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>31</ymp_idx>
+		<ymp_xAbsolute>57.8</ymp_xAbsolute>
+		<ymp_yAbsolute>1244.15</ymp_yAbsolute>
+		<ymp_xOffset>240.3</ymp_xOffset>
+		<ymp_yOffset>13.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[31] -->This leads to these final concentrations, labeled here as K= 0, to indicate that we have assumed a vanishingly small K.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>32</ymp_idx>
+		<ymp_xAbsolute>55.55</ymp_xAbsolute>
+		<ymp_yAbsolute>1260.85</ymp_yAbsolute>
+		<ymp_xOffset>161.8</ymp_xOffset>
+		<ymp_yOffset>46.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[32] -->Those species that have nonzero concentrations when K = 0 are majority species, and we assume that their concentrations at completion are close to equilibrium concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>33</ymp_idx>
+		<ymp_xAbsolute>176.65</ymp_xAbsolute>
+		<ymp_yAbsolute>1264.35</ymp_yAbsolute>
+		<ymp_xOffset>148.8</ymp_xOffset>
+		<ymp_yOffset>82.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[33] -->When K = 0, the limiting reagent is completely consumed and has zero concentration. If K is small but not 0, the concentration is small, i.e. nearly zero, and this is a minority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>34</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>1393.05</ymp_yAbsolute>
+		<ymp_xOffset>402.4</ymp_xOffset>
+		<ymp_yOffset>12.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[34] -->In step 2, we use the equilibrium expression K=Q to determine the concentration of the minority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>35</ymp_idx>
+		<ymp_xAbsolute>65.85</ymp_xAbsolute>
+		<ymp_yAbsolute>1424.6</ymp_yAbsolute>
+		<ymp_xOffset>181.5</ymp_xOffset>
+		<ymp_yOffset>37.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[35] -->For this reaction, K=Q takes this form.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>36</ymp_idx>
+		<ymp_xAbsolute>254.85</ymp_xAbsolute>
+		<ymp_yAbsolute>1424.15</ymp_yAbsolute>
+		<ymp_xOffset>79.5</ymp_xOffset>
+		<ymp_yOffset>36.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[36] -->We know the concentrations of the majority species and so can put those into our equilibrium expression.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>37</ymp_idx>
+		<ymp_xAbsolute>69.75</ymp_xAbsolute>
+		<ymp_yAbsolute>1473.2</ymp_yAbsolute>
+		<ymp_xOffset>218.1</ymp_xOffset>
+		<ymp_yOffset>31.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[37] -->We can then solve for the concentration of the minority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>38</ymp_idx>
+		<ymp_xAbsolute>63.25</ymp_xAbsolute>
+		<ymp_yAbsolute>1531</ymp_yAbsolute>
+		<ymp_xOffset>414.2</ymp_xOffset>
+		<ymp_yOffset>45.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[38] -->We now know the concentrations of both the majority and minority species. Our final step is to check our assumption that the reaction lies to the left. To do this, we checked to make sure that the concentration of the minority species is less than 5% that of the majority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>39</ymp_idx>
+		<ymp_xAbsolute>291.85</ymp_xAbsolute>
+		<ymp_yAbsolute>1584.15</ymp_yAbsolute>
+		<ymp_xOffset>223.6</ymp_xOffset>
+		<ymp_yOffset>30.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[39] -->We'll take the ratio between the minority species and the majority species with the smallest concentration. This ratio gives us 0.048 or 4.8%.  This is less than 5%, so our assumption that the equilibrium state lies far to the left is appropriate. (We use the majority species with the smallest concentration since if our minority species is less than 5% that of the least concentrated majority species, it must also be less than 5% that of the more concentrated majority species.)</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>40</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>1628.35</ymp_yAbsolute>
+		<ymp_xOffset>504.5</ymp_xOffset>
+		<ymp_yOffset>13.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[40] -->Let's now take a closer look at the approximations involved in this two-step procedure. As a shorthand, we'll call this the minority species approximation. We will do this by comparing the concentrations we obtained above with those we would obtain without invoking the minority species approximation.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>41</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>1665.05</ymp_yAbsolute>
+		<ymp_xOffset>489.5</ymp_xOffset>
+		<ymp_yOffset>88.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[41] -->The above examples considered the same chemical reaction and initial concentrations. In both cases, we can write the change in concentrations in terms of a variable x that describes the progress of the reaction.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>42</ymp_idx>
+		<ymp_xAbsolute>74.6</ymp_xAbsolute>
+		<ymp_yAbsolute>1730.9</ymp_yAbsolute>
+		<ymp_xOffset>461.9</ymp_xOffset>
+		<ymp_yOffset>12.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[42] -->This gives us the equilibrium concentrations in terms of x.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>43</ymp_idx>
+		<ymp_xAbsolute>57</ymp_xAbsolute>
+		<ymp_yAbsolute>1757.4</ymp_yAbsolute>
+		<ymp_xOffset>473.5</ymp_xOffset>
+		<ymp_yOffset>35.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[43] -->Our equilibrium expression, K=Q, leads to a quadratic equation that we can solve for the value of x.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>44</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>1797.85</ymp_yAbsolute>
+		<ymp_xOffset>163.4</ymp_xOffset>
+		<ymp_yOffset>107.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[44] -->For K= 1000, we obtain this value of x, which leads to these concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>45</ymp_idx>
+		<ymp_xAbsolute>300.55</ymp_xAbsolute>
+		<ymp_yAbsolute>1796.05</ymp_yAbsolute>
+		<ymp_xOffset>195.6</ymp_xOffset>
+		<ymp_yOffset>112.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[45] -->For K=1/1000, we obtain these values. Since we did not invoke any approximations involving the magnitude of K, we can take these concentrations as being the most accurate. Let's next compare these to the values we obtained above using the minority species approximation.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>46</ymp_idx>
+		<ymp_xAbsolute>161.95</ymp_xAbsolute>
+		<ymp_yAbsolute>1824.9</ymp_yAbsolute>
+		<ymp_xOffset>111.4</ymp_xOffset>
+		<ymp_yOffset>74.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[46] -->For K=1000, the minority species approximation used above led to these values, which differ from the more accurate values by the listed percents.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>47</ymp_idx>
+		<ymp_xAbsolute>442.4</ymp_xAbsolute>
+		<ymp_yAbsolute>1825.4</ymp_yAbsolute>
+		<ymp_xOffset>98.0</ymp_xOffset>
+		<ymp_yOffset>77.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[47] -->For K=1/1000, the minority species approximation used above led to these values, which differ from the more accurate values by the listed percents.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>48</ymp_idx>
+		<ymp_xAbsolute>178.15</ymp_xAbsolute>
+		<ymp_yAbsolute>1885.5</ymp_yAbsolute>
+		<ymp_xOffset>301.0</ymp_xOffset>
+		<ymp_yOffset>10.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[48] -->The percents shown here are the actual error involved in making the minority species approximation. But to obtain these errors, we needed to carry out the full calculation without invoking the minority species approximation. Our 5% rule is an attempt to estimate these errors.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>49</ymp_idx>
+		<ymp_xAbsolute>259.3</ymp_xAbsolute>
+		<ymp_yAbsolute>1843.75</ymp_yAbsolute>
+		<ymp_xOffset>36.1</ymp_xOffset>
+		<ymp_yOffset>13.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[49] -->For K=1000, we found the minority species had a concentration that was 1.5% of the majority species. This is of the same order of magnitude as our actual errors, and so provides a way to estimate the error involved in the minority species approximation without having to carry out the full non-approximate calculation.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>50</ymp_idx>
+		<ymp_xAbsolute>537.5</ymp_xAbsolute>
+		<ymp_yAbsolute>1849.85</ymp_yAbsolute>
+		<ymp_xOffset>29.2</ymp_xOffset>
+		<ymp_yOffset>38.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[50] -->For K=1/1000, the ratio of minority to majority species was quite a bit larger, about 5%. Our actual errors are correspondingly larger, ranging from 4% to 16%.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>51</ymp_idx>
+		<ymp_xAbsolute>210.45</ymp_xAbsolute>
+		<ymp_yAbsolute>1862.5</ymp_yAbsolute>
+		<ymp_xOffset>342.1</ymp_xOffset>
+		<ymp_yOffset>84.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[51] -->As a rule of thumb, we assume that the minority species approximation holds as long as the ratio of minority to majority species is less than 5%. We assume that errors of around 5% in the predicted calculations are tolerable. In some instances, it may be important to know the concentrations to very high accuracy. However, in most situations 5% accuracy is sufficient and so that will be our general criteria for this course. In any case, the ratio of minority and majority species provides a rough estimate of the error involved in invoking the minority species approximation.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

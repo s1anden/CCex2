@@ -1,0 +1,243 @@
+<ymp_presentation>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Quantitative Equilibrium Calculations&lt;br&gt;Shifting starting position to simplify calculations</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>50.5</ymp_xAbsolute>
+		<ymp_yAbsolute>50</ymp_yAbsolute>
+		<ymp_xOffset>506.3</ymp_xOffset>
+		<ymp_yOffset>33.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->In the prior example, the algebra became quite complex. Part of this complexity was due to the initial position of the reaction. That is, our initial concentrations were far from the equilibrium concentrations. A strategy that can often be used to simplify the algebra is to   shift the reaction to a different initial position.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>50.75</ymp_xAbsolute>
+		<ymp_yAbsolute>103.2</ymp_yAbsolute>
+		<ymp_xOffset>517.1</ymp_xOffset>
+		<ymp_yOffset>40.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->Once we know initial concentrations for a chemical reaction, we can use stoichiometry to determine the range of possible states. A convenient state of the system to use for problem solving is when the reaction progresses all the way to completion. We'll use the notation Q=infinity to denote this position, since Q becomes infinite when one of the reactant concentrations goes to zero.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>77.5</ymp_xAbsolute>
+		<ymp_yAbsolute>156.55</ymp_yAbsolute>
+		<ymp_xOffset>339.1</ymp_xOffset>
+		<ymp_yOffset>85.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->To determine the concentrations at Q=infinity, we carry out a limiting reagent computation, as discussed in the Limiting Reagent module.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>62.4</ymp_xAbsolute>
+		<ymp_yAbsolute>256.4</ymp_yAbsolute>
+		<ymp_xOffset>167.8</ymp_xOffset>
+		<ymp_yOffset>84.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->To determine the limiting reagent, we divide each of the reactant concentrations by the corresponding stoichiometric coefficient.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>139.05</ymp_xAbsolute>
+		<ymp_yAbsolute>324.3</ymp_yAbsolute>
+		<ymp_xOffset>86.5</ymp_xOffset>
+		<ymp_yOffset>42.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->The smallest number corresponds to the limiting reagent, in this case L.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>278.75</ymp_xAbsolute>
+		<ymp_yAbsolute>212.2</ymp_yAbsolute>
+		<ymp_xOffset>263.1</ymp_xOffset>
+		<ymp_yOffset>78.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->We next determine the change in all of the concentrations. Since L is the limiting reagent, it is totally consumed, corresponding to a change of -3.0 and a resulting concentration of 0.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>215.2</ymp_xAbsolute>
+		<ymp_yAbsolute>211.75</ymp_yAbsolute>
+		<ymp_xOffset>333.0</ymp_xOffset>
+		<ymp_yOffset>161.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->Since we know the maximal amount of change in concentration for L, we can use the appropriate stoichiometric ratios to determine the change in the other species' concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+	<ymp_idx>8</ymp_idx>
+	<ymp_xAbsolute>55.3</ymp_xAbsolute>
+	<ymp_yAbsolute>390.65</ymp_yAbsolute>
+	<ymp_xOffset>440.3</ymp_xOffset>
+	<ymp_yOffset>137.8</ymp_yOffset>
+	<ymp_tc>00:01</ymp_tc>
+	<ymp_txt><!--[8] -->We now use the Q=infinity position as an initial condition for finding the equilibrium concentrations, i.e. those at which Q=K. Remember, we shifted the reaction to the Q=infinity position so that the Q=K expression would be easier to solve algebraically.</ymp_txt>
+</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>228.85</ymp_xAbsolute>
+		<ymp_yAbsolute>498.05</ymp_yAbsolute>
+		<ymp_xOffset>182.1</ymp_xOffset>
+		<ymp_yOffset>9.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->Since we calculated concentrations when the reaction has progressed completely to the right, we introduce a variable x that captures the extent to which the reaction shifts back towards reactants. The change in product and reactant concentrations have opposite signs, and x is multiplied by the stoichiometric coefficients of each species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>86.6</ymp_xAbsolute>
+		<ymp_yAbsolute>517.6</ymp_yAbsolute>
+		<ymp_xOffset>482.8</ymp_xOffset>
+		<ymp_yOffset>127.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->This leads to resulting concentrations expressed in terms of x, which we can insert into the expression for the reaction quotient, Q. By setting Q equal to K, we obtain an expression that we solve to determine the x that leads to equilibrium concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>74.65</ymp_xAbsolute>
+		<ymp_yAbsolute>683.95</ymp_yAbsolute>
+		<ymp_xOffset>190.4</ymp_xOffset>
+		<ymp_yOffset>170.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->To solve Q=K for x, we first expand the denominator to get a polynomial.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>61.3</ymp_xAbsolute>
+		<ymp_yAbsolute>828.3</ymp_yAbsolute>
+		<ymp_xOffset>231.1</ymp_xOffset>
+		<ymp_yOffset>124.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->We then cross multiply and rearrange terms to get a cubic equation.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>278.7</ymp_xAbsolute>
+		<ymp_yAbsolute>874.85</ymp_yAbsolute>
+		<ymp_xOffset>244.3</ymp_xOffset>
+		<ymp_yOffset>90.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->A cubic polynomial has three roots, meaning there are three values for x that will cause this cubic polynomial to be zero. You can obtain these using a modern calculator. The results are shown here.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>438.85</ymp_xAbsolute>
+		<ymp_yAbsolute>896.2</ymp_yAbsolute>
+		<ymp_xOffset>141.4</ymp_xOffset>
+		<ymp_yOffset>63.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->All chemical systems we will consider have a single unique equilibrium state. We will therefore always find only one root that gives reasonable results, i.e. that leads to all concentrations having positive values. Since our table shows that the resulting [L] = 2x, the solutions that give negative x will lead to negative [L] and so can be rejected. This leaves only the third root, x=0.130.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>52.5</ymp_xAbsolute>
+		<ymp_yAbsolute>994.25</ymp_yAbsolute>
+		<ymp_xOffset>377.8</ymp_xOffset>
+		<ymp_yOffset>109.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->We can put this value for x back into our ICE table to get the equilibrium concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>70.15</ymp_xAbsolute>
+		<ymp_yAbsolute>1136.35</ymp_yAbsolute>
+		<ymp_xOffset>500.1</ymp_xOffset>
+		<ymp_yOffset>98.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->We should always check to confirm that our equilibrium concentrations obey Q=K. Our concentrations pass this test. If they did not, we could go back and check our algebra to find where we went wrong.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>61.7</ymp_xAbsolute>
+		<ymp_yAbsolute>1158.05</ymp_yAbsolute>
+		<ymp_xOffset>491.2</ymp_xOffset>
+		<ymp_yOffset>136.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->These equilibrium concentrations are identical to those we obtained previously. This must be the case, because all we did was start from a different initial position along the progress of reaction continuum. The reaction will reach the same equilibrium position from any point along this progress of reaction continuum. </ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>64.45</ymp_xAbsolute>
+		<ymp_yAbsolute>1376.25</ymp_yAbsolute>
+		<ymp_xOffset>498.9</ymp_xOffset>
+		<ymp_yOffset>139.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->By starting from Q=infinity, instead of the given initial position we were able to simply the algebra. Here is a side-by-side comparison of the ICE tables obtained from each of the two starting points. The Q=infinity starting point leads to simpler algebra because [L] takes a simpler from, (2x) as opposed to (3.0-2x). Since [L] is raised to the second power in the expression for Q, this simplifies the algebraic manipulations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>19</ymp_idx>
+		<ymp_xAbsolute>219.1</ymp_xAbsolute>
+		<ymp_yAbsolute>1518.2</ymp_yAbsolute>
+		<ymp_xOffset>234.8</ymp_xOffset>
+		<ymp_yOffset>27.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[19] -->The simpler form for [L] also made it easier to identify which solutions to x were impossible. Because [L] = 2x, any negative values of x could be immediately rejected. For large or small values of K, much more substantial simplifications can be obtained by moving to alternative initial positions as described on the next page.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

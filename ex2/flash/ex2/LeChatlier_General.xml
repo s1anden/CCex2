@@ -1,0 +1,81 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>&lt;b&gt;LeChatlier's principle&lt;/b&gt;&lt;br&gt;&lt;br&gt;A system in equilibrium that is subjected to a stress will react in&lt;br&gt;a way that tends to counteract the stress.</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>0</ymp_xOffset>
+		<ymp_yOffset>0</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>0</ymp_xOffset>
+		<ymp_yOffset>0</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+		<ymp_txt><!--[1] -->LeChatlier's principle is a general and very powerful framework designed to make predictions about the effects of changes in concentrations, volume, pressure or temperature on chemical systems at equilibrium. Each of these changes is considered a stress, and LeChatelier's principle states that a system at equilibrium will react in a way that tends to  counter the stress.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>63</ymp_xAbsolute>
+		<ymp_yAbsolute>141.75</ymp_yAbsolute>
+		<ymp_xOffset>85.6</ymp_xOffset>
+		<ymp_yOffset>27.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->In the Hemoglobin scenario we saw that blood traveling from the heart is initially at equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>165.25</ymp_xAbsolute>
+		<ymp_yAbsolute>126.9</ymp_yAbsolute>
+		<ymp_xOffset>46.0</ymp_xOffset>
+		<ymp_yOffset>47.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->As the blood enters the lungs, it is exposed to the stress of an increase in oxygen concentration.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>225.2</ymp_xAbsolute>
+		<ymp_yAbsolute>142.3</ymp_yAbsolute>
+		<ymp_xOffset>84.5</ymp_xOffset>
+		<ymp_yOffset>46.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->This causes the system to no longer be at equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>335.75</ymp_xAbsolute>
+		<ymp_yAbsolute>130.2</ymp_yAbsolute>
+		<ymp_xOffset>100.2</ymp_xOffset>
+		<ymp_yOffset>72.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->The reaction then shifts in a direction that decreases the oxygen concentration in the blood, to establish a new equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>448.9</ymp_xAbsolute>
+		<ymp_yAbsolute>139.35</ymp_yAbsolute>
+		<ymp_xOffset>127.1</ymp_xOffset>
+		<ymp_yOffset>28.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->LeChatlier's principle simply states that the chemical reaction shifts in a direction that counters the stress, in this case decreasing the amount of free oxygen to counter the addition of oxygen.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

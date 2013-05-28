@@ -1,0 +1,126 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>&lt;b&gt;Le Chatelier's principle&lt;/b&gt;</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Changing the volume (leads to a change in total pressure)</ymp_title>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>0</ymp_xOffset>
+		<ymp_yOffset>30</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+		<ymp_txt><!--[1] -->How will a change in volume influence a gas phase system at equilibrium? First of all, a volume change will change the total pressure of the system.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>68.15</ymp_xAbsolute>
+		<ymp_yAbsolute>153.55</ymp_yAbsolute>
+		<ymp_xOffset>205.4</ymp_xOffset>
+		<ymp_yOffset>25.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->Consider a reaction in which 2 gas molecules, A and B, react to form a single gas molecule, C.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>376.3</ymp_xAbsolute>
+		<ymp_yAbsolute>148.9</ymp_yAbsolute>
+		<ymp_xOffset>167.8</ymp_xOffset>
+		<ymp_yOffset>44.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->Suppose the system is at equilibrium and we decrease the volume, thereby increasing the pressure.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>392.15</ymp_xAbsolute>
+		<ymp_yAbsolute>202.75</ymp_yAbsolute>
+		<ymp_xOffset>145.8</ymp_xOffset>
+		<ymp_yOffset>10.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->LeChatlier's principal tells us that the system will respond in a way that counters this stress. First we need to consider what happens to the pressure when the reaction shifts in the forward versus reverse direction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>84.6</ymp_xAbsolute>
+		<ymp_yAbsolute>188.85</ymp_yAbsolute>
+		<ymp_xOffset>80.2</ymp_xOffset>
+		<ymp_yOffset>16.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->In this chemical equation we have 2 moles of gas on the reactant side</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>240.7</ymp_xAbsolute>
+		<ymp_yAbsolute>186.7</ymp_yAbsolute>
+		<ymp_xOffset>74.3</ymp_xOffset>
+		<ymp_yOffset>17.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->and one mole of gas on the product side.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>95.45</ymp_xAbsolute>
+		<ymp_yAbsolute>221.5</ymp_yAbsolute>
+		<ymp_xOffset>179.6</ymp_xOffset>
+		<ymp_yOffset>12.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->Pressure is a function of the total number of molecules; more molecules increase the pressure. If the system shifts in the forward direction the total number of gas molecules will decrease and the pressure will go down.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>94.2</ymp_xAbsolute>
+		<ymp_yAbsolute>240.8</ymp_yAbsolute>
+		<ymp_xOffset>179.6</ymp_xOffset>
+		<ymp_yOffset>11.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->Conversely, if the system shifts in the reverse direction, the total number of gas molecules increases and the pressure goes up.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>280.05</ymp_xAbsolute>
+		<ymp_yAbsolute>221.15</ymp_yAbsolute>
+		<ymp_xOffset>207.2</ymp_xOffset>
+		<ymp_yOffset>35.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->Recall that our stress of decreasing the volume causes the pressure to go up, and LeChatlier's principal tells us that the system will respond to counter this stress i.e. it will respond in a way that decreases the pressure, corresponding to a shift of the reaction in the forward direction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>289.05</ymp_xAbsolute>
+		<ymp_yAbsolute>241.75</ymp_yAbsolute>
+		<ymp_xOffset>159.6</ymp_xOffset>
+		<ymp_yOffset>47.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->Our decrease in the volume of the container therefore causes the reaction to shift in the forward direction.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

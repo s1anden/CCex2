@@ -1,0 +1,422 @@
+<ymp_presentation>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Quantitative Equilibrium Calculations&lt;br&gt;Limiting reagents using ICE tables</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>57.2</ymp_xAbsolute>
+		<ymp_yAbsolute>70</ymp_yAbsolute>
+		<ymp_xOffset>169.1</ymp_xOffset>
+		<ymp_yOffset>18.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->In this library entry, we consider a specific case of the following general situation:</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>79.4</ymp_xAbsolute>
+		<ymp_yAbsolute>105.15</ymp_yAbsolute>
+		<ymp_xOffset>107.7</ymp_xOffset>
+		<ymp_yOffset>40.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->We know the intial concentrations of species and possible reactions of some chemical solutions.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>228.9</ymp_xAbsolute>
+		<ymp_yAbsolute>102</ymp_yAbsolute>
+		<ymp_xOffset>263.4</ymp_xOffset>
+		<ymp_yOffset>44.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->Our goal is to determine what the final concentrations of the chemical species will be when these solutions are mixed together.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>55.05</ymp_xAbsolute>
+		<ymp_yAbsolute>185.05</ymp_yAbsolute>
+		<ymp_xOffset>348.2</ymp_xOffset>
+		<ymp_yOffset>13.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->Here we consider the specific case in which we assume the reaction goes to completion. By completion, we mean the reactants react with one another until one species runs out.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>420.1</ymp_xAbsolute>
+		<ymp_yAbsolute>185.05</ymp_yAbsolute>
+		<ymp_xOffset>177.6</ymp_xOffset>
+		<ymp_yOffset>14.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->The species that runs out is called the limiting reagent, and the calculation we will use is called "solving the limiting reagent problem".</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>297.1</ymp_xAbsolute>
+		<ymp_yAbsolute>209.2</ymp_yAbsolute>
+		<ymp_xOffset>172.9</ymp_xOffset>
+		<ymp_yOffset>21.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->Consider the following reaction: an iron ion, Fe+3,  binds to two ligands, L, to form a complex ion, FeL2.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>157.9</ymp_xAbsolute>
+		<ymp_yAbsolute>236.65</ymp_yAbsolute>
+		<ymp_xOffset>290.7</ymp_xOffset>
+		<ymp_yOffset>13.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->Let's assume the initial concentrations are [Fe] = 2M and [L] = 4 M.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>478.1</ymp_xAbsolute>
+		<ymp_yAbsolute>242.4</ymp_yAbsolute>
+		<ymp_xOffset>107.4</ymp_xOffset>
+		<ymp_yOffset>9.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->The units on the quantities in our table are in molarity, M (moles/liter).</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>158.15</ymp_xAbsolute>
+		<ymp_yAbsolute>260.4</ymp_yAbsolute>
+		<ymp_xOffset>301.1</ymp_xOffset>
+		<ymp_yOffset>41.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->In this case, our initial concentrations happened to be in stoichiometric proportion. Initially there was twice as much ligand as iron. When the reaction goes to completion the concentration of Fe+3 decreases by 2 M and the concentration of L decreases by 4 M; producing 2 M of FeL2. In our final solution, we then have just 2 M FeL2.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>74.85</ymp_xAbsolute>
+		<ymp_yAbsolute>306.5</ymp_yAbsolute>
+		<ymp_xOffset>265.4</ymp_xOffset>
+		<ymp_yOffset>104.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->Now suppose we raise the initial concentration of L from 4 M to 5 M.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>76.4</ymp_xAbsolute>
+		<ymp_yAbsolute>421.45</ymp_yAbsolute>
+		<ymp_xOffset>201.8</ymp_xOffset>
+		<ymp_yOffset>35.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->The extra L we have added does not have any Fe+3 to react with. The change in concentrations remains the same as in the previous situation. All of the Fe+3 is consumed, and the amount of FeL2+3 produced is still 2 M. The extra L remains in solution once the reaction has got to completion.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>87.45</ymp_xAbsolute>
+		<ymp_yAbsolute>459.6</ymp_yAbsolute>
+		<ymp_xOffset>207.8</ymp_xOffset>
+		<ymp_yOffset>35.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->The initial amount of Fe limited the extent to which the reactions occurred, so we refer to Fe+3 as the limiting reagent.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>371.8</ymp_xAbsolute>
+		<ymp_yAbsolute>306.4</ymp_yAbsolute>
+		<ymp_xOffset>219.8</ymp_xOffset>
+		<ymp_yOffset>105.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->Now consider the case in which we add extra Fe, such that Fe+3 is 3 M and L is 4 M. In this case, the extra Fe+3 does not have any L to react with.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>374.3</ymp_xAbsolute>
+		<ymp_yAbsolute>412</ymp_yAbsolute>
+		<ymp_xOffset>201.8</ymp_xOffset>
+		<ymp_yOffset>35.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->The change in concentrations remains -2 for Fe, -4 for L, and +2 for FeL2. In our final concentrations, we still produce 2 M FeL2, and the extra 1 M of Fe+3 is left in solution.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>383.55</ymp_xAbsolute>
+		<ymp_yAbsolute>457.35</ymp_yAbsolute>
+		<ymp_xOffset>194.8</ymp_xOffset>
+		<ymp_yOffset>34.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->The initial amount of L limited the extent to which the reactions occurred, so we refer to L as the limiting reagent.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>520.95</ymp_yAbsolute>
+		<ymp_xOffset>520.5</ymp_xOffset>
+		<ymp_yOffset>12.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->Next we'll demonstrate a general approach for handling "limiting reagent problems" that may be different from the way you've used in the past. This approach is much more convenient for the equilibrium calculations we'll be doing later, so we strongly recommend taking the time to learn this strategy.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>72.85</ymp_xAbsolute>
+		<ymp_yAbsolute>553.6</ymp_yAbsolute>
+		<ymp_xOffset>323.4</ymp_xOffset>
+		<ymp_yOffset>14.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->The scheme has two steps. The first step is to determine the limiting reagent.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>250.35</ymp_xAbsolute>
+		<ymp_yAbsolute>575.55</ymp_yAbsolute>
+		<ymp_xOffset>297.8</ymp_xOffset>
+		<ymp_yOffset>43.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->Consider the reaction above, with these initial concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>19</ymp_idx>
+		<ymp_xAbsolute>147.7</ymp_xAbsolute>
+		<ymp_yAbsolute>638.65</ymp_yAbsolute>
+		<ymp_xOffset>156.9</ymp_xOffset>
+		<ymp_yOffset>76.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[19] -->Divide each of the initial concentrations of the reactants by the stoichiometric coefficient of that reactant in the chemical reaction.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>20</ymp_idx>
+		<ymp_xAbsolute>333.15</ymp_xAbsolute>
+		<ymp_yAbsolute>632.9</ymp_yAbsolute>
+		<ymp_xOffset>88.3</ymp_xOffset>
+		<ymp_yOffset>21.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[20] -->For Fe, we take the initial concentration of 3 M and divide the 1, since the stoichiometric coefficient of Fe+3 is 1 in the chemical equation.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>21</ymp_idx>
+		<ymp_xAbsolute>334.6</ymp_xAbsolute>
+		<ymp_yAbsolute>668.3</ymp_yAbsolute>
+		<ymp_xOffset>88.5</ymp_xOffset>
+		<ymp_yOffset>21.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[21] -->For L, we take the initial concentration of 4 M and divide by 2, since the stoichiometric coefficient of L is 2 in the chemical equation.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>22</ymp_idx>
+		<ymp_xAbsolute>466.75</ymp_xAbsolute>
+		<ymp_yAbsolute>640.05</ymp_yAbsolute>
+		<ymp_xOffset>90.1</ymp_xOffset>
+		<ymp_yOffset>54.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[22] -->The reagent that leads to the smaller number is the limiting reagent. In this example, L leads to the smaller number and so L is the limiting reagent.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>23</ymp_idx>
+		<ymp_xAbsolute>322.3</ymp_xAbsolute>
+		<ymp_yAbsolute>650.2</ymp_yAbsolute>
+		<ymp_xOffset>124.2</ymp_xOffset>
+		<ymp_yOffset>82.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[23] -->The division by the stoichiometric coefficients takes into account the fact that the reaction consumes twice as much L and Fe.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+	<ymp_idx>24</ymp_idx>
+	<ymp_xAbsolute>84.65</ymp_xAbsolute>
+	<ymp_yAbsolute>830.8</ymp_yAbsolute>
+	<ymp_xOffset>405.4</ymp_xOffset>
+	<ymp_yOffset>100.3</ymp_yOffset>
+	<ymp_tc>00:01</ymp_tc>
+	<ymp_txt><!--[24] -->In step 1 we found the limiting reagent to be L. In step 2, we use this information to determine the change in concentrations of all of the chemical species.</ymp_txt>
+</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>25</ymp_idx>
+		<ymp_xAbsolute>214.65</ymp_xAbsolute>
+		<ymp_yAbsolute>857.35</ymp_yAbsolute>
+		<ymp_xOffset>317.4</ymp_xOffset>
+		<ymp_yOffset>75.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[25] -->Because L is completely consumed by the reaction, the change in concentration for L is -4 M, giving us a final amount of 0.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>26</ymp_idx>
+		<ymp_xAbsolute>108.9</ymp_xAbsolute>
+		<ymp_yAbsolute>919.35</ymp_yAbsolute>
+		<ymp_xOffset>430.1</ymp_xOffset>
+		<ymp_yOffset>59.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[26] -->Since we know the change in L is -4 M, we can use the stoichiometric coefficients of the reaction to determine the change in concentration of the other species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>27</ymp_idx>
+		<ymp_xAbsolute>96.9</ymp_xAbsolute>
+		<ymp_yAbsolute>898.6</ymp_yAbsolute>
+		<ymp_xOffset>481.0</ymp_xOffset>
+		<ymp_yOffset>116.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[27] -->In this reaction 1 Fe+3 is reacts with 2 Ls. To determine how much Fe+3 is lost when 4M of L is lost, we can multiply by a stoichiometric ratio of 1 (M of Fe+3 is consumed) over 2 (M of L consumed). 4 times 1/2 gives us 2 M of Fe+3 consumed.  We then put these values into the table. The change in Fe+3 is -2 M and the final concentration of Fe+3 is 1 M. </ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>28</ymp_idx>
+		<ymp_xAbsolute>94.6</ymp_xAbsolute>
+		<ymp_yAbsolute>898.75</ymp_yAbsolute>
+		<ymp_xOffset>490.0</ymp_xOffset>
+		<ymp_yOffset>166.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[28] -->To determine the change in [FeL2+3], we again multiply the 4 M of L consumed by a stoichiometric ratio of 1 (M of FeL3+3 is produced) over 2 (M of L consumed). Since the amount of FeL2+3 produced is +2 M, the final concentration of FeL2+3 is 2 M.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+	<ymp_idx>29</ymp_idx>
+	<ymp_xAbsolute>87.3</ymp_xAbsolute>
+	<ymp_yAbsolute>1097.55</ymp_yAbsolute>
+	<ymp_xOffset>366.3</ymp_xOffset>
+	<ymp_yOffset>119.7</ymp_yOffset>
+	<ymp_tc>00:01</ymp_tc>
+	<ymp_txt><!--[29] -->Our next examples uses a simplified notation. Consider this reaction and initial concentrations. I stands for initial concentrations, C stands for the change in concentrations, and F stands for final concentrations.</ymp_txt>
+</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>30</ymp_idx>
+		<ymp_xAbsolute>477.25</ymp_xAbsolute>
+		<ymp_yAbsolute>1121.95</ymp_yAbsolute>
+		<ymp_xOffset>130.2</ymp_xOffset>
+		<ymp_yOffset>133.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[30] -->First, we determine the limiting reagent by dividing the initial concentrations of each of the reactants by the corresponding stoichiometric coefficient.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>31</ymp_idx>
+		<ymp_xAbsolute>536.45</ymp_xAbsolute>
+		<ymp_yAbsolute>1250.1</ymp_yAbsolute>
+		<ymp_xOffset>37.5</ymp_xOffset>
+		<ymp_yOffset>20.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[31] -->Because A is the reactant that leads to the lowest value, A is the limiting reagent.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>32</ymp_idx>
+		<ymp_xAbsolute>280.65</ymp_xAbsolute>
+		<ymp_yAbsolute>1183.25</ymp_yAbsolute>
+		<ymp_xOffset>48.3</ymp_xOffset>
+		<ymp_yOffset>32.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[32] -->Since A is the limiting reagent, it is completely consumed by the reaction. Since all 2.35 M are removed by the reaction, the final concentration is 0 M.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>33</ymp_idx>
+		<ymp_xAbsolute>98</ymp_xAbsolute>
+		<ymp_yAbsolute>1180.1</ymp_yAbsolute>
+		<ymp_xOffset>337.2</ymp_xOffset>
+		<ymp_yOffset>204.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[33] -->Since we know the change in A is 2.35 M, we can determine the change in the other species by multiplying by the appropriate stoichiometric ratios. Once we know the amount of change, we can subtract (the reactants) or add (products) to determine the final concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+
+		<ymp_idx>34</ymp_idx>
+		<ymp_xAbsolute>89.25</ymp_xAbsolute>
+		<ymp_yAbsolute>1282.4</ymp_yAbsolute>
+		<ymp_xOffset>502.1</ymp_xOffset>
+		<ymp_yOffset>152.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[34] -->Since we use these calculations frequently, this shorthand notation is convenient. The non-shorthand version of the Fe+3 calculation is shown here. The shorthand notation includes only the name of the chemical species and omits the units (M) and the produced/consumed label.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

@@ -1,0 +1,607 @@
+<ymp_presentation>
+
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>40</ymp_yAbsolute>
+		<ymp_xOffset>157.0</ymp_xOffset>
+		<ymp_yOffset>112.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->In the previous module, the concentrations of the species were given, but what if you needed to calculate those on your own? We're going to use two different techniques: (1) the typical ICE (Initial, Change, Equilibrium) method and (2) the minority species approximation approach.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>254.95</ymp_xAbsolute>
+		<ymp_yAbsolute>70</ymp_yAbsolute>
+		<ymp_xOffset>152.6</ymp_xOffset>
+		<ymp_yOffset>19.9</ymp_yOffset>
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[2] -->Hemoglobin (Hb) reacts with four oxygen molecules (O2) to form a complex molecule in which the oxygens are bound to the Hemoglobin.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>294.2</ymp_xAbsolute>
+		<ymp_yAbsolute>112.25</ymp_yAbsolute>
+		<ymp_xOffset>101.6</ymp_xOffset>
+		<ymp_yOffset>40.5</ymp_yOffset>
+		<ymp_tc>00:03</ymp_tc>
+		<ymp_txt><!--[3] -->We can write Q for this reaction in this form.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>305.95</ymp_xAbsolute>
+		<ymp_yAbsolute>106.9</ymp_yAbsolute>
+		<ymp_xOffset>181.8</ymp_xOffset>
+		<ymp_yOffset>38.6</ymp_yOffset>
+		<ymp_tc>00:04</ymp_tc>
+		<ymp_txt><!--[4] -->As in the previous scenario, we will adopt a convention in which the units for the Hemoglobin concentrations are M (or mol/liter) while the unit for the oxygen concentration is torr (or mm Hg). These are the standard units used in physiological studies of this reaction.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>440</ymp_xAbsolute>
+		<ymp_yAbsolute>67</ymp_yAbsolute>
+		<ymp_xOffset>100.5</ymp_xOffset>
+		<ymp_yOffset>19.2</ymp_yOffset>
+		<ymp_tc>00:05</ymp_tc>
+		<ymp_txt><!--[5] -->When concentrations are given in these units, the equilibrium constant has the value 2.4x10^-6.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>214.7</ymp_xAbsolute>
+		<ymp_yAbsolute>172.5</ymp_yAbsolute>
+		<ymp_xOffset>318.9</ymp_xOffset>
+		<ymp_yOffset>23.9</ymp_yOffset>
+		<ymp_tc>00:06</ymp_tc>
+		<ymp_txt><!--[6] -->A healthy adult has a total concentration of Hemoglobin of about 240 microMolar.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>409.6</ymp_xAbsolute>
+		<ymp_yAbsolute>192.45</ymp_yAbsolute>
+		<ymp_xOffset>121.5</ymp_xOffset>
+		<ymp_yOffset>22.9</ymp_yOffset>
+		<ymp_tc>00:07</ymp_tc>
+		<ymp_txt><!--[7] -->One MicroMolar corresponds to 10^-6 M.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>69</ymp_xAbsolute>
+		<ymp_yAbsolute>100</ymp_yAbsolute>
+		<ymp_xOffset>118.1</ymp_xOffset>
+		<ymp_yOffset>32.2</ymp_yOffset>
+		<ymp_tc>00:08</ymp_tc>
+		<ymp_txt><!--[8] -->We will calculate the concentrations of species in the blood system at two different points along the circulatory path: (1) when the blood is in the lungs, and (2) when the blood is in the muscles.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+	<ymp_idx>9</ymp_idx>
+	<ymp_xAbsolute>53.2</ymp_xAbsolute>
+	<ymp_yAbsolute>218.85</ymp_yAbsolute>
+	<ymp_xOffset>175.8</ymp_xOffset>
+	<ymp_yOffset>13.9</ymp_yOffset>
+	<ymp_tc>00:09</ymp_tc>
+	<ymp_txt><!--[9] -->We'll start by using the typical ICE (Initial, Change, Equilibrium) method for calculating the concentrations of species at equilibrium. First, what are the concentrations of the chemical species when the blood is in the lungs? </ymp_txt>
+</ymp_slice>
+
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>62.45</ymp_xAbsolute>
+		<ymp_yAbsolute>237.65</ymp_yAbsolute>
+		<ymp_xOffset>284.0</ymp_xOffset>
+		<ymp_yOffset>74.0</ymp_yOffset>
+		<ymp_tc>00:10</ymp_tc>
+		<ymp_txt><!--[10] -->For initial conditions, we will assume that none of the hemoglobin is bound to oxygen. The entire 240 micromolar of Hemoglobin is then in the form Hb.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>191.45</ymp_xAbsolute>
+		<ymp_yAbsolute>261.95</ymp_yAbsolute>
+		<ymp_xOffset>108.2</ymp_xOffset>
+		<ymp_yOffset>50.3</ymp_yOffset>
+		<ymp_tc>00:11</ymp_tc>
+		<ymp_txt><!--[11] -->The partial pressure of oxygen in fresh air is 100 torr. We will assume that the person is breathing sufficiently rapidly that their lungs remain full of fresh air. So, even though the blood is absorbing oxygen from the air, the oxygen pressure in the lungs remains at 100 torr.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>85.95</ymp_xAbsolute>
+		<ymp_yAbsolute>280.45</ymp_yAbsolute>
+		<ymp_xOffset>246.1</ymp_xOffset>
+		<ymp_yOffset>32.5</ymp_yOffset>
+		<ymp_tc>00:12</ymp_tc>
+		<ymp_txt><!--[12] -->To determine how much the concentrations change as the reaction reaches equilibrium, we will introduce a variable x to capture the progress of reaction. Since 1Hb must react for each HbO24 formed, we can write the equilibrium calculations in terms of x as shown here. </ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>419.15</ymp_xAbsolute>
+		<ymp_yAbsolute>229.55</ymp_yAbsolute>
+		<ymp_xOffset>96.3</ymp_xOffset>
+		<ymp_yOffset>39.2</ymp_yOffset>
+		<ymp_tc>00:13</ymp_tc>
+		<ymp_txt><!--[13] -->Since we know that K = Q at equilibrium, we can use this relationship to determine the value of x. For this reaction, K = Q has this form.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>368.1</ymp_xAbsolute>
+		<ymp_yAbsolute>281.4</ymp_yAbsolute>
+		<ymp_xOffset>191.1</ymp_xOffset>
+		<ymp_yOffset>33.0</ymp_yOffset>
+		<ymp_tc>00:14</ymp_tc>
+		<ymp_txt><!--[14] -->We know the value of K, given above, and the concentrations from the equilibrium line of our table.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>427.1</ymp_xAbsolute>
+		<ymp_yAbsolute>308.7</ymp_yAbsolute>
+		<ymp_xOffset>133.8</ymp_xOffset>
+		<ymp_yOffset>41.8</ymp_yOffset>
+		<ymp_tc>00:15</ymp_tc>
+		<ymp_txt><!--[15] -->Solving this for x gives this value.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>60.6</ymp_xAbsolute>
+		<ymp_yAbsolute>312.35</ymp_yAbsolute>
+		<ymp_xOffset>359.2</ymp_xOffset>
+		<ymp_yOffset>81.9</ymp_yOffset>
+		<ymp_tc>00:16</ymp_tc>
+		<ymp_txt><!--[16] -->We can now put this value for x back into our equilibrium concentrations, leading to these concentrations for each species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+	<ymp_idx>17</ymp_idx>
+	<ymp_xAbsolute>59.8</ymp_xAbsolute>
+	<ymp_yAbsolute>410.95</ymp_yAbsolute>
+	<ymp_xOffset>333.8</ymp_xOffset>
+	<ymp_yOffset>11.8</ymp_yOffset>
+	<ymp_tc>00:17</ymp_tc>
+	<ymp_txt><!--[17] -->The ICE calculations we just completed did not make any assumptions regarding the reaction conditions or the magnitude of the equilibrium constant K. Instead, it relied on algebra, rather than chemical concepts, to solve the problem. However, an easier way of solving this type of problem uses what's called the minority species approximation to simplify the calculation. This involves a two-step procedure.</ymp_txt>
+</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>71.3</ymp_xAbsolute>
+		<ymp_yAbsolute>435.45</ymp_yAbsolute>
+		<ymp_xOffset>480.6</ymp_xOffset>
+		<ymp_yOffset>18.2</ymp_yOffset>
+		<ymp_tc>00:18</ymp_tc>
+		<ymp_txt><!--[18] -->Step 1 is to determine the majority species - the ones present in large amounts when the system reaches equilibrium. Since the supply of oxygen is unlimited (the person is constantly breathing), oxygen is a majority species. Because there is so much oxygen around, nearly all the Hb in the lungs will react to form the bound Hb(O2)4 molecule. </ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>19</ymp_idx>
+		<ymp_xAbsolute>74.3</ymp_xAbsolute>
+		<ymp_yAbsolute>432.4</ymp_yAbsolute>
+		<ymp_xOffset>428.1</ymp_xOffset>
+		<ymp_yOffset>80.9</ymp_yOffset>
+		<ymp_tc>00:19</ymp_tc>
+		<ymp_txt><!--[19] -->So, at equilibrium the system will progress almost completely to the right - toward products - as if the value of K = infinity. Since the concentrations of the majority species at equilibrium will be approximately equal to the concentrations if the forward reaction went to completion, we can use a limiting reagent calculation to determine the concentrations of O2 and Hb(O2)4.</ymp_txt>
+		</ymp_slice>
+
+		<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>51</ymp_idx>
+		<ymp_xAbsolute>49</ymp_xAbsolute>
+		<ymp_yAbsolute>450.4</ymp_yAbsolute>
+		<ymp_xOffset>428.1</ymp_xOffset>
+		<ymp_yOffset>80.9</ymp_yOffset>
+		<ymp_tc>00:19</ymp_tc>
+		<ymp_txt><!--[51] -->Assuming K = infinity, the reaction will progess towards product until one of the reactants runs out. A limiting reagent calculation lets us calculate the concentration of the minority species. As stated above, the person is breathing sufficiently rapidly that the oxygen pressure remains at 100 torr. Hb must then be the limiting reagent, and the reaction proceeds towards product until the Hb runs out. </ymp_txt>
+		</ymp_slice>
+			
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>20</ymp_idx>
+		<ymp_xAbsolute>94</ymp_xAbsolute>
+		<ymp_yAbsolute>521.2</ymp_yAbsolute>
+		<ymp_xOffset>294.6</ymp_xOffset>
+		<ymp_yOffset>19.6</ymp_yOffset>
+		<ymp_tc>00:20</ymp_tc>
+		<ymp_txt><!--[20] -->Since Hb is the limiting reagent, it is totally consumed by the reaction and so the changes are as given here.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>21</ymp_idx>
+		<ymp_xAbsolute>132</ymp_xAbsolute>
+		<ymp_yAbsolute>546</ymp_yAbsolute>
+		<ymp_xOffset>311.0</ymp_xOffset>
+		<ymp_yOffset>16.3</ymp_yOffset>
+		<ymp_tc>00:21</ymp_tc>
+		<ymp_txt><!--[21] -->This leads to these final concentrations, labeled here as K = infinity, to indicate that we have assumed an infinite K.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>22</ymp_idx>
+		<ymp_xAbsolute>229.05</ymp_xAbsolute>
+		<ymp_yAbsolute>563.6</ymp_yAbsolute>
+		<ymp_xOffset>168.6</ymp_xOffset>
+		<ymp_yOffset>63.5</ymp_yOffset>
+		<ymp_tc>00:22</ymp_tc>
+		<ymp_txt><!--[22] -->Our majority species, Hb(O2)4 and O2, have nonzero concentrations when K = infinity, and we now know their concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>23</ymp_idx>
+		<ymp_xAbsolute>60</ymp_xAbsolute>
+		<ymp_yAbsolute>567</ymp_yAbsolute>
+		<ymp_xOffset>148.4</ymp_xOffset>
+		<ymp_yOffset>54.4</ymp_yOffset>
+		<ymp_tc>00:23</ymp_tc>
+		<ymp_txt><!--[23] -->When K = infinity, the limiting reagent is completely consumed and has zero concentration. However, in equilibrium systems, both the forward and reverse reactions are constantly occuring, so the limiting reagent will never have a value of zero. Thus the concentration of the limiting reagent will be very small, i.e. nearly zero, and this is a minority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+	<ymp_idx>24</ymp_idx>
+	<ymp_xAbsolute>63.1</ymp_xAbsolute>
+	<ymp_yAbsolute>648.45</ymp_yAbsolute>
+	<ymp_xOffset>402.4</ymp_xOffset>
+	<ymp_yOffset>12.2</ymp_yOffset>
+	<ymp_tc>00:24</ymp_tc>
+	<ymp_txt><!--[24] -->In step 2, we use the equilibrium expression K = Q to determine the concentration of the minority species.</ymp_txt>
+</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>25</ymp_idx>
+		<ymp_xAbsolute>84.95</ymp_xAbsolute>
+		<ymp_yAbsolute>673.15</ymp_yAbsolute>
+		<ymp_xOffset>194.6</ymp_xOffset>
+		<ymp_yOffset>39.2</ymp_yOffset>
+		<ymp_tc>00:25</ymp_tc>
+		<ymp_txt><!--[25] -->For this reaction, K = Q takes this form.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>26</ymp_idx>
+		<ymp_xAbsolute>287.1</ymp_xAbsolute>
+		<ymp_yAbsolute>675.2</ymp_yAbsolute>
+		<ymp_xOffset>92.6</ymp_xOffset>
+		<ymp_yOffset>37.9</ymp_yOffset>
+		<ymp_tc>00:26</ymp_tc>
+		<ymp_txt><!--[26] -->Since the equilibrium concentrations of the majority species are nearly equal to the concentrations when the reaction goes to completion, we can use the values we derived above to put into our equilibrium expression.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>27</ymp_idx>
+		<ymp_xAbsolute>398.4</ymp_xAbsolute>
+		<ymp_yAbsolute>681.7</ymp_yAbsolute>
+		<ymp_xOffset>139.8</ymp_xOffset>
+		<ymp_yOffset>19.4</ymp_yOffset>
+		<ymp_tc>00:27</ymp_tc>
+		<ymp_txt><!--[27] -->We can then solve for the concentration of the minority species, Hb.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>28</ymp_idx>
+		<ymp_xAbsolute>109.15</ymp_xAbsolute>
+		<ymp_yAbsolute>735.95</ymp_yAbsolute>
+		<ymp_xOffset>242.1</ymp_xOffset>
+		<ymp_yOffset>64.8</ymp_yOffset>
+		<ymp_tc>00:28</ymp_tc>
+		<ymp_txt><!--[28] -->We now know the concentrations of both the majority and minority species. Our final step is to check our minority species assumption - our approximation is only valid if the concentration of the minority species is less than 5% that of the majority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>29</ymp_idx>
+		<ymp_xAbsolute>309</ymp_xAbsolute>
+		<ymp_yAbsolute>778.85</ymp_yAbsolute>
+		<ymp_xOffset>222.7</ymp_xOffset>
+		<ymp_yOffset>31.0</ymp_yOffset>
+		<ymp_tc>00:29</ymp_tc>
+		<ymp_txt><!--[29] -->The ratio between the minority and majority species is much less than 5%, so the minority species approximation holds. Comparison of the results obtained here to those obtained above without making the minority species approximation confirms that the approximation is a good one. The results are identical except for the majority species, Hb(O2)4, having a concentration of 239 vs. 240 micromolar, a 0.4% difference.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+	<ymp_idx>30</ymp_idx>
+	<ymp_xAbsolute>50</ymp_xAbsolute>
+	<ymp_yAbsolute>817</ymp_yAbsolute>
+	<ymp_xOffset>201.5</ymp_xOffset>
+	<ymp_yOffset>15.2</ymp_yOffset>
+	<ymp_tc>00:30</ymp_tc>
+	<ymp_txt><!--[30] -->Next we'll use both methods to calculate the concentrations of the chemical species when the blood is in the muscles.</ymp_txt>
+</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>31</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>846.7</ymp_yAbsolute>
+		<ymp_xOffset>284.0</ymp_xOffset>
+		<ymp_yOffset>35.1</ymp_yOffset>
+		<ymp_tc>00:31</ymp_tc>
+		<ymp_txt><!--[31] -->For initial conditions, we will assume that none of the hemoglobin is bound to oxygen and that the entire 240 micromolar of Hemoglobin is in the form Hb.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>32</ymp_idx>
+		<ymp_xAbsolute>192.75</ymp_xAbsolute>
+		<ymp_yAbsolute>868.5</ymp_yAbsolute>
+		<ymp_xOffset>99.5</ymp_xOffset>
+		<ymp_yOffset>53.1</ymp_yOffset>
+		<ymp_tc>00:32</ymp_tc>
+		<ymp_txt><!--[32] -->The muscles are continuously consuming oxygen, and we will assume that the partial pressure of oxygen in the muscles remains constant at 5 torr.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>33</ymp_idx>
+		<ymp_xAbsolute>51.8</ymp_xAbsolute>
+		<ymp_yAbsolute>889.15</ymp_yAbsolute>
+		<ymp_xOffset>266.5</ymp_xOffset>
+		<ymp_yOffset>32.5</ymp_yOffset>
+		<ymp_tc>00:33</ymp_tc>
+		<ymp_txt><!--[33] -->Using the classic algebraic ICE method, we introduce a variable x to capture the progress of reaction as we did earlier. This allows us to write the equilibrium concentrations in terms of x as shown here.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>34</ymp_idx>
+		<ymp_xAbsolute>354.7</ymp_xAbsolute>
+		<ymp_yAbsolute>838.55</ymp_yAbsolute>
+		<ymp_xOffset>191.1</ymp_xOffset>
+		<ymp_yOffset>84.5</ymp_yOffset>
+		<ymp_tc>00:34</ymp_tc>
+		<ymp_txt><!--[34] -->We next use K = Q at equilibrium to determine the value of x.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>35</ymp_idx>
+		<ymp_xAbsolute>413.7</ymp_xAbsolute>
+		<ymp_yAbsolute>917.75</ymp_yAbsolute>
+		<ymp_xOffset>100.5</ymp_xOffset>
+		<ymp_yOffset>44.1</ymp_yOffset>
+		<ymp_tc>00:35</ymp_tc>
+		<ymp_txt><!--[35] -->Solving this for x gives this value.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>36</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>922.4</ymp_yAbsolute>
+		<ymp_xOffset>360.4</ymp_xOffset>
+		<ymp_yOffset>81.3</ymp_yOffset>
+		<ymp_tc>00:36</ymp_tc>
+		<ymp_txt><!--[36] -->We can now put this value for x back into our equilibrium concentrations, leading to these results.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+	<ymp_idx>37</ymp_idx>
+	<ymp_xAbsolute>50</ymp_xAbsolute>
+	<ymp_yAbsolute>1026.45</ymp_yAbsolute>
+	<ymp_xOffset>333.9</ymp_xOffset>
+	<ymp_yOffset>11.8</ymp_yOffset>
+	<ymp_tc>00:37</ymp_tc>
+	<ymp_txt><!--[37] -->The above calculations did not make any assumptions regarding the concentration of species or the magnitude of the equilibrium constant K. We will next redo this calculation invoking the minority species approximation to simplify the calculation. Again, this involves a two-step procedure.</ymp_txt>
+</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>38</ymp_idx>
+		<ymp_xAbsolute>59.55</ymp_xAbsolute>
+		<ymp_yAbsolute>1055.35</ymp_yAbsolute>
+		<ymp_xOffset>480.8</ymp_xOffset>
+		<ymp_yOffset>18.2</ymp_yOffset>
+		<ymp_tc>00:38</ymp_tc>
+		<ymp_txt><!--[38] -->Step 1 is to determine the majority species. In the muscles, the concentration of oxygen is very low, so the reverse reaction will progress until the equilibrium lies far to the reactant side. To determine the majority species, we make the assumption that the reverse reaction progresses completely to the right, which can be done by assuming K is zero.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>39</ymp_idx>
+		<ymp_xAbsolute>61.9</ymp_xAbsolute>
+		<ymp_yAbsolute>1082</ymp_yAbsolute>
+		<ymp_xOffset>444.8</ymp_xOffset>
+		<ymp_yOffset>85.7</ymp_yOffset>
+		<ymp_tc>00:39</ymp_tc>
+		<ymp_txt><!--[39] -->When K = 0, the reaction will progress towards reactants until one of the products runs out. Since there is only one product, Hb(O2)4, it must be the limiting reagent.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>40</ymp_idx>
+		<ymp_xAbsolute>66</ymp_xAbsolute>
+		<ymp_yAbsolute>1129.8</ymp_yAbsolute>
+		<ymp_xOffset>269.2</ymp_xOffset>
+		<ymp_yOffset>13.6</ymp_yOffset>
+		<ymp_tc>00:40</ymp_tc>
+		<ymp_txt><!--[40] -->In our initial concentrations, the product is already at zero concentration, so there is no change in the concentration. Note also that, as above, the muscles keep the oxygen pressure at 5 torr.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>41</ymp_idx>
+		<ymp_xAbsolute>48</ymp_xAbsolute>
+		<ymp_yAbsolute>1150.3</ymp_yAbsolute>
+		<ymp_xOffset>286.9</ymp_xOffset>
+		<ymp_yOffset>18.0</ymp_yOffset>
+		<ymp_tc>00:41</ymp_tc>
+		<ymp_txt><!--[41] -->This leads to these final concentrations, labeled here as K= 0, to indicate that we have assumed a zero value for K.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>42</ymp_idx>
+		<ymp_xAbsolute>70.15</ymp_xAbsolute>
+		<ymp_yAbsolute>1168.7</ymp_yAbsolute>
+		<ymp_xOffset>161.8</ymp_xOffset>
+		<ymp_yOffset>51.1</ymp_yOffset>
+		<ymp_tc>00:42</ymp_tc>
+		<ymp_txt><!--[42] -->Those species that have nonzero concentrations when K = 0 are majority species, and we now know their concentrations.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>43</ymp_idx>
+		<ymp_xAbsolute>280.85</ymp_xAbsolute>
+		<ymp_yAbsolute>1165.7</ymp_yAbsolute>
+		<ymp_xOffset>148.6</ymp_xOffset>
+		<ymp_yOffset>51.2</ymp_yOffset>
+		<ymp_tc>00:43</ymp_tc>
+		<ymp_txt><!--[43] -->When K = 0, the limiting reagent is completely consumed and has zero concentration. Since both reactions are constantly occurring, K will be very small but not zero. So the concentration of the minority species is nearly zero.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>44</ymp_idx>
+		<ymp_xAbsolute>50.4</ymp_xAbsolute>
+		<ymp_yAbsolute>1249.2</ymp_yAbsolute>
+		<ymp_xOffset>402.5</ymp_xOffset>
+		<ymp_yOffset>12.2</ymp_yOffset>
+		<ymp_tc>00:44</ymp_tc>
+		<ymp_txt><!--[44] -->Since we know the minority species is not exactly zero, in step 2, we use the equilibrium expression K = Q to determine the concentration of the minority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>46</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>1273.95</ymp_yAbsolute>
+		<ymp_xOffset>194.7</ymp_xOffset>
+		<ymp_yOffset>39.2</ymp_yOffset>
+		<ymp_tc>00:45</ymp_tc>
+		<ymp_txt><!--[45] -->For this reaction, K = Q takes this form.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>45</ymp_idx>
+		<ymp_xAbsolute>283.05</ymp_xAbsolute>
+		<ymp_yAbsolute>1273.9</ymp_yAbsolute>
+		<ymp_xOffset>100.0</ymp_xOffset>
+		<ymp_yOffset>36.4</ymp_yOffset>
+		<ymp_tc>00:46</ymp_tc>
+		<ymp_txt><!--[46] -->We know the concentrations of the majority species when the reverse reaction goes to completion are approximately equal to equilibrium concentrations, so we can put those into our equilibrium expression.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>47</ymp_idx>
+		<ymp_xAbsolute>426.7</ymp_xAbsolute>
+		<ymp_yAbsolute>1277.6</ymp_yAbsolute>
+		<ymp_xOffset>169.8</ymp_xOffset>
+		<ymp_yOffset>19.6</ymp_yOffset>
+		<ymp_tc>00:47</ymp_tc>
+		<ymp_txt><!--[47] -->We can then solve for the concentration of the minority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>48</ymp_idx>
+		<ymp_xAbsolute>66.6</ymp_xAbsolute>
+		<ymp_yAbsolute>1327.5</ymp_yAbsolute>
+		<ymp_xOffset>252.2</ymp_xOffset>
+		<ymp_yOffset>64.8</ymp_yOffset>
+		<ymp_tc>00:48</ymp_tc>
+		<ymp_txt><!--[48] -->We now know the concentrations of both the majority and minority species. Our final step is to check our minority species assumption. To do this, we check to make sure that the concentration of the minority species is less than 5% that of the majority species.</ymp_txt>
+	</ymp_slice>
+	
+	<ymp_slice>
+			<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+
+		<ymp_idx>49</ymp_idx>
+		<ymp_xAbsolute>286.65</ymp_xAbsolute>
+		<ymp_yAbsolute>1366.4</ymp_yAbsolute>
+		<ymp_xOffset>222.7</ymp_xOffset>
+		<ymp_yOffset>34.3</ymp_yOffset>
+		<ymp_tc>00:49</ymp_tc>
+		<ymp_txt><!--[49] -->The ratio between the minority and majority species is much less than 5%, so the minority species approximation holds. Comparison of the results obtained here to those obtained above without making the minority species approximation confirms that the approximation is a good one. The results are identical.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

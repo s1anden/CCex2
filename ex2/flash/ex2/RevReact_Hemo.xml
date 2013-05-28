@@ -1,0 +1,244 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Hemoglobin scenario from the Q vs K perspective</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>40</ymp_yAbsolute>
+		<ymp_xOffset>174.3</ymp_xOffset>
+		<ymp_yOffset>125.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->Now, we will apply what we've discussed in the previous modules to the Hemoglobin example we started with and do some calculations involving the transport of oxygen from the lungs to the muscles. But this time, we'll compare the current state of the reaction, Q, to the equilibrium state of the reaction, which occurs when Q becomes equal to the equilibrium constant, K. This will allow us to understand how a system reaches chemical equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>263.3</ymp_xAbsolute>
+		<ymp_yAbsolute>70.35</ymp_yAbsolute>
+		<ymp_xOffset>169.6</ymp_xOffset>
+		<ymp_yOffset>22.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->The chemical reaction of interest here is the reaction in which a free Hemoglobin (Hb) binds to four oxygen molecules (O2) to form a bound Hemoglobin:Oxygen complex.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>285.25</ymp_xAbsolute>
+		<ymp_yAbsolute>116.1</ymp_yAbsolute>
+		<ymp_xOffset>112.9</ymp_xOffset>
+		<ymp_yOffset>44.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->It is useful to consider the reaction quotient, Q, which has the mathematical form shown above. Q tells us the progress of the reaction. In other words, it tells us how much of the Hemoglobin is currently bound to oxygen versus hemoglobin that is unbound, or free. Q is the ratio of the concentrations of products/reactants raised to the stoichiometric coefficient. Q for this reaction would be written in this form. Note that the oxygen concentration gets raised to the fourth power because there are 4 oxygen gas molecules in the chemical equation.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>296.65</ymp_xAbsolute>
+		<ymp_yAbsolute>111.4</ymp_yAbsolute>
+		<ymp_xOffset>201.9</ymp_xOffset>
+		<ymp_yOffset>43.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->We will adopt a convention in which the units for both the free and bound Hemoglobin concentrations are mol/L, or M,  while the oxygen concentration is given in pressure units of torr (or mm Hg). These are the standard units used in physiological studies of this reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>457.65</ymp_xAbsolute>
+		<ymp_yAbsolute>69</ymp_yAbsolute>
+		<ymp_xOffset>111.7</ymp_xOffset>
+		<ymp_yOffset>21.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->For these concentration units, the equilibirum constant, K, has this value. The equilibrium constant depends only on the chemical reaction and the temperature.  </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>251.9</ymp_xAbsolute>
+		<ymp_yAbsolute>184.25</ymp_yAbsolute>
+		<ymp_xOffset>354.2</ymp_xOffset>
+		<ymp_yOffset>26.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->In a healthy adult the total concentration of Hemoglobin - meaning the sum of the bound and free hemoglobin - is about 240 microMolar. By comparing Q to K, we can determine whether a system is at equilibrium and also make predictions about the concentrations of species when the system is at equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>477</ymp_xAbsolute>
+		<ymp_yAbsolute>210</ymp_yAbsolute>
+		<ymp_xOffset>135.0</ymp_xOffset>
+		<ymp_yOffset>25.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->One MicroMolar corresponds to 10^-6 M.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>71</ymp_xAbsolute>
+		<ymp_yAbsolute>103.1</ymp_yAbsolute>
+		<ymp_xOffset>130.3</ymp_xOffset>
+		<ymp_yOffset>95.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->We will consider the blood system at four different points along its circulatory path: (1) when the blood leaves the lungs, (2) when the blood enters the muscles, (3) when the blood leaves the muscles, and (4) when the blood enters the lungs again. At each of these points we will compare the reaction quotient, Q, to the equilibrium constant, K, to determine which way the equilibrium is going to shift.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>49.55</ymp_xAbsolute>
+		<ymp_yAbsolute>235.85</ymp_yAbsolute>
+		<ymp_xOffset>246.8</ymp_xOffset>
+		<ymp_yOffset>89.7</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->Consider first the state of the blood when it leaves the lungs. The concentrations of the relevant chemical species are given here.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>237.35</ymp_xAbsolute>
+		<ymp_yAbsolute>262.85</ymp_yAbsolute>
+		<ymp_xOffset>336.4</ymp_xOffset>
+		<ymp_yOffset>42.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->Given these concentrations, we can calculate the reaction quotient, Q, and obtain this value.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>141.5</ymp_xAbsolute>
+		<ymp_yAbsolute>312.9</ymp_yAbsolute>
+		<ymp_xOffset>244.9</ymp_xOffset>
+		<ymp_yOffset>51.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->A comparison of Q to K shows that Q = K, so the system is in chemical equilibrium. This is expected since the blood has flowed through the lungs and so has had time to reach equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>51.25</ymp_xAbsolute>
+		<ymp_yAbsolute>397.5</ymp_yAbsolute>
+		<ymp_xOffset>300.6</ymp_xOffset>
+		<ymp_yOffset>92.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->When the blood enters the muscles, the concentration of oxygen drops from the 100 torr of the lungs to 5 torr. This is because the muscle tissue consumes oxygen and lowers the oxygen concentration.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>246.85</ymp_xAbsolute>
+		<ymp_yAbsolute>423.9</ymp_yAbsolute>
+		<ymp_xOffset>302.3</ymp_xOffset>
+		<ymp_yOffset>42.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->These concentrations lead to this value for Q. Comparison with the above shows that Q increased when the blood entered the lungs.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>69.85</ymp_xAbsolute>
+		<ymp_yAbsolute>471.65</ymp_yAbsolute>
+		<ymp_xOffset>302.9</ymp_xOffset>
+		<ymp_yOffset>49.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->Q is now greater than K and so the reaction must shift towards reactants (towards the left) to lower the value of Q. NOTE: When Q is not equal to K, the reaction will shift in the direction that causes Q to approach K. Since Q has the products in the numerator and the reactants in the denominator, to decrease Q, the reaction must shift towards reactants.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>242.4</ymp_xAbsolute>
+		<ymp_yAbsolute>515.9</ymp_yAbsolute>
+		<ymp_xOffset>344.4</ymp_xOffset>
+		<ymp_yOffset>34.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->As the reaction shifts towards reactants (to the left), oxygen is released into the muscle tissues.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>57.6</ymp_xAbsolute>
+		<ymp_yAbsolute>577.6</ymp_yAbsolute>
+		<ymp_xOffset>276.2</ymp_xOffset>
+		<ymp_yOffset>91.3</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->The blood then flows through the muscles. As the blood leaves the muscles, the concentrations of the chemical species are as shown here. The shift of the reaction towards reactants has decreased the concentration of bound Hemoglobin (Hb that is carrying oxygen) and increased the concentration of free Hemoglobin.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>99.6</ymp_xAbsolute>
+		<ymp_yAbsolute>601.7</ymp_yAbsolute>
+		<ymp_xOffset>483.2</ymp_xOffset>
+		<ymp_yOffset>99.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->Given these concentrations, we can again calculate Q. The results show again that Q = K, so the system is in equilibrium. This is expected because the blood has moved through the muscles and so has had time to reach equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>57.75</ymp_xAbsolute>
+		<ymp_yAbsolute>732.55</ymp_yAbsolute>
+		<ymp_xOffset>278.4</ymp_xOffset>
+		<ymp_yOffset>91.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->The blood then flows back to the lungs. Upon entering the lungs, the concentration of oxygen increases back to 100 torr.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>19</ymp_idx>
+		<ymp_xAbsolute>78.55</ymp_xAbsolute>
+		<ymp_yAbsolute>755.75</ymp_yAbsolute>
+		<ymp_xOffset>516.4</ymp_xOffset>
+		<ymp_yOffset>98.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[19] -->This increase in oxygen concentration decreases Q, such that Q is now less than K. The reaction must shift towards products (towards the right) to raise the value of Q. When Q is not equal to K, the reaction will shift in the direction that causes Q to approach K. Since Q has the products in the numerator and the reactants in the denominator, to increase Q, the reaction must shift towards products.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>20</ymp_idx>
+		<ymp_xAbsolute>251.6</ymp_xAbsolute>
+		<ymp_yAbsolute>849.9</ymp_yAbsolute>
+		<ymp_xOffset>344.4</ymp_xOffset>
+		<ymp_yOffset>35.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[20] -->As the reaction shifts towards products (to the right), hemoglobin absorbs oxygen from the air in the lungs.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+				<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>21</ymp_idx>
+		<ymp_xAbsolute>64.95</ymp_xAbsolute>
+		<ymp_yAbsolute>914.75</ymp_yAbsolute>
+		<ymp_xOffset>10.7</ymp_xOffset>
+		<ymp_yOffset>14.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[21] -->The blood now flows through the lungs and we are back to the condition labeled (1) that is discussed above.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

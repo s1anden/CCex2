@@ -1,0 +1,115 @@
+﻿<ymp_presentation>
+
+
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Heterogenous Equilibrium&lt;br&gt;(a reaction involving more than one phase)</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+	
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title> </ymp_title>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>0</ymp_xAbsolute><ymp_yAbsolute>0</ymp_yAbsolute><ymp_xOffset>0</ymp_xOffset><ymp_yOffset>0</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[01] -->We're next going to consider a subtlety in the law of mass action, relating to what concentrations appear in the law of mass action, or equivalently the reaction quotient Q.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>58.9</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>110.1</ymp_yAbsolute>
+		
+		<ymp_xOffset>342.4</ymp_xOffset>
+		
+		<ymp_yOffset>163.9</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[2] -->Consider the following reaction in which solid carbon reacts with carbon dioxide gas to produce carbon monoxide gas. If we change the partial pressure of one of the gasses, either carbon dioxide or carbon monoxide, we change the number of times per second that the molecules will collide with one another or with the solid and so this has an effect on the chemical equilibrium. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>183.6</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>172.7</ymp_yAbsolute>
+		
+		<ymp_xOffset>136.3</ymp_xOffset>
+		
+		<ymp_yOffset>101.9</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[3] -->However, if we increase the amount of solid, we're simply piling up more carbon underneath existing carbon and so this does not change the nature of the chemical equilibrium. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>121.15</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>254.25</ymp_yAbsolute>
+		
+		<ymp_xOffset>263.1</ymp_xOffset>
+		
+		<ymp_yOffset>83.8</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[4] -->Another way of viewing this is that the concentration of the solid doesn't change simply because we add more solid. If we add gasses like CO2 and CO, the concentrations or partial pressures of the gasses change and this affects the reaction quotient. However, increasing the amount solid doesn't increase the concentration of the solid. Therefore the solid doesn't appear in the law of mass action.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>377.5</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>189.7</ymp_yAbsolute>
+		
+		<ymp_xOffset>186.5</ymp_xOffset>
+		
+		<ymp_yOffset>53.0</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[5] -->And for this chemical reaction we have the following form for the law of mass action. Q is equal to the partial pressure of CO squared divided by the partial pressure of CO2, the solid carbon does not appear. However we are assuming that some solid is present, otherwise the chemical reaction could not occur.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>59</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>358.05</ymp_yAbsolute>
+		
+		<ymp_xOffset>356.8</ymp_xOffset>
+		
+		<ymp_yOffset>99.5</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[6] -->The above was for the case of a gas phase reaction occurring in the presence of the solid. The same is true for species dissolved in solution. If we have an aqueous species A reacting with a solid C to produce an aqueous species B, the concentration of the solid doesn't change if we add solid and so it does not appear in the law of mass action. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>480.75</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>370.9</ymp_yAbsolute>
+		
+		<ymp_xOffset>87.0</ymp_xOffset>
+		
+		<ymp_yOffset>48.8</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[7] -->For this reaction we would have that Q is equal to the concentration of B over the concentration of A.</ymp_txt>
+	</ymp_slice>
+
+
+
+
+</ymp_presentation>

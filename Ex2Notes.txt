@@ -1,0 +1,23 @@
+HTML5 version of Ex2 Viewer
+
+Current Codebase:
+  Located in Dropbox Folder  
+  Written in Flash
+
+  
+  
+Current Functions
+  Reads in XML files which tell the location of image and sound files to display on the screen
+  Allows users to switch between audio/text presentation methods
+  Allows users to switch between "lecture" and "review" mode of presentation
+ 
+ 
+ 
+Additional Functions Requested
+  Allow markup tags in the text presentation for bold, italics and underline
+  
+  
+Task:
+  Create an HTML5 version of this program
+  update interface for better usability
+  
