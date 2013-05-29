@@ -7,39 +7,37 @@
 <script>
 	var lechHemoSteps = [[null, "Some chemical reactions are essentially <b>non-reversible</b>, that is, they only go in one direction and then stop when all of the reactants are converted to products. Here, A can be converted to B, but not the other way around. Or, two things can combine: A and B combine to form C.", null, null, null], [null,"Other reactions, however, are <b>reversible</b>. This means that there is a <b>forward reaction</b> - turning reactants into products - and a <b>reverse reaction</b>, where products are converted to reactants. These two reactions are occurring <i>at the same time</i>. We use a double arrow to indicate a reversible reaction.", null, null, null], [null, 'Take, for example the conversion of NO2 to N2O4: NO2 is becoming N2O4 at the same time that N2O4 is becoming NO2. This is a good example, but you may be wondering "what is NO2 and why do I care?"', null,null,null], [null,"Let's look at a more complicated, but relevant example. Our ability to breathe depends on a reversible reaction. Consider, for instance, the way your blood transports oxygen from your lungs to your muscles. The red line represents the flow of blood in your body. The blood enters the lungs where it picks up oxygen, it then goes to the muscles where it releases the oxygen so that your muscles can do work.",null,null,null], [null,'The molecule in your blood that picks up and releases oxygen is Hemoglobin (abbreviated Hb). Hemoglobin binds to 4 oxygen molecules to form the complex Hb(O2)4. But, how does Hb "know" when to pick up or let go of oxygen? What if you were running from a tiger and Hb just forgot to give O2 to your muscles?',null,null,null], [null,"Fortunately, that never happens because the reaction between Hb and O2 is a <b>reversible reaction</b> that follows the laws of <b>chemical equilibrium</b>. The following lessons will show you how Hemoglobin works and how chemists can predict the changes in an equilibrium system.",null,null,null], [null,"In your lungs, the reaction shifts in the forward direction picking up oxygen.",null,null,null], [null,"In your muscles, the reaction shifts in the reverse direction releasing the oxygen.",null,null,null], [null,"For your blood to be able to transport oxygen, this reaction must go in both the forward and reverse directions.",null,null,null], [null,"In your blood, the reaction between hemoglobin and oxygen quickly reaches a steady state known as chemical equilibrium.",null,null,null], [null,"At chemical equilibrium the overall concentrations of the chemical species do not change, but this is not because the reaction has stopped occurring, rather it is because the rate of the forward reaction is equal to the rate of the reverse reaction.",null,null,null], [null,"The rate at which the forward reaction consumes the reactants is equal to the rate at which the reverse reaction produces the reactions. So the concentrations of reactants do not change, even though both the forward and reverse reactions are occurring.",null,null,null], [null,"Similarly, the rate at which the forward reaction produces the products is equal to the rate at which the reverse reaction consumes products, such that the product concentration reaches a steady-state and does not change with time.",null,null,null], [null,"At any moment there will always be some bound and some unbound hemoglobin present, but the amounts can vary depending, for instance, on whether we are in the lungs or in the muscles. As your blood is traveling through the veins and back to your lungs, it is in a state of chemical equilibrium.",null,null,null], [null,"However, when the blood first enters the lungs, a large amount of fresh oxygen enters the system.",null,null,null], [null,"This perturbs the chemical equilibrium because the additional oxygen causes the forward reaction to temporarily become faster than the reverse reaction.",null,null,null], [null,"The addition of the oxygen therefore takes the system out of equilibrium and the concentrations of the chemical species change.",null,null,null], [null,"Since the forward reaction is temporarily faster than the reverse reaction, the concentration of the reactants decreases and concentration of the products increases.",null,null,null], [null,"We call this decrease in the reactants and increase in the products a shift in the reaction. In this case the shift is in the forward direction.",null,null,null], [null,"The shift occurs until the forward rate and reverse rate become balanced again, and we establish a new equilibrium state.",null,null,null], [null,"This is a specific example of a situation that is very common in chemical equilibrium systems. In the language of chemical equilibrium, we call the addition of oxygen a stress to the system. The response to this stress is a shift in the reaction that establishes a new equilibrium.",null,null,null]]
 	</script>
-<script>
-	var canvas = document.getElementById("pres");
-	var ctx = canvas.getContext("2d");
 
-	var wrapper;
-	var canvasHeight;
-	var vScrollHeight;
-	var canvasWrapperHeight = 300;
+	<script>
+		var canvas = document.getElementById("pres");
+		var ctx = canvas.getContext("2d");
 
-	$(".bar").draggable({
-	    containment: "parent"
-	});
+		var wrapper;
+		var canvasHeight;
+		var vScrollHeight;
+		var canvasWrapperHeight = 400;
 
-	$(".bar").on("drag", function (event, ui) {
-	    var ctop = (-ui.position.top * canvasHeight / canvasWrapperHeight);
-	    canvas.style.top = ctop + "px"
-	});
+		$(".bar").draggable({
+		    containment: "parent"
+		});
 
-	// var img = new Image();
-	// img.onload = function () {
-	//     canvas.width = this.width;
-	//     canvas.height = this.height;
-	//     canvasHeight = this.height;
-	//     vbarHeight = canvasWrapperHeight * canvasWrapperHeight / canvasHeight;
-	//     document.getElementById("vbar").style.height = vbarHeight + "px";
-	//     ctx.drawImage(this, 260, 0, 300, this.height, 0, 0, 300, this.height);
-	// }
-	// img.src = "http://sciencedude.blog.ocregister.com/files/2008/02/zot1-copy.jpg";
-</script>
+		$(".bar").on("drag", function (event, ui) {
+		    var ctop = (-ui.position.top * canvasHeight / canvasWrapperHeight);
+		    canvas.style.top = ctop + "px"
+		});
+
+		canvasHeight = 800;
+
+	</script>
+
 
 <style>
   canvas {
     cursor: pointer;
+  }
+
+  .text {
+  	text-align:left;
   }
 
   .nav {
@@ -62,6 +60,7 @@
 	padding:6px 24px;
 	text-decoration:none;
 	text-shadow:1px 1px 0px #528ecc;
+	vertical-align:center;
 }.nav:hover {
 	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
 	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
@@ -75,11 +74,12 @@
 
 
 .vertical-scroll {
-    margin-left:580px;
-    top:10px;
+	position:absolute;
+    margin-left:579px;
+    top:77px;
     border: 1px solid black;
     width: 20px;
-    height: 300px;
+    height: 401px;
 }
 .vertical-scroll div.bar {
     left:0px;
@@ -90,66 +90,85 @@
 }
 #pres {
     margin:auto;
-    overflow:hidden;
+    position:relative;
+}
+
+#screen {
+	position:absolute
+	left:100px;
+	overflow:hidden;
+	width:600px;
+	height:400px;
+	border:1px solid black;
 }
 </style>
 </head>
 <body>
+<div align="center" style="width:50%;margin-left:25%;">
 
 <table bgcolor="#FDFCCC" cellpadding="1" cellspacing="1" width="100%"><tr><td align="left"><font size="-1">&nbsp;  &nbsp;  &nbsp; 
-				<script type="text/javascript" language="JavaScript">
-				<!--
-					document.write("<b>Page loaded</b>: "+full_time()+" &nbsp; &nbsp;");
-				//-->
-				</script>
-			</font></b></td>
-			<td align="right"><b><font size="-1"><A HREF="index.html" >&lt; Previous</a> | 
-		<A HREF="qtok_prog.html">Next &gt;</a></font></b></td></tr></table></p>
+	<script type="text/javascript" language="JavaScript">
+	<!--
+		document.write("<b>Page loaded</b>: "+full_time()+" &nbsp; &nbsp;");
+	//-->
+	</script>
+</font></b></td>
+	<td align="right"><b><font size="-1"><A HREF="index.html" >&lt; Previous</a> | 
+		<A HREF="qtok_prog.html">Next &gt;</a></font></b></td></tr></table>
 
-	<h1>Module 1:  Introduction to reversible reactions: The Hemoglobin scenario.
-	</font></a></h1> <br>
-	<div id = "pres">
-		<div id = "menu" style="width:600px;height:75px;border:1px solid black">
-			<button class="nav" onclick="javascript: prevStep()"><<</button>
-			<button class="nav" style = "float:right;" onclick="javascript: nextStep()">>></button>
-			
+<h1>Module 1:  Introduction to reversible reactions: The Hemoglobin scenario.</h1> <br>
+<div id = "pres">
+	<div id = "menu" style="width:600px;height:75px;border:1px solid black">
+		<button class="nav" onclick="javascript: prevStep()" style="float:left"><<</button>
+		<button class="nav" style = "float:right;" onclick="javascript: nextStep()">>></button>
+		<div id="options">
+			<form action="">
+				<input type="radio" name="text" value="audio" checked="checked">Audio&#09;
+				<input type="radio" name="mode" value"lecture" checked="checked">Lecture<br>
+				<input type="radio" name="text" value="text">Text&#09;
+				<input type="radio" name="mode" value="review">Review
+			</form>
 		</div>
-		<div id="screen">
+		
+		
+	</div>
+	<div id="screen">
+		<div class="wrapper" id="wrap1">
 			<script>
 				initPres(lechHemoSteps, document.getElementById('caption'));
 			</script>
 		</div>
 		<div class="vertical-scroll" id="vscroll">
-    		<div class="bar" id="vbar"></div>
+			<div class="bar" id="vbar"></div>
 		</div>
-		<div id = "caption" style="background:#FDFCCC;width:600px;height:100px;border:1px solid black;">
-			<script>document.write(lechHemoSteps[0][1]);</script>
-		</div>
+	
 	</div>
-	<ul>
-	<p>
-	To sum up, reversible reactions are common in chemical and biological systems. Our bodies rely on these kinds of reactions to do things like 
+	
+	<div id = "caption" style="background:#FDFCCC;width:600px;height:100px;border:1px solid black;">
+		<div class="text"><script>document.write(lechHemoSteps[0][1]);</script></div>
+	</div>
+</div>
+
+<div class="text">
+	<p>To sum up, reversible reactions are common in chemical and biological systems. Our bodies rely on these kinds of reactions to do things like 
 	transport oxygen from the lungs to the muscles. LeChatlier figured out that reversible reactions will always try to reach chemical equilibrium. 
-	Equilibrium is when the concentrations of the reactants and products are no longer changing because the forward and reverse rates are the same. 
-	</p>
-	<p>
-	If you add more reactants or take away products (i.e., cause a stress to the system), the system will adjust back towards a 
+	Equilibrium is when the concentrations of the reactants and products are no longer changing because the forward and reverse rates are the same. </p>
+	<p>If you add more reactants or take away products (i.e., cause a stress to the system), the system will adjust back towards a 
 	new equilibrium state - that&#146;s <a href="lech_ctv.html">LeChatlier&#146;s Principle</a>. You can even calculate and predict these changes
-	in concentration using Limiting Reagent Calculations, as we'll see in later lessons. First, let&#146;s examine some of these new concepts in more detail in the <a href="qtok_prog.html">next lesson</a>.
-	</p>
-	<p> - Download lecture: [<a href="pdf/Mod1_Intro.pdf">pdf</a>]
-	</p></ul>
+	in concentration using Limiting Reagent Calculations, as we'll see in later lessons. First, let&#146;s examine some of these new concepts in more detail in the <a href="qtok_prog.html">next lesson</a>.</p>
+	<p> - Download lecture: [<a href="pdf/Mod1_Intro.pdf">pdf</a>]</p>
+</div>
 
 
 <table bgcolor="#FDFCCC" cellpadding="1" cellspacing="1" width="100%"><tr><td align="left"><font size="-1">&nbsp;  &nbsp;  &nbsp; 
-				<script type="text/javascript" language="JavaScript">
-				<!--
-					document.write("<b>Page loaded</b>: "+full_time()+" &nbsp; &nbsp;");
-				//-->
-				</script>
-			</font></b></td>
-			<td align="right"><b><font size="-1"><A HREF="index.html" >&lt; Previous</a> | 
-		<A HREF="qtok_prog.html">Next &gt;</a></font></b></td></tr></table></p>
+			<script type="text/javascript" language="JavaScript">
+			<!--
+				document.write("<b>Page loaded</b>: "+full_time()+" &nbsp; &nbsp;");
+			//-->
+			</script>
+		</font></b></td>
+		<td align="right"><b><font size="-1"><A HREF="index.html" >&lt; Previous</a> | 
+	<A HREF="qtok_prog.html">Next &gt;</a></font></b></td></tr></table></p>
 
 <!--Common Footer-->
 <table width="100%" border="0" cellspacing="0" cellpadding="4">
@@ -160,6 +179,6 @@
 <td class="footerr" align="right" width="60%">Last Updated: Monday, October 22, 2012 @ 01:18:57 am</td>
 </tr>
 </table>
-
+</div>
 </body>
 </html>

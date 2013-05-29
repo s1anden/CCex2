@@ -1,5 +1,5 @@
 var kWidth = 600;
-var kHeight = 400;
+var kHeight = 800;
 
 var gCanvasElement;
 var gDrawingContext;
@@ -115,12 +115,13 @@ function newPres(steps) {
   drawScreen();
 }
 
-function initPres(steps, captionElem) {
-
-  var canvasElement = document.createElement("canvas");
+function initPres(canvas, steps, captionElem) {
+  if (canvas == null) {
+    var canvasElement = document.createElement("canvas");
+  }
   var steps = steps;
   canvasElement.id = "pres";
-  document.body.appendChild(canvasElement);
+  document.getElementById("screen").appendChild(canvasElement);
   gCanvasElement = canvasElement;
   gCanvasElement.width = kWidth;
   gCanvasElement.height = kHeight;
