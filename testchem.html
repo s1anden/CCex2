@@ -3,11 +3,46 @@
 <head>
 <title>The ChemCollective: LeChatlier's Principle Tutorial - Hemoglobin scenario</title>
 <script src="presentation.js"></script>
+<script>
+	var lechHemoSteps = [[null, "Some chemical reactions are essentially &lt;b&gt;non-reversible&lt;/b&gt;, that is, they only go in one direction and then stop when all of the reactants are converted to products. Here, A can be converted to B, but not the other way around. Or, two things can combine: A and B combine to form C.", null, null, null], [null,"Other reactions, however, are &lt;b&gt;reversible&lt;/b&gt;. This means that there is a &lt;b&gt;forward reaction&lt;/b&gt; - turning reactants into products - and a &lt;b&gt;reverse reaction&lt;/b&gt;, where products are converted to reactants. These two reactions are occurring &lt;i&gt;at the same time&lt;/i&gt;. We use a double arrow to indicate a reversible reaction.", null, null, null], [null, "Take, for example the conversion of NO2 to N2O4: NO2 is becoming N2O4 at the same time that N2O4 is becoming NO2. This is a good example, but you may be wondering 'what is NO2 and why do I care?'", null,null,null], [null,"Let's look at a more complicated, but relevant example. Our ability to breathe depends on a reversible reaction. Consider, for instance, the way your blood transports oxygen from your lungs to your muscles. The red line represents the flow of blood in your body. The blood enters the lungs where it picks up oxygen, it then goes to the muscles where it releases the oxygen so that your muscles can do work.",null,null,null], [null,"The molecule in your blood that picks up and releases oxygen is Hemoglobin (abbreviated Hb). Hemoglobin binds to 4 oxygen molecules to form the complex Hb(O2)4. But, how does Hb 'know' when to pick up or let go of oxygen? What if you were running from a tiger and Hb just forgot to give O2 to your muscles?",null,null,null], [null,"Fortunately, that never happens because the reaction between Hb and O2 is a &lt;b&gt;reversible reaction&lt;/b&gt; that follows the laws of &lt;b&gt;chemical equilibrium&lt;/b&gt;. The following lessons will show you how Hemoglobin works and how chemists can predict the changes in an equilibrium system.",null,null,null], [null,"In your lungs, the reaction shifts in the forward direction picking up oxygen.",null,null,null], [null,"In your muscles, the reaction shifts in the reverse direction releasing the oxygen.",null,null,null], [null,"For your blood to be able to transport oxygen, this reaction must go in both the forward and reverse directions.",null,null,null], [null,"In your blood, the reaction between hemoglobin and oxygen quickly reaches a steady state known as chemical equilibrium.",null,null,null], [null,"At chemical equilibrium the overall concentrations of the chemical species do not change, but this is not because the reaction has stopped occurring, rather it is because the rate of the forward reaction is equal to the rate of the reverse reaction.",null,null,null], [null,"The rate at which the forward reaction consumes the reactants is equal to the rate at which the reverse reaction produces the reactions. So the concentrations of reactants do not change, even though both the forward and reverse reactions are occurring.",null,null,null], [null,"Similarly, the rate at which the forward reaction produces the products is equal to the rate at which the reverse reaction consumes products, such that the product concentration reaches a steady-state and does not change with time.",null,null,null], [null,"At any moment there will always be some bound and some unbound hemoglobin present, but the amounts can vary depending, for instance, on whether we are in the lungs or in the muscles. As your blood is traveling through the veins and back to your lungs, it is in a state of chemical equilibrium.",null,null,null], [null,"However, when the blood first enters the lungs, a large amount of fresh oxygen enters the system.",null,null,null], [null,"This perturbs the chemical equilibrium because the additional oxygen causes the forward reaction to temporarily become faster than the reverse reaction.",null,null,null], [null,"The addition of the oxygen therefore takes the system out of equilibrium and the concentrations of the chemical species change.",null,null,null], [null,"Since the forward reaction is temporarily faster than the reverse reaction, the concentration of the reactants decreases and concentration of the products increases.",null,null,null], [null,"We call this decrease in the reactants and increase in the products a shift in the reaction. In this case the shift is in the forward direction.",null,null,null], [null,"The shift occurs until the forward rate and reverse rate become balanced again, and we establish a new equilibrium state.",null,null,null], [null,"This is a specific example of a situation that is very common in chemical equilibrium systems. In the language of chemical equilibrium, we call the addition of oxygen a stress to the system. The response to this stress is a shift in the reaction that establishes a new equilibrium.",null,null,null]]
+	</script>
 
 <style>
   canvas {
     cursor: pointer;
   }
+
+  .nav {
+	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #79bbff), color-stop(1, #378de5) );
+	background:-moz-linear-gradient( center top, #79bbff 5%, #378de5 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#79bbff', endColorstr='#378de5');
+	background-color:#79bbff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:Impact;
+	font-size:24px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #528ecc;
+}.nav:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #378de5), color-stop(1, #79bbff) );
+	background:-moz-linear-gradient( center top, #378de5 5%, #79bbff 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#378de5', endColorstr='#79bbff');
+	background-color:#378de5;
+}.nav:active {
+	position:relative;
+	top:1px;
+}
+/* This imageless css button was generated by CSSButtonGenerator.com */
+</style>
 </style>
 </head>
 <body>
@@ -24,9 +59,21 @@
 
 	<h1>Module 1:  Introduction to reversible reactions: The Hemoglobin scenario.
 	</font></a></h1> <br>
-	<script>
-		initPres();
-	</script>
+	<div id = "pres">
+		<div id = "menu" style="width:600px;height:75px;border:1px solid black">
+			<button class="nav" onclick=prevStep()><<</button>
+			<button class="nav" style = "float:right;" onclick=nextStep()>>></button>
+			
+		</div>
+		<div id="screen">
+			<script>
+				initPres(lechHemoSteps);
+			</script>
+		</div>
+		<div id = "caption" style="background:#FDFCCC;width:600px;height:100px;border:1px solid black;">
+
+		</div>
+	</div>
 	<ul>
 	<p>
 	To sum up, reversible reactions are common in chemical and biological systems. Our bodies rely on these kinds of reactions to do things like 
