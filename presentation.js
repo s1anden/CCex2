@@ -8,6 +8,7 @@ var gSteps;
 var gNumSteps;
 var gCurrentStep;
 var gCurrentStepIndex;
+var gCaption;
 
 function Step(image, words, audio, x, y) {
 	this.image = image;
@@ -110,11 +111,11 @@ function newPres(steps) {
   gCurrentStepIndex = 0;
   gCurrentStep = gSteps[gCurrentStepIndex];
 
-  document.getElementById("caption").innerHTML = currentStep.words;
+  gCaption.innerHTML = currentStep.words;
   drawScreen();
 }
 
-function initPres(steps) {
+function initPres(steps, captionElem) {
 
   var canvasElement = document.createElement("canvas");
   var steps = steps;
@@ -127,6 +128,7 @@ function initPres(steps) {
   gCanvasElement.style.margin = "auto";
   // gCanvasElement.addEventListener("click", presOnClick, false);
   gDrawingContext = gCanvasElement.getContext("2d");
+  gCaption = captionElem;
   newPres(steps);
 }
 
