@@ -1,0 +1,221 @@
+<ymp_presentation>
+
+	<ymp_slice>
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>50</ymp_yAbsolute>
+		<ymp_xOffset>541</ymp_xOffset>
+		<ymp_yOffset>58</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->In module 5 we discussed kinetics, but we didn't discuss how the rates of a reaction are related to the energy of the reaction. In this module, we consider the relationship between the equilibrium of reversible reactions and the thermodynamics of those reactions. First, consider this generic reversible reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>250</ymp_xAbsolute>
+		<ymp_yAbsolute>84</ymp_yAbsolute>
+		<ymp_xOffset>93</ymp_xOffset>
+		<ymp_yOffset>45</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->At equilibrium, the concentrations of reactants and products is established by the law of mass action, K=Q at equilibrium.  </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>420</ymp_xAbsolute>
+		<ymp_yAbsolute>95</ymp_yAbsolute>
+		<ymp_xOffset>160</ymp_xOffset>
+		<ymp_yOffset>20</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->The thermodynamics property that is most relevant for understanding equilibrium is the standard change in free energy of the reaction, (Delta)G°, which is the free energy of the products minus that of the reactants. Every system will move toward the lowest free energy. Some reactions require energy and are endothermic - and some release energy and are exothermic.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>110</ymp_xAbsolute>
+		<ymp_yAbsolute>165</ymp_yAbsolute>
+		<ymp_xOffset>133</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->The equilibrium constant, K, is related to the standard free energy of the reaction, (Delta)G°, through this expression. R is the gas constant (8.314 kJ/mol) and T is the temperature. This relation implies that the equilibrium constant and the free energy are essentially the same quantity. Given one, you can easily determine the other.  </ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>45</ymp_xAbsolute>
+		<ymp_yAbsolute>252</ymp_yAbsolute>
+		<ymp_xOffset>117</ymp_xOffset>
+		<ymp_yOffset>173</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->We will explore the above relation between K and (Delta)G° by considering the following situations. In the top reaction, the arrows indicate that the forward reaction is much faster than the reverse reaction, such that the equilibrium lies towards the product side of the reaction. In the bottom reaction, the reverse reaction is fastest, such that the equilibrium lies towards the reactant side. In the middle, the rates are equal. </ymp_txt>
+	</ymp_slice>
+
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>189</ymp_xAbsolute>
+		<ymp_yAbsolute>253</ymp_yAbsolute>
+		<ymp_xOffset>39</ymp_xOffset>
+		<ymp_yOffset>14</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->In the top reaction, the product concentrations, [PROD], will be larger than the reactant concentrations, [REAC]. Since [PROD] is greater than [REAC], and K is the ratio [PROD]/[REAC], K will be greater than 1.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>189</ymp_xAbsolute>
+		<ymp_yAbsolute>329</ymp_yAbsolute>
+		<ymp_xOffset>39</ymp_xOffset>
+		<ymp_yOffset>14</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->For the middle reaction, the product and reactant concentrations are nearly equal, [PROD] = [REAC], and so K = [PROD]/[REAC] is near 1.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>189</ymp_xAbsolute>
+		<ymp_yAbsolute>412</ymp_yAbsolute>
+		<ymp_xOffset>39</ymp_xOffset>
+		<ymp_yOffset>14</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->For the lower reaction, the reactant concentrations are bigger than the product concentrations, [REAC] is greater than [PROD], and so K = [PROD]/[REAC] is less than 1. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>245</ymp_xAbsolute>
+		<ymp_yAbsolute>230</ymp_yAbsolute>
+		<ymp_xOffset>207</ymp_xOffset>
+		<ymp_yOffset>53</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->In the top reaction, the equilibrium lies towards the product side. This means the reaction favors the product side. From an energetic perspective, the products have a lower free energy than the reactants (recall that systems tend to lower their free energy.) Since (Delta)G° is defined as the free energy of the products minus that of the reactants, this means (Delta)G° is less than 0.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>245</ymp_xAbsolute>
+		<ymp_yAbsolute>319</ymp_yAbsolute>
+		<ymp_xOffset>207</ymp_xOffset>
+		<ymp_yOffset>53</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->In the middle reaction, neither reactants nor products are favored. From an energetic perspective, the products and reactants have the same free energy and so (Delta)G° = 0. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>245</ymp_xAbsolute>
+		<ymp_yAbsolute>382</ymp_yAbsolute>
+		<ymp_xOffset>207</ymp_xOffset>
+		<ymp_yOffset>53</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->In the bottom reaction, the equilibrium lies towards the reactant side. From an energetic perspective, this means the reactants have a lower free energy than the products, corresponding to (Delta)G° is greater than 0.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>465</ymp_xAbsolute>
+		<ymp_yAbsolute>216</ymp_yAbsolute>
+		<ymp_xOffset>66</ymp_xOffset>
+		<ymp_yOffset>280</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->Now that we have a sense for the qualitative aspects of the connections between K and  (Delta)G°, we can explore the quantitative aspects. It is convenient to express (Delta)G° in terms of RT instead of calculating each value. (The units of RT are energy, and so RT provides a useful scale for energy.) To see how the value of K changes as (Delta)G° changes, we'll consider values of (Delta)G° that range from +30 RT to -30 RT.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>535</ymp_xAbsolute>
+		<ymp_yAbsolute>208</ymp_yAbsolute>
+		<ymp_xOffset>79</ymp_xOffset>
+		<ymp_yOffset>217</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->We can now put our values for (Delta)G° into the above expression to determine the values for the equilibrium constant, K. When the reaction is strongly downhill in free energy ((Delta)G° = - 30 RT), the equilibrium constant becomes very large, K=1013, such that the concentration of products is much greater than the concentrations of reactants (K=[PROD]/[REAC]  is large). The inverse is true when the reaction is strongly uphill in free energy ((Delta)G° = +30RT), for which the equilibrium constant becomes 1/10^13 or 10^-13, such that the concentration of reactants is much greater than the concentration of products.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>540</ymp_xAbsolute>
+		<ymp_yAbsolute>269</ymp_yAbsolute>
+		<ymp_xOffset>92</ymp_xOffset>
+		<ymp_yOffset>128</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->Smaller values of (Delta)G° lead to values of K that are closer to 1. When the free energy is downhill by 3 RT, (Delta)G°  = -3 RT, the equilibrium constant is K = 20, such that the reaction favors products (K=[PROD]/[REAC]  is greater than one). If the free energy is uphill, (Delta)G° = +3 RT, the equilibrium constant is K=1/20. For free energies of 1 RT, the equilibrium constant becomes even closer to 1, being 2.7 and 1/2.7 for downhill and uphill reactions, respectively. When free energy favors neither reactants nor products, (Delta)G° = 0, the equilibrium constant becomes K=1; there are equal amounts of reactants and products.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>65</ymp_xAbsolute>
+		<ymp_yAbsolute>475</ymp_yAbsolute>
+		<ymp_xOffset>379</ymp_xOffset>
+		<ymp_yOffset>46</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->Above we expressed the free energy as multiples of RT. At room temperature, RT is 2.5 kJ/mol, calculated here.  </ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>75</ymp_xAbsolute>
+		<ymp_yAbsolute>535</ymp_yAbsolute>
+		<ymp_xOffset>499</ymp_xOffset>
+		<ymp_yOffset>117</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->To get a sense for this magnitude of energy, we'll consider three types of bonding. For each type of bond, we will consider the free energy released on forming the bond, and the equilibrium constant for the reaction that forms the bond. </ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>291</ymp_xAbsolute>
+		<ymp_yAbsolute>576</ymp_yAbsolute>
+		<ymp_xOffset>281</ymp_xOffset>
+		<ymp_yOffset>21</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->A covalent bond is a strong bond between atoms, such as a C-C single bond in an organic molecule like sugar. The free energy released on forming a typical covalent bond is about 400 kJ/mol, corresponding to 160 RT. This leads to an equilibrium constant of 1070. The equilibrium therefore lies very far towards the side of the reaction in which the bond is formed. This means that, at room temperature, covalent bonds are very stable and do not break spontaneously. In other words, the reaction corresponding to formation of a covalent bond is essentially non-reversible at room temperature.</ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>289</ymp_xAbsolute>
+		<ymp_yAbsolute>606</ymp_yAbsolute>
+		<ymp_xOffset>128</ymp_xOffset>
+		<ymp_yOffset>29</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->Hydrogen bonds are non-covalent interactions that play an important role in biological systems. For instance, the base pairs in DNA are held together by 2 or 3 hydrogen bonds. Hydrogen bonds vary in strength, but a typical value is 25 kJ/mol, corresponding to 5 RT. This leads to an equilibrium constant of K=150. The equilibrium lies towards the formation of the hydrogen bond, but with a value that is not very far from 1. This implies that the reaction corresponding to formation of a covalent bond is reversible. Biological systems rely on this reversibility; if the DNA strands were held together too tightly replication and translation could not occur.</ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>19</ymp_idx>
+		<ymp_xAbsolute>289</ymp_xAbsolute>
+		<ymp_yAbsolute>636</ymp_yAbsolute>
+		<ymp_xOffset>128</ymp_xOffset>
+		<ymp_yOffset>29</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[19] -->Finally, we consider the weakest form of non-covalent interaction, the van der Waals contact. This force is present between all molecules. Even rare gasses like helium and argon are attracted to one another by van der Waals forces, which have a typical strength of about 5 kJ/mol. This corresponds to about 2 RT, and an equilibrium constant of K=7. These weak interactions are highly reversible, and break and form continuously at room temperature, with the equilibrium lying only slightly towards the formation of a bound system.</ymp_txt>
+	</ymp_slice>
+	
+</ymp_presentation>

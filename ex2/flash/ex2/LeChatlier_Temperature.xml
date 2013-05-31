@@ -1,0 +1,149 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Le Chatelier's principle&lt;br&gt;&lt;br&gt;Changing the temperature</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+<!--
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Changing the temperature</ymp_title>
+-->
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>0</ymp_xOffset>
+		<ymp_yOffset>30</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->The last type of stress we will consider is that of a change in temperature.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>169.9</ymp_xAbsolute>
+		<ymp_idx>2</ymp_idx>
+		<ymp_yAbsolute>193.05</ymp_yAbsolute>
+		<ymp_xOffset>232.6</ymp_xOffset>
+		<ymp_yOffset>10.9</ymp_yOffset>
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[2] -->Consider the following reaction, in which A reacts with B to produce C and the reaction has a reaction enthalpy that is negative.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>425.4</ymp_xAbsolute>
+		<ymp_idx>3</ymp_idx>
+		<ymp_yAbsolute>194.5</ymp_yAbsolute>
+		<ymp_xOffset>74.9</ymp_xOffset>
+		<ymp_yOffset>8.8</ymp_yOffset>
+		<ymp_tc>00:03</ymp_tc>
+		<ymp_txt><!--[3] -->This reaction is exothermic. The most convenient way to apply LeChatlier's principle to a change in temperature, is to consider heat as a reactant or product of the reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>292.45</ymp_xAbsolute>
+		<ymp_idx>4</ymp_idx>
+		<ymp_yAbsolute>194.7</ymp_yAbsolute>
+		<ymp_xOffset>48.2</ymp_xOffset>
+		<ymp_yOffset>9.2</ymp_yOffset>
+		<ymp_tc>00:04</ymp_tc>
+		<ymp_txt><!--[4] -->Since heat is released by this reaction, we write heat as a product of the reaction. We can now apply the same logic we used for the addition or removal of a chemical species.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>129.5</ymp_xAbsolute>
+		<ymp_idx>5</ymp_idx>
+		<ymp_yAbsolute>219.2</ymp_yAbsolute>
+		<ymp_xOffset>234.1</ymp_xOffset>
+		<ymp_yOffset>7.9</ymp_yOffset>
+		<ymp_tc>00:05</ymp_tc>
+		<ymp_txt><!--[5] -->When we increase the temperature we add heat to the system.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>389.9</ymp_xAbsolute>
+		<ymp_idx>6</ymp_idx>
+		<ymp_yAbsolute>218.35</ymp_yAbsolute>
+		<ymp_xOffset>87.3</ymp_xOffset>
+		<ymp_yOffset>11.6</ymp_yOffset>
+		<ymp_tc>00:06</ymp_tc>
+		<ymp_txt><!--[6] -->The system will shift to counter this stress by absorbing the heat, meaning it will shift in the reverse direction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>128.75</ymp_xAbsolute>
+		<ymp_idx>7</ymp_idx>
+		<ymp_yAbsolute>245.5</ymp_yAbsolute>
+		<ymp_xOffset>234.3</ymp_xOffset>
+		<ymp_yOffset>8.2</ymp_yOffset>
+		<ymp_tc>00:07</ymp_tc>
+		<ymp_txt><!--[7] -->Decreasing the temperature corresponds to removing heat from the system.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>389.75</ymp_xAbsolute>
+		<ymp_idx>8</ymp_idx>
+		<ymp_yAbsolute>242.6</ymp_yAbsolute>
+		<ymp_xOffset>90.5</ymp_xOffset>
+		<ymp_yOffset>12.6</ymp_yOffset>
+		<ymp_tc>00:08</ymp_tc>
+		<ymp_txt><!--[8] -->The reaction shifts in the forward direction to counter this stress by producing heat.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>189.35</ymp_xAbsolute>
+		<ymp_idx>9</ymp_idx>
+		<ymp_yAbsolute>277.15</ymp_yAbsolute>
+		<ymp_xOffset>313.8</ymp_xOffset>
+		<ymp_yOffset>10.6</ymp_yOffset>
+		<ymp_tc>00:09</ymp_tc>
+		<ymp_txt><!--[9] -->If this reaction were endothermic,</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>131.6</ymp_xAbsolute>
+		<ymp_idx>10</ymp_idx>
+		<ymp_yAbsolute>277.1</ymp_yAbsolute>
+		<ymp_xOffset>50.1</ymp_xOffset>
+		<ymp_yOffset>10.4</ymp_yOffset>
+		<ymp_tc>00:10</ymp_tc>
+		<ymp_txt><!--[10] -->then heat would be a reactant instead.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>137.9</ymp_xAbsolute>
+		<ymp_idx>11</ymp_idx>
+		<ymp_yAbsolute>300.55</ymp_yAbsolute>
+		<ymp_xOffset>353.2</ymp_xOffset>
+		<ymp_yOffset>12.5</ymp_yOffset>
+		<ymp_tc>00:11</ymp_tc>
+		<ymp_txt><!--[11] -->Here an increase in temperature, corresponding to adding heat, would then cause the reaction to shift in the forward direction to absorb the heat.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_xAbsolute>137.05</ymp_xAbsolute>
+		<ymp_idx>12</ymp_idx>
+		<ymp_yAbsolute>328.9</ymp_yAbsolute>
+		<ymp_xOffset>349.8</ymp_xOffset>
+		<ymp_yOffset>11.6</ymp_yOffset>
+		<ymp_tc>00:12</ymp_tc>
+		<ymp_txt><!--[12] -->A decrease in temperature, or removal of heat, would cause the system to shift in the reverse direction to produce heat.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

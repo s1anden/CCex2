@@ -1,0 +1,113 @@
+<ymp_presentation>
+
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Comparing Q to K to determine shift</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>20</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>59.35</ymp_xAbsolute>
+		<ymp_yAbsolute>200</ymp_yAbsolute>
+		<ymp_xOffset>538.5</ymp_xOffset>
+		<ymp_yOffset>10.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->The previous module suggested a way to tell whether a system is at equilibrium and, if not at equilibrium, which direction the system will shift to reach chemical equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>50.75</ymp_xAbsolute>
+		<ymp_yAbsolute>291.45</ymp_yAbsolute>
+		<ymp_xOffset>532.9</ymp_xOffset>
+		<ymp_yOffset>94.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->Recall this diagram showing forward and reverse rates for the reaction between 2NO2's to form N2O4.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>418.85</ymp_xAbsolute>
+		<ymp_yAbsolute>407.3</ymp_yAbsolute>
+		<ymp_xOffset>11.8</ymp_xOffset>
+		<ymp_yOffset>41.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->If Q = K, then we know the system is at chemical equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>205.85</ymp_xAbsolute>
+		<ymp_yAbsolute>403.4</ymp_yAbsolute>
+		<ymp_xOffset>151.9</ymp_xOffset>
+		<ymp_yOffset>12.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->But if Q is less than K, then Q will have to increase so that Q becomes equal to K at equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>228.4</ymp_xAbsolute>
+		<ymp_yAbsolute>431.45</ymp_yAbsolute>
+		<ymp_xOffset>119.4</ymp_xOffset>
+		<ymp_yOffset>31.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->For Q to increase, the reaction must shift in the forward direction. That is, the amount of products must increase and the amount of reactants must decrease.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>208.75</ymp_xAbsolute>
+		<ymp_yAbsolute>473.8</ymp_yAbsolute>
+		<ymp_xOffset>139.9</ymp_xOffset>
+		<ymp_yOffset>20.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->The shift to the right arises when the forward reaction occurs at a faster rate than the reverse reaction. If products are produced more rapidly than reactants, the total concentration of products will increase and the total concentration of reactants will decrease.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>472</ymp_xAbsolute>
+		<ymp_yAbsolute>406.6</ymp_yAbsolute>
+		<ymp_xOffset>78.3</ymp_xOffset>
+		<ymp_yOffset>43.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->Similarly if Q is greater than K, then Q will have to decrease such that Q=K at equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>444.3</ymp_xAbsolute>
+		<ymp_yAbsolute>471.9</ymp_yAbsolute>
+		<ymp_xOffset>119.4</ymp_xOffset>
+		<ymp_yOffset>31.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->For Q to decrease, the reaction must shift in the reverse direction. That is, the amount of reactants will increase and the amount of products will decrease.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>true</ymp_param_hasaudio>
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>440.2</ymp_xAbsolute>
+		<ymp_yAbsolute>511</ymp_yAbsolute>
+		<ymp_xOffset>139.9</ymp_xOffset>
+		<ymp_yOffset>20.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->When the reverse reaction occurs at a faster rate than the forward reaction, reactants are produced more rapidly than products. Thus the overall concentrations of reactants increase while the concentrations of products decrease. </ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

@@ -1,0 +1,212 @@
+<ymp_presentation>
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Equilibrium is dynamic</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>0</ymp_xOffset>
+		<ymp_yOffset>0</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+		<ymp_txt><!--[1] -->Equilibrium systems are dynamic. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>61.1</ymp_xAbsolute>
+		<ymp_yAbsolute>71.45</ymp_yAbsolute>
+		<ymp_xOffset>154.9</ymp_xOffset>
+		<ymp_yOffset>25.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->Although the concentrations of the reactants and products are no longer changing when we reach equilibrium,</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>72.4</ymp_xAbsolute>
+		<ymp_yAbsolute>104.15</ymp_yAbsolute>
+		<ymp_xOffset>199.9</ymp_xOffset>
+		<ymp_yOffset>8.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->This does not mean that the forward and reverse reactions have stopped occurring.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>89.45</ymp_xAbsolute>
+		<ymp_yAbsolute>137.5</ymp_yAbsolute>
+		<ymp_xOffset>117.0</ymp_xOffset>
+		<ymp_yOffset>27.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->At equilibrium, both the forward and reverse reaction still continue to occur at equal rates.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>64.45</ymp_xAbsolute>
+		<ymp_yAbsolute>125.6</ymp_yAbsolute>
+		<ymp_xOffset>224.8</ymp_xOffset>
+		<ymp_yOffset>34.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->Since the rates are equal, the overall concentrations do not change. The amount of product being formed from the forward reaction is exactly balanced by the amount of reactant formed by the reverse reaction.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>213.25</ymp_xAbsolute>
+		<ymp_yAbsolute>126.8</ymp_yAbsolute>
+		<ymp_xOffset>178.3</ymp_xOffset>
+		<ymp_yOffset>43.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->Let's consider again the reaction between 2NO2's to form N2O4. We'll assume that both the forward and reverse reactions are elementary steps such that we can write down the rate law for these reactions.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>428.85</ymp_xAbsolute>
+		<ymp_yAbsolute>131.7</ymp_yAbsolute>
+		<ymp_xOffset>74.0</ymp_xOffset>
+		<ymp_yOffset>21.9</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->We will also switch from describing the amounts in terms of partial pressures (in atm) and instead use the concentrations (in Molarity, M). Both are measures of the amount of the chemical species and so both are valid, although the reaction quotient Q and equilibrium constant K will have different numerical values when the amounts are described in moles per liter instead of atmospheres.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>47.8</ymp_xAbsolute>
+		<ymp_yAbsolute>181.3</ymp_yAbsolute>
+		<ymp_xOffset>426.6</ymp_xOffset>
+		<ymp_yOffset>24.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[8] -->For the forward reaction, the rate is k_1 times the concentration of NO2 squared.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>72.55</ymp_xAbsolute>
+		<ymp_yAbsolute>230.75</ymp_yAbsolute>
+		<ymp_xOffset>362.4</ymp_xOffset>
+		<ymp_yOffset>69.6</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->As our reaction progresses, the concentration of NO2 decreases and the rate of the reaction slows, we will indicate this by forward reaction arrows, whose lengths decrease as the reaction progresses.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>56.05</ymp_xAbsolute>
+		<ymp_yAbsolute>319.9</ymp_yAbsolute>
+		<ymp_xOffset>430.8</ymp_xOffset>
+		<ymp_yOffset>20.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->For the reverse reaction, the rate is k_{-1} times the concentration of N2O4.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>72.5</ymp_xAbsolute>
+		<ymp_yAbsolute>356.65</ymp_yAbsolute>
+		<ymp_xOffset>362.5</ymp_xOffset>
+		<ymp_yOffset>72.0</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->As the reverse reaction progresses, the concentration of N2O4 decreases and the rate of the reverse reaction slows. We again indicate this by arrows that decrease in size.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>72.15</ymp_xAbsolute>
+		<ymp_yAbsolute>453</ymp_yAbsolute>
+		<ymp_xOffset>371.9</ymp_xOffset>
+		<ymp_yOffset>17.1</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->Since both the forward and reverse reaction occur simultaneously,</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>74.9</ymp_xAbsolute>
+		<ymp_yAbsolute>497.4</ymp_yAbsolute>
+		<ymp_xOffset>362.4</ymp_xOffset>
+		<ymp_yOffset>78.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->we can combine them together, giving the following diagram.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>321.55</ymp_xAbsolute>
+		<ymp_yAbsolute>497.75</ymp_yAbsolute>
+		<ymp_xOffset>54.5</ymp_xOffset>
+		<ymp_yOffset>54.5</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->Chemical equilibrium is established when the forward rate is equal to the reverse rate, as occurs at this point.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>186.8</ymp_xAbsolute>
+		<ymp_yAbsolute>584.95</ymp_yAbsolute>
+		<ymp_xOffset>286.1</ymp_xOffset>
+		<ymp_yOffset>65.4</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->When the system has this value of Q, we have reached equilibrium, the concentrations no longer change because the rates of the forward and reverse reaction are balanced.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>236.85</ymp_xAbsolute>
+		<ymp_yAbsolute>660.55</ymp_yAbsolute>
+		<ymp_xOffset>208.8</ymp_xOffset>
+		<ymp_yOffset>25.8</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->If we put in the above expressions for the forward and reverse rate we get this expression.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>279.6</ymp_xAbsolute>
+		<ymp_yAbsolute>693.55</ymp_yAbsolute>
+		<ymp_xOffset>137.2</ymp_xOffset>
+		<ymp_yOffset>39.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->Which we can then convert into this form.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<ymp_param_hasaudio>false</ymp_param_hasaudio>
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>277.65</ymp_xAbsolute>
+		<ymp_yAbsolute>731.2</ymp_yAbsolute>
+		<ymp_xOffset>135.8</ymp_xOffset>
+		<ymp_yOffset>30.2</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->and so we have recovered the law of mass action, with the equilibrium constant K being the ratio between k_1 and k_{-1}.</ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

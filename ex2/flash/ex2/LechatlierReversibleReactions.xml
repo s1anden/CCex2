@@ -1,0 +1,252 @@
+﻿<ymp_presentation>
+
+
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title>Reversible reactions and chemical equilibrium</ymp_title>
+
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+	
+	
+	<ymp_slice>
+		<ymp_param_istitle>true</ymp_param_istitle>
+		<ymp_title> </ymp_title>
+
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>0</ymp_xAbsolute><ymp_yAbsolute>0</ymp_yAbsolute><ymp_xOffset>0</ymp_xOffset><ymp_yOffset>0</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[01] -->Limiting reagent calculations allow us to predict the changes in chemical species occurring through a chemical reaction. However, this approach is only for reactions that go all the way to completion, i.e. strong reactions. Another class of reactions are "reversible reactions", that reach a steady state called "chemical equilibrium". Such reactions require a different approach, which is the topic of this course module.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>55.15</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>68.35</ymp_yAbsolute>
+		
+		<ymp_xOffset>354.1</ymp_xOffset>
+		
+		<ymp_yOffset>58.5</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[02] -->Suppose we have a reaction in which A and B react to produce C and D, and we start with these initial values for the amounts of the chemical species, in moles/ liter.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>77.95</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>202.6</ymp_yAbsolute>
+		
+		<ymp_xOffset>264.6</ymp_xOffset>
+		
+		<ymp_yOffset>35.6</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[03] -->In addition, we will assume the reaction is a strong reaction, meaning that it proceeds until one or both of the reactants runs out. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>73.15</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>139.35</ymp_yAbsolute>
+		
+		<ymp_xOffset>264.2</ymp_xOffset>
+		
+		<ymp_yOffset>12.4</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[04] -->For these initial values, A is the limiting reagent, and as the reaction goes to completion we lose one of each of the reactants and gain one of each of the products.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>73.05</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>159.1</ymp_yAbsolute>
+		
+		<ymp_xOffset>262.9</ymp_xOffset>
+		
+		<ymp_yOffset>12.2</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[05] -->This leads to these final concentrations.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>139.05</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>186.8</ymp_yAbsolute>
+		
+		<ymp_xOffset>156.9</ymp_xOffset>
+		
+		<ymp_yOffset>25.2</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[06] -->This is the correct approach for a reaction that goes all the way to completion in the forward direction as written. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>59.25</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>263.95</ymp_yAbsolute>
+		
+		<ymp_xOffset>296.6</ymp_xOffset>
+		
+		<ymp_yOffset>39.0</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[07] -->Suppose instead that we have a reaction that goes in the reverse direction, such that C and D are converted into A and B. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>82.4</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>371</ymp_yAbsolute>
+		
+		<ymp_xOffset>278.8</ymp_xOffset>
+		
+		<ymp_yOffset>40.0</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[08] -->If the reverse reaction is a strong reaction, it proceeds until one or both of the products runs out. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>61.95</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>317.05</ymp_yAbsolute>
+		
+		<ymp_xOffset>288.9</ymp_xOffset>
+		
+		<ymp_yOffset>13.7</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[09] -->In this case, C is the limiting reagent and the reaction proceeds in the reverse direction until C runs out. We lose one each of C and D and gain one each of A and B. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>62.2</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>339.15</ymp_yAbsolute>
+		
+		<ymp_xOffset>284.4</ymp_xOffset>
+		
+		<ymp_yOffset>12.3</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[10] -->This leads to these final amounts. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>59.55</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>443.9</ymp_yAbsolute>
+		
+		<ymp_xOffset>376.4</ymp_xOffset>
+		
+		<ymp_yOffset>36.8</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[11] -->The above approach, which we call the limiting reagent problem, is useful when only the forward or reverse reaction needs to be considered. In this course module, we consider reactions for which we must consider both the forward and reverse directions simultaneously. The double reaction arrow is used to indicate a reversible reaction. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>69.5</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>493.7</ymp_yAbsolute>
+		
+		<ymp_xOffset>293.3</ymp_xOffset>
+		
+		<ymp_yOffset>11.7</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[12] -->For reversible reactions, it is no longer true that the reaction will progress until something runs out. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>82.7</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>572.05</ymp_yAbsolute>
+		
+		<ymp_xOffset>247.8</ymp_xOffset>
+		
+		<ymp_yOffset>58.6</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[13] -->Instead, the reaction progresses until it reaches a steady state which we call a state of chemical equilibrium. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>94.75</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>621.95</ymp_yAbsolute>
+		
+		<ymp_xOffset>239.3</ymp_xOffset>
+		
+		<ymp_yOffset>26.6</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[14] -->Once we reach this steady state, the concentrations are no longer changing because the rate of the forward reaction is equal to the rate of the reverse reaction. We will discuss this in more detail in the following library modules.</ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>70.25</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>512.95</ymp_yAbsolute>
+		
+		<ymp_xOffset>277.6</ymp_xOffset>
+		
+		<ymp_yOffset>13.6</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[15] -->For systems reaching chemical equilibrium, the changes in concentration are between the above limits of plus and minus one. </ymp_txt>
+	</ymp_slice>
+
+
+	<ymp_slice>
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>52.2</ymp_xAbsolute>
+		
+		<ymp_yAbsolute>533.9</ymp_yAbsolute>
+		
+		<ymp_xOffset>298.3</ymp_xOffset>		
+		
+		<ymp_yOffset>14.5</ymp_yOffset>
+		
+		<ymp_tc>00:02</ymp_tc>
+		<ymp_txt><!--[16] -->At equilibrium, all species have non-zero concentrations. </ymp_txt>
+	</ymp_slice>
+</ymp_presentation>

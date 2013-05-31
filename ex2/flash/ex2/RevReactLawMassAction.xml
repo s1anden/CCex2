@@ -1,0 +1,210 @@
+﻿<ymp_presentation>
+
+	<ymp_slice>
+		<ymp_idx>0</ymp_idx>
+		<ymp_xAbsolute>25</ymp_xAbsolute>
+		<ymp_yAbsolute>0</ymp_yAbsolute>
+		<ymp_xOffset>25</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:00</ymp_tc>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>1</ymp_idx>
+		<ymp_xAbsolute>50</ymp_xAbsolute>
+		<ymp_yAbsolute>50</ymp_yAbsolute>
+		<ymp_xOffset>248</ymp_xOffset>
+		<ymp_yOffset>42</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[1] -->An important and useful property of chemical equilibrium systems is that they obey what is called the Law of Mass Action. In this module, we’ll discuss the Law of Mass Action for the general reaction shown above.  </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>2</ymp_idx>
+		<ymp_xAbsolute>80</ymp_xAbsolute>
+		<ymp_yAbsolute>125</ymp_yAbsolute>
+		<ymp_xOffset>278</ymp_xOffset>
+		<ymp_yOffset>63</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[2] -->This law states that at chemical equilibrium, the reaction quotient, Q, of the system will be equal to a constant that depends only on the chemical reaction and temperature. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>3</ymp_idx>
+		<ymp_xAbsolute>400</ymp_xAbsolute>
+		<ymp_yAbsolute>100</ymp_yAbsolute>
+		<ymp_xOffset>138</ymp_xOffset>
+		<ymp_yOffset>89</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[3] -->We call this constant the equilibrium constant and give it the symbol upper-case K. It is expressed in concentration for solutions (on the left), and in partial pressures of gases (on the right).</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>4</ymp_idx>
+		<ymp_xAbsolute>60</ymp_xAbsolute>
+		<ymp_yAbsolute>220</ymp_yAbsolute>
+		<ymp_xOffset>415</ymp_xOffset>
+		<ymp_yOffset>58</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[4] -->Let's do an example to see how the law of mass action works. Say we start with one atmosphere each of hydrogen and iodine gas, and these react through the following reversible reaction to form two hydrogen iodide gas-phase molecules. </ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>5</ymp_idx>
+		<ymp_xAbsolute>75</ymp_xAbsolute>
+		<ymp_yAbsolute>300</ymp_yAbsolute>
+		<ymp_xOffset>378</ymp_xOffset>
+		<ymp_yOffset>38</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[5] -->As the reaction occurs, the partial pressures of the gases will change, but eventually we will reach chemical equilibrium. At this point, we find 0.213 atmospheres each of hydrogen and iodine gas and 1.573 atmospheres of hydrogen iodide gas. </ymp_txt>
+	</ymp_slice>
+
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>6</ymp_idx>
+		<ymp_xAbsolute>480</ymp_xAbsolute>
+		<ymp_yAbsolute>280</ymp_yAbsolute>
+		<ymp_xOffset>111</ymp_xOffset>
+		<ymp_yOffset>93</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[6] -->We can summarize this experiment using a table, in which we write the reaction on top, put the initial values in the first row and put the steady state equilibrium values in the second row.  </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>7</ymp_idx>
+		<ymp_xAbsolute>70</ymp_xAbsolute>
+		<ymp_yAbsolute>365</ymp_yAbsolute>
+		<ymp_xOffset>389</ymp_xOffset>
+		<ymp_yOffset>60</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->The law of mass action says that Q will equal K at equilibrium. If we plug in the partial pressures in atmospheres we find a value of 54 for the equilibrium constant K.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>8</ymp_idx>
+		<ymp_xAbsolute>60</ymp_xAbsolute>
+		<ymp_yAbsolute>450</ymp_yAbsolute>
+		<ymp_xOffset>187</ymp_xOffset>
+		<ymp_yOffset>18</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[7] -->Let's assume our system is sitting in this steady state equilibrium situation, and we suddenly add an additional 1 atmosphere of iodine gas. LeChatlier's principal tells us that the system will shift in the forward direction to counter the stress. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>9</ymp_idx>
+		<ymp_xAbsolute>75</ymp_xAbsolute>
+		<ymp_yAbsolute>485</ymp_yAbsolute>
+		<ymp_xOffset>381</ymp_xOffset>
+		<ymp_yOffset>44</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[9] -->We'll again summarize what happens in a tabular form. After addition of the 1 atmosphere of iodine gas, we've established a new initial condition. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>10</ymp_idx>
+		<ymp_xAbsolute>82</ymp_xAbsolute>
+		<ymp_yAbsolute>538</ymp_yAbsolute>
+		<ymp_xOffset>372</ymp_xOffset>
+		<ymp_yOffset>13</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[10] -->If we wait and then measure again, we’ll see that at equilibrium, the reaction adjusts leading to these partial pressures. </ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>11</ymp_idx>
+		<ymp_xAbsolute>70</ymp_xAbsolute>
+		<ymp_yAbsolute>577</ymp_yAbsolute>
+		<ymp_xOffset>358</ymp_xOffset>
+		<ymp_yOffset>50</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[11] -->Now, let’s check to see if the Law of Mass Action was obeyed. Plugging in our new values, we see Q again equals our equilibrium constant of 54. Notice that even though the final concentrations are different than when we started, the equilibrium constant is constant.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>12</ymp_idx>
+		<ymp_xAbsolute>389</ymp_xAbsolute>
+		<ymp_yAbsolute>587</ymp_yAbsolute>
+		<ymp_xOffset>169</ymp_xOffset>
+		<ymp_yOffset>88</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[12] -->This is what the law of mass action means. A reaction system will always adjusts itself such that the law of mass action is obeyed, meaning the reaction shifts until Q becomes equal to the equilibrium constant K.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>13</ymp_idx>
+		<ymp_xAbsolute>60</ymp_xAbsolute>
+		<ymp_yAbsolute>675</ymp_yAbsolute>
+		<ymp_xOffset>510</ymp_xOffset>
+		<ymp_yOffset>40</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[13] -->This phenomenon was originally discovered by Henry Louis LeChatlier, and is named after him. LeChatlier's Principle states that "If a chemical system at equilibrium experiences a change in concentration, temperature, volume, or partial pressure, then the equilibrium shifts to counteract the imposed change and a new equilibrium is established," in other words the reaction shifts until Q becomes equal to the equilibrium constant K.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>14</ymp_idx>
+		<ymp_xAbsolute>70</ymp_xAbsolute>
+		<ymp_yAbsolute>740</ymp_yAbsolute>
+		<ymp_xOffset>86</ymp_xOffset>
+		<ymp_yOffset>28</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[14] -->In the Hemoglobin scenario we saw that blood, traveling from the heart is initially at equilibrium.</ymp_txt>
+	</ymp_slice>
+
+	<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>15</ymp_idx>
+		<ymp_xAbsolute>175</ymp_xAbsolute>
+		<ymp_yAbsolute>774</ymp_yAbsolute>
+		<ymp_xOffset>46</ymp_xOffset>
+		<ymp_yOffset>48</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[15] -->As the blood enters the lungs, it is exposed to the stress of an increase in oxygen concentration.  </ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>16</ymp_idx>
+		<ymp_xAbsolute>245</ymp_xAbsolute>
+		<ymp_yAbsolute>775</ymp_yAbsolute>
+		<ymp_xOffset>85</ymp_xOffset>
+		<ymp_yOffset>47</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[16] -->This causes the system to no longer be at equilibrium.</ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>17</ymp_idx>
+		<ymp_xAbsolute>355</ymp_xAbsolute>
+		<ymp_yAbsolute>770</ymp_yAbsolute>
+		<ymp_xOffset>101</ymp_xOffset>
+		<ymp_yOffset>57</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[17] -->The reaction then shifts in a direction that decreases the oxygen concentration in the blood...</ymp_txt>
+	</ymp_slice>
+	
+		<ymp_slice>
+		<!--<ymp_param_hasaudio>true</ymp_param_hasaudio> -->
+		<ymp_idx>18</ymp_idx>
+		<ymp_xAbsolute>480</ymp_xAbsolute>
+		<ymp_yAbsolute>780</ymp_yAbsolute>
+		<ymp_xOffset>128</ymp_xOffset>
+		<ymp_yOffset>29</ymp_yOffset>
+		<ymp_tc>00:01</ymp_tc>
+		<ymp_txt><!--[18] -->...to establish a new equilibrium. LeChatlier's principle simply states that the chemical reaction shifts to counter the stress, in this case decreasing the amount of free oxygen to counter the addition of oxygen.</ymp_txt>
+	</ymp_slice>
+	
+</ymp_presentation>
