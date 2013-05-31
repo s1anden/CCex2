@@ -3094,949 +3094,7 @@ iBqGjoiQjI+MjpAekZWehayPBYyOjoyPG5KRiISSH6qEn5QFhJmXh5YbmJqPkpofoIAFtgaWk4aC\
 kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 ]]>
 </style>
-<g id="Background" style="display:none;">
-	
-		<text transform="matrix(1 0 0 1 20.0361 21.4189)" style="display:inline;stroke:#000000; font-family:'BradleyHandITC'; font-size:20;">Manipulating K and chemical reactions</text>
-	
-		<text transform="matrix(1 0 0 1 57.2168 58.1655)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">A   +   2B          C</text>
-	<g style="display:inline;">
-		<g>
-			<g>
-				<path style="fill:none;" d="M136.514,59.333c-1.64-0.87-5.416-1.992-6.627-3.368c7.265-0.46,14.735-0.099,22.044-0.099"/>
-				<path style="fill:#974C97;" d="M136.773,58.634c-2.175-1.03-4.614-1.681-6.458-3.28c-0.099,0.449-0.199,0.897-0.298,1.346
-					c7.279-0.399,14.56-0.116,21.844-0.09c0.956,0.003,1.102-1.483,0.141-1.486c-7.418-0.025-14.831-0.3-22.244,0.107
-					c-0.728,0.04-0.722,0.979-0.298,1.346c1.948,1.688,4.5,2.37,6.796,3.457C137.127,60.446,137.635,59.042,136.773,58.634
-					L136.773,58.634z"/>
-			</g>
-		</g>
-		<g>
-			<g>
-				<path style="fill:none;" d="M129.833,53.143c6.681,0,15.417,0.99,21.583-0.495c-2.055-1.486-4.625-0.991-7.194-1.981"/>
-				<path style="fill:#019664;" d="M129.763,53.886c7.24,0.061,14.63,1.007,21.783-0.503c0.579-0.123,0.904-1.009,0.298-1.346
-					c-2.346-1.305-4.811-1.298-7.363-2.07c-0.918-0.278-1.439,1.121-0.518,1.399c2.298,0.695,4.897,0.709,7.025,1.893
-					c0.099-0.449,0.199-0.897,0.298-1.346c-7.02,1.483-14.275,0.547-21.383,0.487C128.948,52.392,128.802,53.878,129.763,53.886
-					L129.763,53.886z"/>
-			</g>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 237.8335 55.584)" style="fill:#336699;stroke:#336699; font-family:'Wingdings3'; font-size:12;">r</text>
-		
-			<text transform="matrix(1 0 0 1 249.5815 55.584)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 260.458 60.5791)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 237.8335 96.334)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">K</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 248.7979 101.3291)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-		
-			<text transform="matrix(1 0 0 1 269.9688 96.334)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;"> = e </text>
-		
-			<text transform="matrix(0.583 0 0 0.583 299.3169 91.3389)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">-</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 302.2974 91.3389)" style="fill:#336699;stroke:#336699; font-family:'Wingdings3'; font-size:15;">r</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 310.8584 90.6729)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:17;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 318.0449 94.0039)" style="fill:#336699;stroke:#336699;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:10;">ORIG</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 332.1582 91.3389)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">/RT</text>
-	</g>
-	<g style="display:inline;">
-		<g>
-			
-				<text transform="matrix(1 0 0 1 56.3335 89.334)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">K</text>
-			
-				<text transform="matrix(0.583 0 0 0.583 67.2979 94.3291)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-			
-				<text transform="matrix(1 0 0 1 88.4688 89.334)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;"> =</text>
-		</g>
-		
-			<text transform="matrix(1 0 0 1 123.0718 81.834)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[C]</text>
-		
-			<text transform="matrix(1 0 0 1 107.9536 101.0342)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[A][B]</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 155.4067 95.7061)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">2</text>
-		<line style="fill:none;stroke:#336699;" x1="109.333" y1="86.833" x2="157.833" y2="86.833"/>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 48.813 149.6646)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">2A   +   4B          2C</text>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<g>
-				<path style="fill:none;" d="M138.514,150.333c-1.64-0.87-5.416-1.992-6.627-3.368c7.265-0.46,14.736-0.099,22.044-0.099"/>
-				<path style="fill:#974C97;" d="M138.773,149.634c-2.175-1.03-4.614-1.681-6.458-3.28c-0.099,0.449-0.199,0.897-0.298,1.346
-					c7.279-0.399,14.561-0.116,21.845-0.09c0.956,0.003,1.102-1.483,0.141-1.486c-7.418-0.025-14.831-0.3-22.244,0.107
-					c-0.728,0.04-0.722,0.979-0.298,1.346c1.948,1.688,4.5,2.37,6.796,3.457C139.127,151.446,139.635,150.042,138.773,149.634
-					L138.773,149.634z"/>
-			</g>
-		</g>
-		<g>
-			<g>
-				<path style="fill:none;" d="M131.833,144.143c6.681,0,15.416,0.99,21.583-0.495c-2.056-1.486-4.625-0.991-7.194-1.981"/>
-				<path style="fill:#019664;" d="M131.763,144.886c7.24,0.061,14.63,1.007,21.783-0.503c0.579-0.123,0.904-1.009,0.298-1.346
-					c-2.347-1.305-4.811-1.298-7.363-2.07c-0.918-0.278-1.439,1.121-0.518,1.399c2.298,0.695,4.897,0.71,7.025,1.893
-					c0.099-0.449,0.199-0.897,0.298-1.346c-7.02,1.483-14.275,0.547-21.383,0.487C130.948,143.392,130.802,144.878,131.763,144.886
-					L131.763,144.886z"/>
-			</g>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 31.3052 129.334)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">DOUBLING</text>
-	</g>
-	<g style="display:inline;">
-		<text transform="matrix(1 0 0 1 235.5005 151.334)" style="fill:#009966;stroke:#009966; font-family:'SymbolMT'; font-size:11;">D</text>
-		
-			<text transform="matrix(1 0 0 1 242.2305 151.334)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:17;">G</text>
-		
-			<text transform="matrix(1 0 0 1 254.5571 151.334)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;"> = 2 </text>
-		
-			<text transform="matrix(1 0 0 1 287.0552 151.334)" style="fill:#009966;stroke:#009966; font-family:'Wingdings3'; font-size:12;">r</text>
-		
-			<text transform="matrix(1 0 0 1 298.8032 151.334)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:17;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 311.1289 156.3291)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<text transform="matrix(1 0 0 1 57.3335 198.9551)"><tspan x="0" y="0" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">K</tspan><tspan x="13.157" y="0" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">  =</tspan></text>
-		</g>
-		
-			<text transform="matrix(1 0 0 1 116.4185 191.4551)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">[C]</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 138.9419 186.127)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">2</text>
-		
-			<text transform="matrix(1 0 0 1 101.0117 210.6553)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">[A]</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 125.0742 205.3271)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">2</text>
-		
-			<text transform="matrix(1 0 0 1 130.3804 210.6553)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">[B]</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 153.771 205.3271)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">4</text>
-		<line style="fill:#009966;stroke:#009966;" x1="99.333" y1="196.455" x2="147.833" y2="196.455"/>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 172.3335 199.2129)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">=</text>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 222.0718 192.334)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[C]</text>
-	
-		<text transform="matrix(1 0 0 1 206.9536 211.5342)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[A][B]</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 254.4067 206.2061)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">2</text>
-	<line style="display:inline;fill:#336699;stroke:#336699;" x1="208.333" y1="197.333" x2="256.833" y2="197.333"/>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M209.833,180.333c-8,10.214-9.5,28.321-1,39"/>
-			<path style="fill:#009966;" d="M209.222,179.906c-8.414,11.303-9.579,28.406-0.958,39.911c0.577,0.77,1.713-0.198,1.138-0.966
-				c-8.224-10.973-6.954-27.348,1.042-38.089C211.021,179.988,209.796,179.134,209.222,179.906L209.222,179.906z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M257.833,179.333c6.5,15.261,9.5,24.688,0,39.5"/>
-			<path style="fill:#009966;" d="M257.16,179.654c2.426,5.734,4.795,11.495,5.741,17.685c1.166,7.625-1.747,14.71-5.679,21.067
-				c-0.504,0.815,0.715,1.676,1.223,0.855c3.695-5.976,6.249-12.146,6.165-19.26c-0.086-7.28-3.322-14.416-6.103-20.988
-				C258.132,178.127,256.785,178.769,257.16,179.654L257.16,179.654z"/>
-		</g>
-	</g>
-	
-		<text transform="matrix(0.583 0 0 0.583 263.1802 183.5059)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">2</text>
-	
-		<text transform="matrix(1 0 0 1 295.3335 201.0376)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">=</text>
-	
-		<text transform="matrix(1 0 0 1 307.8281 201.0376)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">     </text>
-	
-		<text transform="matrix(1 0 0 1 326.9453 201.0376)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">K</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 340.1016 206.0327)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 340.1797 192.0059)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">2</text>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 57.167 253.6621)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">K  </text>
-		
-			<text transform="matrix(1 0 0 1 79.5 253.6621)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">=</text>
-		
-			<text transform="matrix(1 0 0 1 91.9951 253.6621)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;"> e </text>
-		
-			<text transform="matrix(0.583 0 0 0.583 107.6309 247.668)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">-</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 111.2075 247.668)" style="fill:#009966;stroke:#009966; font-family:'Wingdings3'; font-size:18;">r</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 121.481 247.668)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 129.0903 250.666)" style="fill:#009966;stroke:#009966;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:12;">ORIG</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 146.0269 247.668)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">/RT </text>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 172.8335 253.3262)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">=</text>
-	
-		<text transform="matrix(1 0 0 1 185.3286 253.3262)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">   e </text>
-	
-		<text transform="matrix(0.583 0 0 0.583 210.1401 247.332)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">-2</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 219.686 247.332)" style="display:inline;fill:#336699;stroke:#336699; font-family:'Wingdings3'; font-size:18;">r</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 229.96 247.332)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">G</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 237.5688 250.3301)" style="display:inline;fill:#336699;stroke:#336699;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:12;">ORIG</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 254.5054 247.332)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">/RT</text>
-	
-		<text transform="matrix(1 0 0 1 279.6763 253.8252)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">=</text>
-	
-		<text transform="matrix(1 0 0 1 292.1709 253.8252)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">   e </text>
-	
-		<text transform="matrix(0.583 0 0 0.583 316.9834 247.8311)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">-</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 320.5596 247.8311)" style="display:inline;fill:#009966;stroke:#009966; font-family:'Wingdings3'; font-size:18;">r</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 330.833 246.832)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">G</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 339.7109 250.4961)" style="display:inline;fill:#009966;stroke:#009966;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:13;">ORIG</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 358.0586 247.8311)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">/RT</text>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M309,236c-2.666,6.667-7.333,19.333-0.666,24.667"/>
-			<path style="fill:#009966;" d="M308.301,235.742c-2.92,7.362-7.563,18.956-0.537,25.409c0.699,0.641,1.848-0.314,1.139-0.966
-				c-6.567-6.031-1.943-17.013,0.799-23.925C310.057,235.362,308.654,234.849,308.301,235.742L308.301,235.742z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M376,233.667C379.334,241,384,253,378.668,261"/>
-			<path style="fill:#009966;" d="M375.326,233.987c3.611,8.048,7.66,18.243,2.73,26.585c-0.486,0.823,0.732,1.686,1.223,0.855
-				c5.246-8.876,1.268-19.449-2.605-28.082C376.281,232.469,374.932,233.109,375.326,233.987L375.326,233.987z"/>
-		</g>
-	</g>
-	
-		<text transform="matrix(0.583 0 0 0.583 382.5137 241.6719)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">2</text>
-	
-		<text transform="matrix(1 0 0 1 396.1875 252.4985)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">=   </text>
-	
-		<text transform="matrix(1 0 0 1 420.1523 252.4985)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">K</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 433.3096 257.4937)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 433.5137 244.4551)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">2</text>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 55.8989 329.3315)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">A   +   2B           C</text>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<g>
-				<path style="fill:none;" d="M138.848,330.333c-1.64-0.87-5.416-1.992-6.628-3.368c7.266-0.46,14.736-0.099,22.045-0.099"/>
-				<path style="fill:#974C97;" d="M139.106,329.634c-2.175-1.03-4.614-1.681-6.459-3.28c-0.099,0.449-0.199,0.897-0.298,1.346
-					c7.279-0.399,14.561-0.116,21.845-0.09c0.956,0.003,1.102-1.483,0.141-1.486c-7.418-0.025-14.832-0.3-22.245,0.107
-					c-0.728,0.04-0.723,0.979-0.298,1.346c1.948,1.688,4.5,2.37,6.797,3.457C139.46,331.446,139.969,330.042,139.106,329.634
-					L139.106,329.634z"/>
-			</g>
-		</g>
-		<g>
-			<g>
-				<path style="fill:none;" d="M132.167,324.143c6.681,0,15.416,0.99,21.583-0.495c-2.056-1.486-4.625-0.991-7.194-1.981"/>
-				<path style="fill:#019664;" d="M132.097,324.886c7.24,0.061,14.63,1.007,21.783-0.503c0.579-0.123,0.904-1.009,0.298-1.346
-					c-2.347-1.305-4.811-1.298-7.363-2.07c-0.918-0.278-1.439,1.121-0.518,1.399c2.298,0.695,4.897,0.71,7.025,1.893
-					c0.099-0.449,0.199-0.897,0.298-1.346c-7.02,1.483-14.275,0.547-21.383,0.487C131.281,323.392,131.135,324.878,132.097,324.886
-					L132.097,324.886z"/>
-			</g>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 235.5005 325.168)" style="fill:#983795;stroke:#983795; font-family:'Wingdings3'; font-size:12;">r</text>
-		
-			<text transform="matrix(1 0 0 1 247.2485 325.168)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 258.125 330.1631)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">ORIG </text>
-		
-			<text transform="matrix(1 0 0 1 281.5249 325.168)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">= - </text>
-		
-			<text transform="matrix(1 0 0 1 306.7788 325.168)" style="fill:#983795;stroke:#983795; font-family:'Wingdings3'; font-size:12;">r</text>
-		
-			<text transform="matrix(1 0 0 1 318.5273 325.168)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 329.4023 330.1631)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 31.3052 303.333)" style="display:inline;fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:17;">REVERSING</text>
-	<g style="display:inline;">
-		<g>
-			
-				<text transform="matrix(1 0 0 1 58 375.334)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">K</text>
-			
-				<text transform="matrix(0.583 0 0 0.583 68.9644 380.3291)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">  </text>
-			
-				<text transform="matrix(1 0 0 1 73.4224 375.334)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;"> =</text>
-		</g>
-		
-			<text transform="matrix(1 0 0 1 103.6201 367.834)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:16;">[A][B]</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 151.0732 362.5059)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:16;">2</text>
-		
-			<text transform="matrix(1 0 0 1 118.7383 387.0342)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:16;">[C]</text>
-		<line style="fill:#983795;stroke:#983795;" x1="104" y1="372.833" x2="152.5" y2="372.833"/>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 234.4048 363.666)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[C]</text>
-	
-		<text transform="matrix(1 0 0 1 219.2866 382.8662)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[A][B]</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 266.7397 377.5381)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">2</text>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M222.167,351.667c-8,10.214-9.5,28.321-1,39"/>
-			<path style="fill:#983795;" d="M221.555,351.239c-8.414,11.303-9.579,28.407-0.958,39.911c0.577,0.77,1.713-0.198,1.138-0.966
-				c-8.224-10.973-6.954-27.348,1.042-38.089C223.354,351.321,222.129,350.467,221.555,351.239L221.555,351.239z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M270.167,350.667c6.5,15.261,9.5,24.688,0,39.5"/>
-			<path style="fill:#983795;" d="M269.493,350.987c2.426,5.734,4.795,11.495,5.741,17.685c1.166,7.625-1.747,14.71-5.679,21.067
-				c-0.504,0.815,0.716,1.676,1.223,0.855c3.695-5.976,6.249-12.146,6.165-19.26c-0.086-7.28-3.322-14.416-6.103-20.988
-				C270.465,349.46,269.118,350.102,269.493,350.987L269.493,350.987z"/>
-		</g>
-	</g>
-	
-		<text transform="matrix(0.583 0 0 0.583 275.4634 354.1719)" style="display:inline;fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">- 1</text>
-	<line style="display:inline;fill:#336699;stroke:#336699;" x1="220.667" y1="368.167" x2="269.167" y2="368.167"/>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 181.3335 376.001)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">=</text>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 304.3335 376.001)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">=</text>
-	</g>
-	<line style="display:inline;fill:#983795;stroke:#983795;" x1="342.334" y1="370.833" x2="386.334" y2="370.833"/>
-	
-		<text transform="matrix(1 0 0 1 364 364.3716)" style="display:inline;fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:17;">1</text>
-	
-		<text transform="matrix(1 0 0 1 346.8359 385.9717)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">K</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 359.9922 390.9668)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 64.5005 425.6621)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">K  </text>
-		
-			<text transform="matrix(1 0 0 1 86.8335 425.6621)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">=</text>
-		
-			<text transform="matrix(1 0 0 1 99.3286 425.6621)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;"> e </text>
-		
-			<text transform="matrix(0.583 0 0 0.583 114.9644 419.668)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">-</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 118.541 419.668)" style="fill:#983795;stroke:#983795; font-family:'Wingdings3'; font-size:18;">r</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 128.8145 419.668)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">G/RT </text>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 180.167 425.3271)" style="display:inline;fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">=</text>
-	
-		<text transform="matrix(1 0 0 1 192.6621 425.3271)" style="display:inline;fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">   e </text>
-	
-		<text transform="matrix(0.583 0 0 0.583 217.4736 419.333)" style="display:inline;fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">+</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 226.2153 419.333)" style="display:inline;fill:#336699;stroke:#336699; font-family:'Wingdings3'; font-size:18;">r</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 236.4888 419.333)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">G</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 244.0981 422.3311)" style="display:inline;fill:#336699;stroke:#336699;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:12;">ORIG</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 261.0347 419.333)" style="display:inline;fill:#009966;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">/RT</text>
-	
-		<text transform="matrix(1 0 0 1 287.0098 425.8252)" style="display:inline;fill:#009966;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">=</text>
-	
-		<text transform="matrix(1 0 0 1 299.5044 425.8252)" style="display:inline;fill:#009966;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">   </text>
-	
-		<text transform="matrix(1 0 0 1 313.2676 425.8252)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">e </text>
-	
-		<text transform="matrix(0.583 0 0 0.583 324.3164 419.8311)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">-</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 327.8926 419.8311)" style="display:inline;fill:#336699;stroke:#336699; font-family:'Wingdings3'; font-size:18;">r</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 338.166 418.832)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">G</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 347.0449 422.4961)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:13;">ORIG</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 365.3926 419.8311)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">/RT</text>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M316.334,408c-2.666,6.667-7.334,19.333-0.666,24.667"/>
-			<path style="fill:#983795;" d="M315.633,407.742c-2.918,7.362-7.563,18.956-0.535,25.408c0.699,0.642,1.848-0.314,1.139-0.965
-				c-6.568-6.031-1.943-17.013,0.797-23.926C317.389,407.363,315.988,406.849,315.633,407.742L315.633,407.742z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M383.334,405.667c3.334,7.333,8,19.333,2.668,27.333"/>
-			<path style="fill:#983795;" d="M382.66,405.988c3.609,8.048,7.66,18.242,2.73,26.585c-0.486,0.823,0.732,1.686,1.223,0.855
-				c5.244-8.876,1.268-19.449-2.605-28.081C383.613,404.469,382.266,405.109,382.66,405.988L382.66,405.988z"/>
-		</g>
-	</g>
-	
-		<text transform="matrix(0.583 0 0 0.583 388.6201 413.6719)" style="display:inline;fill:#009966;stroke:#983795; font-family:'BradleyHandITC'; font-size:16;">-1</text>
-	<text transform="matrix(1 0 0 1 413.334 424.4985)" style="display:inline;"><tspan x="0" y="0" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">=</tspan><tspan x="12.496" y="0" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">   </tspan></text>
-	<line style="display:inline;fill:#983795;stroke:#983795;" x1="443.334" y1="418.833" x2="487.334" y2="418.833"/>
-	
-		<text transform="matrix(1 0 0 1 465 412.3716)" style="display:inline;fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:17;">1</text>
-	
-		<text transform="matrix(1 0 0 1 447.8359 433.9717)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">K</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 460.9922 438.9668)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-	
-		<text transform="matrix(1 0 0 1 34.3335 476.0015)" style="display:inline;stroke:#000000; font-family:'BradleyHandITC'; font-size:15;">COMBINING REACTIONS</text>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 70.0493 502.6655)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">A   +   B           C</text>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<g>
-				<path style="fill:none;" d="M147.514,503c-1.639-0.869-5.416-1.99-6.627-3.367c7.266-0.461,14.736-0.1,22.045-0.1"/>
-				<path style="fill:#974C97;" d="M147.772,502.299c-2.175-1.029-4.614-1.679-6.458-3.278c-0.099,0.449-0.199,0.897-0.298,1.346
-					c7.279-0.399,14.561-0.116,21.845-0.091c0.956,0.003,1.102-1.482,0.141-1.486c-7.418-0.025-14.832-0.299-22.245,0.108
-					c-0.728,0.04-0.722,0.979-0.298,1.346c1.947,1.688,4.5,2.369,6.796,3.456C148.126,504.111,148.635,502.708,147.772,502.299
-					L147.772,502.299z"/>
-			</g>
-		</g>
-		<g>
-			<g>
-				<path style="fill:none;" d="M140.834,496.81c6.68,0,15.416,0.99,21.582-0.496c-2.055-1.485-4.625-0.99-7.193-1.98"/>
-				<path style="fill:#019664;" d="M140.764,497.553c7.24,0.061,14.629,1.008,21.782-0.505c0.579-0.122,0.904-1.009,0.298-1.346
-					c-2.346-1.305-4.81-1.298-7.362-2.069c-0.918-0.277-1.439,1.122-0.518,1.4c2.298,0.694,4.896,0.709,7.024,1.892
-					c0.099-0.449,0.199-0.897,0.298-1.346c-7.02,1.483-14.274,0.548-21.382,0.487C139.948,496.059,139.802,497.544,140.764,497.553
-					L140.764,497.553z"/>
-			</g>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 72.2358 529.5)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:16;">B   +   C           D</text>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 68.3267 554)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">A   +  2B          D</text>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<g>
-				<path style="fill:none;" d="M147.513,529.541c-1.639-0.869-5.416-1.99-6.626-3.367c7.265-0.461,14.736-0.1,22.044-0.1"/>
-				<path style="fill:#974C97;" d="M147.772,528.84c-2.175-1.029-4.613-1.678-6.458-3.277c-0.099,0.449-0.199,0.896-0.298,1.346
-					c7.279-0.4,14.561-0.117,21.845-0.092c0.956,0.004,1.102-1.482,0.141-1.486c-7.418-0.025-14.831-0.299-22.244,0.109
-					c-0.728,0.039-0.722,0.979-0.298,1.346c1.947,1.688,4.5,2.369,6.795,3.455C148.126,530.652,148.634,529.248,147.772,528.84
-					L147.772,528.84z"/>
-			</g>
-		</g>
-		<g>
-			<g>
-				<path style="fill:none;" d="M140.834,523.352c6.679,0,15.416,0.99,21.582-0.496c-2.055-1.486-4.625-0.99-7.193-1.98"/>
-				<path style="fill:#019664;" d="M140.764,524.094c7.24,0.061,14.629,1.008,21.781-0.504c0.579-0.123,0.904-1.01,0.298-1.346
-					c-2.346-1.305-4.81-1.299-7.362-2.07c-0.918-0.277-1.439,1.123-0.518,1.4c2.298,0.695,4.896,0.709,7.024,1.893
-					c0.099-0.449,0.199-0.898,0.298-1.346c-7.02,1.482-14.274,0.547-21.382,0.486C139.948,522.6,139.802,524.086,140.764,524.094
-					L140.764,524.094z"/>
-			</g>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<g>
-				<path style="fill:none;" d="M147.513,555.082c-1.639-0.869-5.416-1.99-6.626-3.367c7.265-0.461,14.736-0.1,22.044-0.1"/>
-				<path style="fill:#974C97;" d="M147.772,554.381c-2.175-1.029-4.613-1.678-6.458-3.277c-0.099,0.449-0.199,0.896-0.298,1.346
-					c7.279-0.4,14.561-0.117,21.845-0.092c0.956,0.004,1.102-1.482,0.141-1.486c-7.418-0.025-14.831-0.299-22.244,0.109
-					c-0.728,0.039-0.722,0.979-0.298,1.346c1.947,1.688,4.5,2.369,6.795,3.455C148.126,556.193,148.634,554.789,147.772,554.381
-					L147.772,554.381z"/>
-			</g>
-		</g>
-		<g>
-			<g>
-				<path style="fill:none;" d="M140.834,548.893c6.679,0,15.416,0.99,21.582-0.496c-2.055-1.484-4.625-0.99-7.193-1.98"/>
-				<path style="fill:#019664;" d="M140.764,549.635c7.24,0.061,14.629,1.008,21.781-0.504c0.579-0.123,0.904-1.01,0.298-1.346
-					c-2.346-1.305-4.811-1.299-7.362-2.07c-0.918-0.277-1.439,1.123-0.518,1.4c2.298,0.695,4.896,0.709,7.024,1.893
-					c0.099-0.449,0.199-0.898,0.298-1.346c-7.02,1.482-14.274,0.547-21.382,0.486C139.948,548.141,139.802,549.627,140.764,549.635
-					L140.764,549.635z"/>
-			</g>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 235.0562 503.271)" style="fill:#336699;stroke:#009966; font-family:'Wingdings3'; font-size:18;">r</text>
-		
-			<text transform="matrix(1 0 0 1 252.6782 503.271)" style="fill:#336699;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 267.9053 508.5996)" style="fill:#336699;stroke:#009966; font-family:'BradleyHandITC'; font-size:13;">1</text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 266.4302 494.3398)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">o</text>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 234.7622 528.9375)" style="fill:#336699;stroke:#983895; font-family:'Wingdings3'; font-size:18;">r</text>
-		
-			<text transform="matrix(1 0 0 1 252.3843 528.9375)" style="fill:#336699;stroke:#983895; font-family:'BradleyHandITC'; font-size:21;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 267.6113 534.2676)" style="fill:#336699;stroke:#983895; font-family:'BradleyHandITC'; font-size:13;">2</text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 266.4302 520.0068)" style="fill:#009966;stroke:#983895; font-family:'BradleyHandITC'; font-size:16;">o</text>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 237.0562 553.7539)" style="fill:#336699;stroke:#336699; font-family:'Wingdings3'; font-size:18;">r</text>
-		
-			<text transform="matrix(1 0 0 1 254.6782 553.7539)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 269.9053 559.082)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:13;">1</text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 268.4302 544.8213)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">o</text>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 302.3901 553.7539)" style="fill:#336699;stroke:#009966; font-family:'Wingdings3'; font-size:18;">r</text>
-		
-			<text transform="matrix(1 0 0 1 320.0117 553.7539)" style="fill:#336699;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 335.2393 559.082)" style="fill:#336699;stroke:#009966; font-family:'BradleyHandITC'; font-size:13;">1</text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 333.7637 544.8213)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">o</text>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 362.0957 553.7539)" style="fill:#336699;stroke:#983895; font-family:'Wingdings3'; font-size:18;">r</text>
-		
-			<text transform="matrix(1 0 0 1 379.7178 553.7539)" style="fill:#336699;stroke:#983895; font-family:'BradleyHandITC'; font-size:21;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 394.9453 559.082)" style="fill:#336699;stroke:#983895; font-family:'BradleyHandITC'; font-size:13;">2</text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 393.7637 544.8213)" style="fill:#009966;stroke:#983895; font-family:'BradleyHandITC'; font-size:16;">o</text>
-		</g>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 287.334 551.6289)" style="display:inline;stroke:#000000; font-family:'BradleyHandITC'; font-size:16;">=            +</text>
-	
-		<text transform="matrix(1 0 0 1 241.6812 588.582)" style="display:inline;fill:#336699;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">K</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 257.0313 595.5752)" style="display:inline;fill:#336699;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">1</text>
-	
-		<text transform="matrix(1 0 0 1 241.6812 613.7822)" style="display:inline;fill:#336699;stroke:#983895; font-family:'BradleyHandITC'; font-size:21;">K</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 257.0313 620.7754)" style="display:inline;fill:#336699;stroke:#983895; font-family:'BradleyHandITC'; font-size:21;">2</text>
-	
-		<text transform="matrix(1 0 0 1 241.6812 638.9824)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">K </text>
-	
-		<text transform="matrix(1 0 0 1 262.3838 638.9824)" style="display:inline;stroke:#000000; font-family:'BradleyHandITC'; font-size:16;">=</text>
-	<text transform="matrix(1 0 0 1 275.7119 638.9824)" style="display:inline; font-family:'BradleyHandITC'; font-size:21;"> </text>
-	
-		<text transform="matrix(1 0 0 1 281.0645 638.9824)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">K</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 296.4146 645.9756)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">1</text>
-	
-		<text transform="matrix(1 0 0 1 302.4282 638.9824)" style="display:inline;fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:21;">K</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 317.7793 645.9756)" style="display:inline;fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:21;">2</text>
-	<g style="display:inline;">
-		<text transform="matrix(1 0 0 1 393.334 686.9316)"><tspan x="0" y="0" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">K</tspan><tspan x="15.35" y="0" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;"> =</tspan></text>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 449.9434 679.4316)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[D]</text>
-		
-			<text transform="matrix(1 0 0 1 434.9531 698.6309)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[A][B]</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 482.4063 693.3027)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">2</text>
-		<line style="fill:none;stroke:#336699;" x1="436.334" y1="684.432" x2="484.834" y2="684.432"/>
-	</g>
-	<g style="display:inline;">
-		<g>
-			
-				<text transform="matrix(1 0 0 1 88.3335 689.5957)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">K</text>
-			
-				<text transform="matrix(0.583 0 0 0.583 103.6836 695.5898)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">1</text>
-			
-				<text transform="matrix(1 0 0 1 108.8384 689.5957)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:15;">  =</text>
-		</g>
-		<text transform="matrix(1 0 0 1 150.0718 682.0957)"><tspan x="0" y="0" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">[C]</tspan><tspan x="-12.465" y="19.199" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">[A][B]</tspan></text>
-		<line style="fill:#009966;stroke:#009966;" x1="130.333" y1="687.096" x2="178.833" y2="687.096"/>
-	</g>
-	<g style="display:inline;">
-		<g>
-			
-				<text transform="matrix(1 0 0 1 243.6318 689.5957)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:20;">K</text>
-			
-				<text transform="matrix(0.583 0 0 0.583 258.251 694.5898)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">2  </text>
-			
-				<text transform="matrix(1 0 0 1 267.6836 689.5957)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;"> =</text>
-		</g>
-		<text transform="matrix(1 0 0 1 304.2412 682.0957)"><tspan x="0" y="0" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:16;">[D]</tspan><tspan x="-11.566" y="19.199" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:16;">[B][C]</tspan></text>
-		<line style="fill:#983795;stroke:#983795;" x1="289.631" y1="687.096" x2="338.131" y2="687.096"/>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 243.0825 750.0957)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">K</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 258.4326 756.0898)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">1</text>
-	</g>
-	<g style="display:inline;">
-		<text transform="matrix(1 0 0 1 241.8228 788.4629)"><tspan x="0" y="0" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">[C]</tspan><tspan x="-12.465" y="19.199" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">[A][B]</tspan></text>
-		<line style="fill:#009966;stroke:#009966;" x1="229.084" y1="793.463" x2="277.584" y2="793.463"/>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 306.7227 749.3418)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:20;">K</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 321.3418 754.3359)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:15;">2</text>
-	</g>
-	<g style="display:inline;">
-		<text transform="matrix(1 0 0 1 306.6504 788.4629)"><tspan x="0" y="0" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:16;">[D]</tspan><tspan x="-11.566" y="19.199" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:16;">[B][C]</tspan></text>
-		<line style="fill:#983795;stroke:#983795;" x1="292.041" y1="793.463" x2="340.541" y2="793.463"/>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 383.0352 788.4629)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[D]</text>
-		
-			<text transform="matrix(1 0 0 1 368.0469 807.6621)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">[A][B]</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 415.5 802.334)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">2</text>
-		<line style="fill:none;stroke:#336699;" x1="369.426" y1="793.463" x2="417.926" y2="793.463"/>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 386.7402 750.0957)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">K</text>
-	</g>
-	<g style="display:inline;">
-		<text transform="matrix(1 0 0 1 347.334 751.001)" style="stroke:#000000; font-family:'BradleyHandITC'; font-size:16;">=</text>
-	</g>
-	<g style="display:inline;">
-		<text transform="matrix(1 0 0 1 347.334 797.3984)" style="stroke:#000000; font-family:'BradleyHandITC'; font-size:16;">=</text>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M230.333,776.334c-11,12.5-6,26.5-3,40"/>
-			<path style="fill:#009966;" d="M229.722,775.906c-10.214,12.311-6.346,26.35-3.123,40.557c0.212,0.936,1.683,0.68,1.469-0.26
-				c-3.119-13.752-7.09-27.428,2.877-39.441C231.56,776.02,230.333,775.17,229.722,775.906L229.722,775.906z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M276.833,776.334c4,13,6.5,26.5,2.5,39.5"/>
-			<path style="fill:#009966;" d="M276.099,776.463c3.858,12.791,6.272,25.984,2.534,39.111c-0.262,0.922,1.137,1.443,1.4,0.518
-				c3.815-13.4,1.483-26.797-2.466-39.889C277.293,775.295,275.821,775.543,276.099,776.463L276.099,776.463z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M295.333,777.334c-8.5,11-6,27.5-2.5,39.5"/>
-			<path style="fill:#983795;" d="M294.722,776.906c-8.465,11.68-6.334,27.02-2.623,40.057c0.261,0.916,1.732,0.666,1.469-0.26
-				c-3.601-12.65-5.856-27.58,2.377-38.941C296.51,776.98,295.287,776.127,294.722,776.906L294.722,776.906z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M338.834,775.834c5.5,14,8.5,26.5,5.5,40.5"/>
-			<path style="fill:#983795;" d="M338.16,776.154c5.045,13.047,8.176,26.148,5.43,40.109c-0.186,0.945,1.303,1.074,1.486,0.141
-				c2.795-14.209-0.436-27.617-5.568-40.891C339.16,774.615,337.814,775.26,338.16,776.154L338.16,776.154z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M370.834,774.721c-5,13.742-8.5,28.814-1,42.113"/>
-			<path style="fill:#336699;" d="M370.133,774.461c-4.988,13.936-8.258,28.943-0.973,42.693c0.447,0.846,1.799,0.211,1.348-0.641
-				c-7.105-13.41-3.832-27.967,1.025-41.535C371.857,774.072,370.457,773.555,370.133,774.461L370.133,774.461z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M414.834,773.834c8,15.959,14.5,26.154,6.5,43"/>
-			<path style="fill:#336699;" d="M414.16,774.154c3.215,6.381,6.709,12.691,8.811,19.553c2.4,7.842,0.965,15.541-2.338,22.867
-				c-0.396,0.881,1.008,1.391,1.4,0.518c3.043-6.752,4.395-13.449,3.102-20.793c-1.422-8.082-5.988-15.564-9.627-22.785
-				C415.076,772.656,413.725,773.293,414.16,774.154L414.16,774.154z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M230.333,776.334c-11,12.5-6,26.5-3,40"/>
-			<path style="fill:#009966;" d="M229.722,775.906c-10.214,12.311-6.346,26.35-3.123,40.557c0.212,0.936,1.683,0.68,1.469-0.26
-				c-3.119-13.752-7.09-27.428,2.877-39.441C231.56,776.02,230.333,775.17,229.722,775.906L229.722,775.906z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M276.833,776.334c4,13,6.5,26.5,2.5,39.5"/>
-			<path style="fill:#009966;" d="M276.099,776.463c3.858,12.791,6.272,25.984,2.534,39.111c-0.262,0.922,1.137,1.443,1.4,0.518
-				c3.815-13.4,1.483-26.797-2.466-39.889C277.293,775.295,275.821,775.543,276.099,776.463L276.099,776.463z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 208.9717 856.834)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">e</text>
-		
-			<text transform="matrix(1 0 0 1 216.5088 856.834)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;"> </text>
-		
-			<text transform="matrix(0.583 0 0 0.583 221.0967 850.8398)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">-</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 224.6729 851.8379)" style="fill:#009966;stroke:#009966; font-family:'Wingdings3'; font-size:15;">r</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 233.2344 849.8398)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 242.1113 853.5039)" style="fill:#009966;stroke:#009966;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:13;">1 </text>
-		
-			<text transform="matrix(0.583 0 0 0.583 247.7666 850.8398)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:18;">/ </text>
-		
-			<text transform="matrix(0.583 0 0 0.583 254.7754 849.8398)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">RT</text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 243.144 844.8447)" style="fill:#009966;stroke:#009966;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:10;">o</text>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 370.5723 855.3242)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">e</text>
-		
-			<text transform="matrix(1 0 0 1 378.1094 855.3242)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;"> </text>
-		
-			<text transform="matrix(0.583 0 0 0.583 382.6973 849.3301)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">-</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 386.2734 850.3301)" style="fill:#336699;stroke:#336699; font-family:'Wingdings3'; font-size:15;">r</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 394.8359 848.332)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">G </text>
-		
-			<text transform="matrix(0.583 0 0 0.583 406.834 849.3301)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">/ </text>
-		
-			<text transform="matrix(0.583 0 0 0.583 413.8418 848.332)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">RT</text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 404.6445 842.8369)" style="fill:#336699;stroke:#336699;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:10;">o</text>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			
-				<text transform="matrix(1 0 0 1 281.0005 856.1621)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:21;">e</text>
-			
-				<text transform="matrix(1 0 0 1 288.5371 856.1621)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;"> </text>
-			
-				<text transform="matrix(0.583 0 0 0.583 293.125 850.168)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">-</text>
-			
-				<text transform="matrix(0.583 0 0 0.583 296.7017 851.166)" style="fill:#983795;stroke:#983795; font-family:'Wingdings3'; font-size:15;">r</text>
-			
-				<text transform="matrix(0.583 0 0 0.583 305.2632 849.168)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:21;">G</text>
-			
-				<text transform="matrix(0.583 0 0 0.583 314.1406 852.832)" style="fill:#983795;stroke:#983795;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:13;">2 </text>
-			
-				<text transform="matrix(0.583 0 0 0.583 320.3828 850.168)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">/ </text>
-			
-				<text transform="matrix(0.583 0 0 0.583 327.3926 849.168)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:21;">RT</text>
-			
-				<text transform="matrix(0.583 0 0 0.583 343.6465 850.168)" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;"> </text>
-		</g>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 314.6445 844.3369)" style="fill:#983895;stroke:#983895;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:10;">o</text>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<text transform="matrix(1 0 0 1 352.0059 853.8984)" style="stroke:#000000; font-family:'BradleyHandITC'; font-size:16;">=</text>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M214.229,842c-13.537,6.041-7.384,12.809-3.692,19.334"/>
-			<path style="fill:#009966;" d="M213.909,841.326c-4.024,1.893-8.531,4.498-8.762,9.438c-0.184,3.936,2.864,7.678,4.716,10.891
-				c0.477,0.826,1.83,0.195,1.349-0.641c-1.56-2.705-3.447-5.318-4.323-8.35c-1.493-5.166,3.758-8.154,7.661-9.99
-				C215.419,842.264,214.781,840.916,213.909,841.326L213.909,841.326z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M272.333,842.334c3.334,3,4.667,13.666,1,19.334"/>
-			<path style="fill:#009966;" d="M271.764,842.816c4.261,4.391,3.846,13.486,0.958,18.424c-0.482,0.824,0.736,1.688,1.223,0.855
-				c3.222-5.51,3.71-15.346-1.042-20.244C272.237,841.166,271.092,842.125,271.764,842.816L271.764,842.816z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M285.165,842.146c-10.222,4.74-7.216,11.85-3.007,17.02"/>
-			<path style="fill:#983795;" d="M284.844,841.473c-3.556,1.758-6.748,4.145-7.31,8.307c-0.487,3.615,1.933,7.199,4.054,9.869
-				c0.599,0.754,1.737-0.211,1.139-0.965c-1.676-2.109-3.108-4.348-3.637-7.023c-0.86-4.361,2.987-7.156,6.395-8.84
-				C286.345,842.395,285.708,841.045,284.844,841.473L284.844,841.473z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M343.668,840.334c7.332,5.334,4.033,12.584,0.426,18.617"/>
-			<path style="fill:#983795;" d="M343.24,840.945c6.352,5.039,3.719,11.674,0.242,17.578c-0.486,0.824,0.732,1.686,1.223,0.855
-				c3.973-6.748,6.432-14.07-0.609-19.656C343.34,839.125,342.488,840.35,343.24,840.945L343.24,840.945z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M374.152,840.545c-5.924,5.859-10.072,12.285-1.184,17.955"/>
-			<path style="fill:#336699;" d="M373.67,839.977c-2.836,2.857-5.602,5.91-6.482,9.945c-0.877,4.014,2.381,7.154,5.354,9.189
-				c0.793,0.545,1.65-0.678,0.855-1.223c-3.322-2.273-5.672-5.068-4.338-9.229c0.934-2.916,3.486-5.439,5.576-7.545
-				C375.309,840.438,374.35,839.291,373.67,839.977L373.67,839.977z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M431.334,840c5,3,6.666,12.668,2.658,18.5"/>
-			<path style="fill:#336699;" d="M430.906,840.611c5.469,3.699,5.742,12.258,2.475,17.461c-0.51,0.813,0.709,1.672,1.223,0.855
-				c3.689-5.877,3.32-15.369-2.842-19.539C430.965,838.85,430.107,840.072,430.906,840.611L430.906,840.611z"/>
-		</g>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 240.5166 892.334)" style="display:inline;fill:#009966;stroke:#000000; font-family:'BradleyHandITC'; font-size:18;">e </text>
-	
-		<text transform="matrix(0.583 0 0 0.583 251.5645 886.3398)" style="display:inline;fill:#009966;stroke:#000000; font-family:'BradleyHandITC'; font-size:18;">-</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 255.1406 887.3438)" style="display:inline;fill:#009966;stroke:#000000; font-family:'BradleyHandITC'; font-size:30;">(</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 262.1357 887.3379)" style="display:inline;fill:#009966;stroke:#009966; font-family:'Wingdings3'; font-size:15;">r</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 270.6963 885.3398)" style="display:inline;fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">G</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 279.5742 889.0039)" style="display:inline;fill:#009966;stroke:#009966;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:13;">1 </text>
-	
-		<text transform="matrix(0.583 0 0 0.583 285.2285 886.6719)" style="display:inline;fill:#009966;stroke:#000000;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:17;">+</text>
-	<g style="display:inline;">
-		
-			<text transform="matrix(0.583 0 0 0.583 280.144 878.8447)" style="fill:#009966;stroke:#009966;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:10;">o</text>
-	</g>
-	
-		<text transform="matrix(1 0 0 1 372.2773 889.8242)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">e </text>
-	
-		<text transform="matrix(0.583 0 0 0.583 383.3262 883.8301)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:18;">-</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 386.9023 884.834)" style="display:inline;fill:#009966;stroke:#000000; font-family:'BradleyHandITC'; font-size:30;">(</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 393.8965 884.8301)" style="display:inline;fill:#336699;stroke:#336699; font-family:'Wingdings3'; font-size:15;">r</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 402.457 882.832)" style="display:inline;fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">G </text>
-	
-		<text transform="matrix(0.583 0 0 0.583 414.4551 885.834)" style="display:inline;fill:#983795;stroke:#000000;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:30;">)</text>
-	
-		<text transform="matrix(0.583 0 0 0.583 421.4492 883.8301)" style="display:inline;fill:#336699;stroke:#000000; font-family:'BradleyHandITC'; font-size:18;">/ RT</text>
-	<g style="display:inline;">
-		
-			<text transform="matrix(0.583 0 0 0.583 412.5254 878.0039)" style="fill:#336699;stroke:#336699;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:11;">o</text>
-	</g>
-	<g style="display:inline;">
-		<text transform="matrix(0.583 0 0 0.583 296.0005 886.666)"><tspan x="0" y="0" style="fill:#983795;stroke:#983795; font-family:'Wingdings3'; font-size:15;">r</tspan><tspan x="14.685" y="-1.712" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;">G</tspan><tspan x="27.737" y="2.858" style="fill:#983795;stroke:#983795;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:13;">2</tspan><tspan x="35.132" y="1.725" style="fill:#983795;stroke:#000000;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:30;">)</tspan><tspan x="47.129" y="-1.712" style="fill:#983795;stroke:#000000; font-family:'BradleyHandITC'; font-size:18;">/ RT</tspan><tspan x="83.049" y="-1.712" style="fill:#983795;stroke:#983795; font-family:'BradleyHandITC'; font-size:18;"> </tspan></text>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(0.583 0 0 0.583 314.0254 880.5039)" style="fill:#983895;stroke:#983895;stroke-width:0.5; font-family:'BradleyHandITC'; font-size:11;">o</text>
-	</g>
-	<g style="display:inline;">
-		<text transform="matrix(1 0 0 1 352.0059 888.3984)" style="stroke:#000000; font-family:'BradleyHandITC'; font-size:16;">=</text>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M262.842,889.492c1.649,2.385,7.797,2.15,12.948,1.699c7.012-0.186,13.111-0.227,13.275,3.717
-				c-0.018-4.93,5.594-4.066,9.835-4.063c5.923,0.006,14.509,2.488,16.859,0"/>
-			<path style="fill:#EB2F2E;" d="M262.273,889.975c4.876,4.994,24.84-2.205,26.059,5.064c0.14,0.836,1.396,0.777,1.478-0.061
-				c0.779-7.99,21.65,0.129,26.433-3.563c0.762-0.59-0.205-1.727-0.965-1.139c-5.492,4.238-25.882-6.428-26.955,4.561
-				c0.493-0.02,0.985-0.039,1.478-0.059c-1.634-9.752-21.233-0.488-26.389-5.77C262.744,888.324,261.599,889.283,262.273,889.975
-				L262.273,889.975z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<text transform="matrix(1 0 0 1 379.376 945.4756)"><tspan x="0" y="0" style="fill:#336699;stroke:#336699; font-family:'Wingdings3'; font-size:14;">r</tspan><tspan x="13.706" y="0" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:21;">G</tspan></text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 406.9297 936.5449)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:16;">o</text>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 253.3481 945.4756)" style="fill:#336699;stroke:#009966; font-family:'Wingdings3'; font-size:14;">r</text>
-		
-			<text transform="matrix(1 0 0 1 267.0542 945.4756)" style="fill:#336699;stroke:#009966; font-family:'BradleyHandITC'; font-size:21;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 282.2813 950.8047)" style="fill:#336699;stroke:#009966; font-family:'BradleyHandITC'; font-size:13;">1</text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 282.7642 936.5449)" style="fill:#009966;stroke:#009966; font-family:'BradleyHandITC'; font-size:16;">o</text>
-		</g>
-	</g>
-	<text transform="matrix(-1 0 0 1 365.334 947.1836)" style="display:inline;"><tspan x="0" y="0" style="stroke:#000000; font-family:'BradleyHandITC'; font-size:16;">=      </tspan><tspan x="37.797" y="0" style="stroke:#000000; font-family:'BradleyHandITC'; font-size:15;"> </tspan><tspan x="41.619" y="0" style="stroke:#000000; font-family:'BradleyHandITC'; font-size:14;">  </tspan><tspan x="48.756" y="0" style="stroke:#000000; font-family:'BradleyHandITC'; font-size:16;">   +</tspan></text>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 313.0537 947.2539)" style="fill:#336699;stroke:#983895; font-family:'Wingdings3'; font-size:14;">r</text>
-		
-			<text transform="matrix(1 0 0 1 326.7598 947.2539)" style="fill:#336699;stroke:#983895; font-family:'BradleyHandITC'; font-size:21;">G</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 341.9863 952.583)" style="fill:#336699;stroke:#983895; font-family:'BradleyHandITC'; font-size:13;">2</text>
-		<g>
-			
-				<text transform="matrix(0.583 0 0 0.583 342.7637 938.3223)" style="fill:#009966;stroke:#983895; font-family:'BradleyHandITC'; font-size:16;">o</text>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M254.842,934.215c2.865-5.518,13.543-4.973,22.491-3.93c12.18,0.428,22.774,0.523,23.06-8.598
-				c-0.031,11.402,9.716,9.406,17.083,9.395c10.287-0.014,25.201-5.754,29.283,0"/>
-			<path style="fill:#EB2F2E;" d="M255.454,934.643c3.166-5.041,10.889-4.43,16.017-4.156c5.036,0.27,9.983,0.867,15.046,0.643
-				c6.611-0.293,13.969-1.563,14.62-9.371c-0.495-0.047-0.991-0.094-1.486-0.141c0.309,8.643,5.994,10.508,13.76,10.313
-				c4.729-0.117,9.313-0.416,13.994-1.158c5.166-0.82,14.777-3.889,18.785,0.793c0.625,0.73,1.766-0.232,1.139-0.965
-				c-9.096-10.627-45.45,11.98-46.192-8.842c-0.033-0.93-1.404-1.127-1.486-0.141c-0.931,11.154-19.053,8.152-26.576,7.49
-				c-5.995-0.529-15.137-1.223-18.843,4.68C253.721,934.6,254.941,935.459,255.454,934.643L255.454,934.643z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M399.361,894.781c4.416-9.199,3.939-8.789,6.932,2.977c-0.971-3.635-1.697-6.361-2.902-9.236
-				c-0.428,11.543-4.641,30.258-8.648,41.527c-0.963-1.965-0.258-4.248-0.271-7.588c-0.441,8.201-0.275,9.924,7.879,1.6"/>
-			<path style="fill:#EB2F2E;" d="M400.063,895.041c0.295-0.617,2.938-6.033,3.244-5.43c1.234,2.438,1.59,5.652,2.252,8.275
-				c0.488-0.086,0.979-0.172,1.469-0.26c-0.857-3.195-1.744-6.348-2.963-9.426c-0.271-0.686-1.383-0.473-1.416,0.25
-				c-0.66,13.965-4.02,28.168-8.605,41.338c0.457-0.02,0.916-0.041,1.373-0.061c-0.787-2.256-0.264-4.873-0.201-7.197
-				c0.025-0.955-1.438-1.107-1.486-0.141c-0.104,2.008-0.979,6.227,1.029,7.678c2.256,1.629,7.08-4.438,8.074-5.439
-				c0.674-0.676-0.285-1.822-0.965-1.139c-1.75,1.764-3.49,3.662-5.604,5.004c-1.713,1.088-1.082-5.328-1.049-5.963
-				c-0.496-0.047-0.992-0.094-1.486-0.141c-0.072,2.729-0.574,5.359,0.34,7.979c0.219,0.627,1.176,0.506,1.375-0.063
-				c4.619-13.264,8.027-27.654,8.691-41.715c-0.473,0.084-0.945,0.168-1.418,0.25c1.17,2.955,2.02,5.98,2.842,9.045
-				c0.246,0.92,1.705,0.678,1.469-0.26c-0.596-2.363-0.934-8.6-3.537-9.963c-1.975-1.035-4.482,6.137-4.828,6.859
-				C398.246,895.393,399.65,895.9,400.063,895.041L400.063,895.041z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		<g>
-			<path style="fill:none;" d="M300.027,914.859c0.689,5.75,0.832,5.389-5.41,1.271c1.957,1.258,3.425,2.197,5.244,3.027
-				c-4.037-5.301-8.396-15.213-10.111-21.732c1.33,0.514,1.742,1.795,2.997,3.277c-2.784-3.818-3.528-4.523-5.486,2.24"/>
-			<path style="fill:#EB2F2E;" d="M299.292,914.988c0.037,0.311,0.237,3.396,0.383,3.43c-1.567-0.363-3.328-2.033-4.631-2.898
-				c-0.285,0.408-0.57,0.816-0.855,1.223c1.764,1.129,3.529,2.201,5.413,3.115c0.732,0.355,1.227-0.637,0.828-1.182
-				c-4.602-6.289-7.875-13.895-9.946-21.381c-0.387,0.248-0.774,0.494-1.162,0.742c1.299,0.793,1.967,1.98,2.855,3.148
-				c0.585,0.77,1.706-0.195,1.139-0.965c-3.643-4.938-5.195-2.703-6.756,2.465c-0.277,0.918,1.122,1.439,1.4,0.518
-				c0.362-1.203,0.737-2.377,1.201-3.543c0.854-2.145,2.679,1.07,3.016,1.525c0.38-0.32,0.759-0.643,1.139-0.965
-				c-0.995-1.307-1.729-2.547-3.139-3.406c-0.5-0.307-1.351,0.063-1.162,0.74c2.149,7.771,5.5,15.559,10.276,22.086
-				c0.276-0.395,0.553-0.789,0.828-1.184c-1.776-0.861-3.416-1.875-5.075-2.938c-0.808-0.516-1.661,0.689-0.855,1.223
-				c1.155,0.768,4.438,3.91,6.173,3.088c1.48-0.703,0.527-4.039,0.399-5.102C300.646,913.773,299.177,914.037,299.292,914.988
-				L299.292,914.988z"/>
-		</g>
-	</g>
-	<g style="display:inline;">
-		
-			<text transform="matrix(1 0 0 1 312.334 54.584)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">K</text>
-		
-			<text transform="matrix(0.583 0 0 0.583 323.2979 59.5791)" style="fill:#336699;stroke:#336699; font-family:'BradleyHandITC'; font-size:15;">ORIG</text>
-	</g>
-</g>
-<g id="Layer_1">
+<g id="step1" visibility="hidden">
 	<g>
 		<path style="stroke:#000000;" d="M36.738,21.408c-0.033,0.039-0.13,0.084-0.293,0.137l-0.42-0.283l-0.547-0.674l-0.156-0.4
 			c-0.039-0.254-0.091-0.469-0.156-0.645c-0.15-0.169-0.225-0.534-0.225-1.094c0-0.091,0.015-0.16,0.044-0.205
@@ -5408,7 +4466,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		</g>
 	</g>
 </g>
-<g id="Layer_2">
+<g id="step2" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#336699;stroke:#336699;" d="M249.479,94.469l-0.103,0.183l-0.403,0.549c-0.2,0.161-0.387,0.293-0.561,0.396
@@ -6258,7 +5316,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		<line style="fill:none;stroke:#336699;" x1="110" y1="86.5" x2="158.5" y2="86.5"/>
 	</g>
 </g>
-<g id="Layer_3">
+<g id="step3" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#009966;stroke:#009966;" d="M57.851,149.273l-0.044,0.088c-0.034,0.015-0.075,0.046-0.121,0.095
@@ -6959,7 +6017,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		</g>
 	</g>
 </g>
-<g id="Layer_4">
+<g id="step4" visibility="hidden">
 	<g>
 		<g>
 			<g>
@@ -7377,7 +6435,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		<line style="fill:#009966;stroke:#009966;" x1="104" y1="196.121" x2="152.5" y2="196.121"/>
 	</g>
 </g>
-<g id="Layer_5">
+<g id="step5" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#009966;stroke:#009966;" d="M183.635,193.371h-8.774v-0.579h8.774V193.371z M183.635,196.03h-8.774v-0.586
@@ -7741,7 +6799,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 			c0.046,0.1,0.14,0.15,0.282,0.15l0.133-0.037h0.072l0.055-0.05l0.292-0.082L265.618,182.612z"/>
 	</g>
 </g>
-<g id="Layer_6">
+<g id="step6" visibility="hidden">
 	<g>
 		<path style="fill:#009966;stroke:#009966;" d="M306.635,195.196h-8.774v-0.579h8.774V195.196z M306.635,197.854h-8.774v-0.586
 			h8.774V197.854z"/>
@@ -7931,7 +6989,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 			c0.046,0.1,0.14,0.15,0.282,0.15l0.133-0.037h0.072l0.055-0.05l0.292-0.082L342.618,191.112z"/>
 	</g>
 </g>
-<g id="Layer_7">
+<g id="step7" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#009966;stroke:#009966;" d="M71.008,251.491l-0.123,0.22l-0.483,0.659c-0.24,0.193-0.464,0.352-0.672,0.475
@@ -9016,7 +8074,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 			c0.047,0.1,0.141,0.15,0.283,0.15l0.133-0.037h0.072l0.055-0.05l0.291-0.082L435.951,243.562z"/>
 	</g>
 </g>
-<g id="Layer_8">
+<g id="step8" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#983795;stroke:#983795;" d="M66.644,325.292c0,0.073-0.034,0.125-0.103,0.154l-0.242-0.081l-0.271,0.212
@@ -9757,7 +8815,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 			l0.257,0.307L129.125,299.771z"/>
 	</g>
 </g>
-<g id="Layer_9">
+<g id="step9" visibility="hidden">
 	<g>
 		<g>
 			<g>
@@ -10461,7 +9519,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		</g>
 	</g>
 </g>
-<g id="Layer_10">
+<g id="step10" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#983795;stroke:#983795;" d="M315.635,370.159h-8.774v-0.579h8.774V370.159z M315.635,372.818h-8.774v-0.586
@@ -10648,7 +9706,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 			l0.27-0.008l0.076,0.068h0.081l0.132,0.158L381.364,388.972z"/>
 	</g>
 </g>
-<g id="Layer_11">
+<g id="step11" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#983795;stroke:#983795;" d="M72.342,423.491l-0.123,0.22l-0.483,0.659c-0.24,0.193-0.464,0.352-0.672,0.475
@@ -11574,7 +10632,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 			l0.27-0.008l0.076,0.068h0.081l0.132,0.158L476.364,436.972z"/>
 	</g>
 </g>
-<g id="Layer_12">
+<g id="step12" visibility="hidden">
 	<g>
 		<path style="stroke:#000000;" d="M44.075,473.031l-0.271,0.161l0.059,0.227c0,0.127-0.125,0.19-0.374,0.19l-0.117,0.315
 			l-0.498,0.33c-0.093,0.142-0.188,0.264-0.286,0.366c-0.146,0-0.297,0.06-0.45,0.18c-0.154,0.12-0.257,0.197-0.308,0.234
@@ -12518,7 +11576,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		</g>
 	</g>
 </g>
-<g id="Layer_13">
+<g id="step13" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#336699;stroke:#009966;" d="M237.023,502.937l7.506-13.008l7.515,13.008H237.023z M238.526,502.067h12.015
@@ -13026,7 +12084,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 			V547.834z"/>
 	</g>
 </g>
-<g id="Layer_14">
+<g id="step14" visibility="hidden">
 	<g>
 		<path style="fill:#336699;stroke:#009966;" d="M257.718,586.105l-0.144,0.256l-0.564,0.77c-0.28,0.225-0.542,0.41-0.784,0.553
 			c-0.243,0.145-0.641,0.284-1.195,0.421l-0.185-0.062l-0.297,0.082l-0.338-0.062l-0.379,0.062l-0.103-0.082l-0.236,0.062
@@ -13357,7 +12415,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 			c0.06,0.132,0.183,0.197,0.37,0.197l0.174-0.048h0.096l0.071-0.065l0.383-0.107L320.771,644.906z"/>
 	</g>
 </g>
-<g id="Layer_15">
+<g id="step15" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#336699;stroke:#336699;" d="M409.371,688.455l-0.145,0.256l-0.563,0.77c-0.28,0.225-0.542,0.41-0.784,0.553
@@ -14373,7 +13431,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		<line style="fill:#983795;stroke:#983795;" x1="290.298" y1="686.762" x2="338.798" y2="686.762"/>
 	</g>
 </g>
-<g id="Layer_16">
+<g id="step16" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:#009966;stroke:#009966;" d="M259.12,747.619l-0.144,0.256l-0.564,0.77c-0.28,0.225-0.542,0.41-0.784,0.553
@@ -15436,7 +14494,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		</g>
 	</g>
 </g>
-<g id="Layer_17">
+<g id="step17" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:none;" d="M231,776c-11,12.5-6,26.5-3,40"/>
@@ -16120,7 +15178,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		</g>
 	</g>
 </g>
-<g id="Layer_18">
+<g id="step18" visibility="hidden">
 	<g>
 		<path style="fill:#009966;stroke:#000000;" d="M246.94,890.383c0.088,0.135,0.132,0.234,0.132,0.299
 			c0,0.047-0.055,0.146-0.162,0.299c-0.109,0.152-0.192,0.313-0.251,0.483l-0.132,0.018l-0.193,0.378l-0.22,0.035l-0.483,0.325
@@ -16686,7 +15744,7 @@ kh8O+//5xxwFJxX9x9v5xwYO+pQUHASeFQ==")}
 		</g>
 	</g>
 </g>
-<g id="Layer_19">
+<g id="step19" visibility="hidden">
 	<g>
 		<g>
 			<path style="fill:none;" d="M263.509,889.158c1.65,2.386,7.797,2.15,12.948,1.699c7.012-0.185,13.112-0.227,13.276,3.718
