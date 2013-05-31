@@ -2,13 +2,8 @@
 <html>
 <head>
 <title>The ChemCollective: LeChatlier's Principle Tutorial - Hemoglobin scenario</title>
-<script src="presentation.js"></script>
+	<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
-<style>
-  canvas {
-    cursor: pointer;
-  }
-</style>
 </head>
 <body>
 
@@ -24,7 +19,9 @@
 
 	<h1>Module 1:  Introduction to reversible reactions: The Hemoglobin scenario.
 	</font></a></h1> <br>
-	<embed src="tester.svg" type="image/svg+xml" />
+	<embed id="sv" src="Converted_Images/Mod1_Intro.svg" type="image/svg+xml" />
+	<script src="presentation.js" type="text/javascript" ></script>
+	<button onclick="step2()">Show step2!</button>
 	<ul>
 	<p>
 	To sum up, reversible reactions are common in chemical and biological systems. Our bodies rely on these kinds of reactions to do things like 
