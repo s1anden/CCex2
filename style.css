@@ -1,6 +1,7 @@
 #container {
-	align:center;
-	width:800px;
+	text-align:center;
+	width:50%;
+	margin-left:25%;
 }
 p {
 	text-align:left;
