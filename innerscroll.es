@@ -1,4 +1,4 @@
-//				   INNER SVG WINDOW WITH VERTICAL SCROLL - full
+	//				   INNER SVG WINDOW WITH VERTICAL SCROLL - full
 /*
 Copyright (C) 2004  Domenico Strazzullo
 nst@dotuscomus.com
