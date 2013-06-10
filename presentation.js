@@ -23,6 +23,7 @@
 
 
 	function displayText(step) {
+		currentstep = step;
 		d3.select('#instruct').html(text[step]);
 	}
 
@@ -48,19 +49,23 @@
 	}
 
 	function next(){
-		if (currentStep < STEPS && lecture) {
+		if (currentStep < STEPS) {
 			currentStep++;
-			d3.select('#step' + currentStep).attr('visibility','visible');
 			displayText(currentStep);
 			playAudio(currentStep);
+			if (lecture) {
+				d3.select('#step' + currentStep).attr('visibility','visible');
+			}
 		}
 	}
 
 	function prev(){
-		if (currentStep > 0 && lecture) {
-			d3.select('#step' + currentStep).attr('visibility','hidden');
+		if (currentStep > 0) {
 			currentStep--;
 			displayText(currentStep);
 			playAudio(currentStep);
+			if (lecture) {
+				d3.select('#step' + currentStep).attr('visibility','hidden');
+			}
 		}
 	}
