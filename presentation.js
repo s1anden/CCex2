@@ -13,10 +13,10 @@
 	function changeMode() {
 		if (lecture) {
 			beginReview();
-			d3.select('#mode').html('Lecture')
+			d3.select('#mode').text('Lecture')
 		} else if (!lecture) {
 			beginLecture();
-			d3.select('#mode').html('Review');
+			d3.select('#mode').text('Review');
 		}
 	}
 
