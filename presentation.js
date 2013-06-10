@@ -23,8 +23,12 @@
 
 
 	function displayText(step) {
-		currentstep = step;
-		d3.select('#instruct').html(text[step]);
+		if (!lecture) {
+			currentStep = step;
+		}
+		
+			d3.select('#instruct').html(text[step]);
+		
 	}
 
 	function playAudio(step) {
