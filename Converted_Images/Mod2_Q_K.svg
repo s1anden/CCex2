@@ -1,11 +1,56 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px"
-	 height="792px" viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
-<g id="Background">
-</g>
-<g id="step1" visibility="hidden">
+<svg id="main" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:html="http://www.w3.org/1999/xhtml" x="0px" y="0px" viewBox="0 0 720 600" xml:space="preserve" width="720" height="600" xmlns:ev="http://www.w3.org/2001/xml-events" baseProfile="full" preserveAspectRatio="xMinYMin" onload="init(evt); setup();" onresize="reset()">
+<script xlink:href="http://d3js.org/d3.v3.min.js" language="JavaScript"></script>
+<script xlink:href="../innerscroll.es" type="text/javascript"/>
+<script xlink:href="../presentation.js" language="JavaScript"></script>
+<script><![CDATA[
+	var text = ["","Some chemical reactions are essentially <b>non-reversible</b>, that is, they only go in one direction and then stop when all of the reactants are converted to products. Here, A can be converted to B, but not the other way around. Or, two things can combine: A and B combine to form C.","Other reactions, however, are <b>reversible</b>. This means that there is a <b>forward reaction</b> - turning reactants into products - and a <b>reverse reaction</b>, where products are converted to reactants. These two reactions are occurring <i>at the same time</i>. We use a double arrow to indicate a reversible reaction.","Take, for example the conversion of NO2 to N2O4: NO2 is becoming N2O4 at the same time that N2O4 is becoming NO2. This is a good example, but you may be wondering 'what is NO2 and why do I care?'","Let's look at a more complicated, but relevant example. Our ability to breathe depends on a reversible reaction. Consider, for instance, the way your blood transports oxygen from your lungs to your muscles. The red line represents the flow of blood in your body. The blood enters the lungs where it picks up oxygen, it then goes to the muscles where it releases the oxygen so that your muscles can do work.","The molecule in your blood that picks up and releases oxygen is Hemoglobin (abbreviated Hb). Hemoglobin binds to 4 oxygen molecules to form the complex Hb(O2)4. But, how does Hb 'know' when to pick up or let go of oxygen? What if you were running from a tiger and Hb just forgot to give O2 to your muscles?","Fortunately, that never happens because the reaction between Hb and O2 is a <b>reversible reaction</b> that follows the laws of <b>chemical equilibrium</b>. The following lessons will show you how Hemoglobin works and how chemists can predict the changes in an equilibrium system.","In your lungs, the reaction shifts in the forward direction picking up oxygen.","In your muscles, the reaction shifts in the reverse direction releasing the oxygen.","For your blood to be able to transport oxygen, this reaction must go in both the forward and reverse directions.","In your blood, the reaction between hemoglobin and oxygen quickly reaches a steady state known as chemical equilibrium.","At chemical equilibrium the overall concentrations of the chemical species do not change, but this is not because the reaction has stopped occurring, rather it is because the rate of the forward reaction is equal to the rate of the reverse reaction.","The rate at which the forward reaction consumes the reactants is equal to the rate at which the reverse reaction produces the reactions. So the concentrations of reactants do not change, even though both the forward and reverse reactions are occurring.","Similarly, the rate at which the forward reaction produces the products is equal to the rate at which the reverse reaction consumes products, such that the product concentration reaches a steady-state and does not change with time.","At any moment there will always be some bound and some unbound hemoglobin present, but the amounts can vary depending, for instance, on whether we are in the lungs or in the muscles. As your blood is traveling through the veins and back to your lungs, it is in a state of chemical equilibrium.","However, when the blood first enters the lungs, a large amount of fresh oxygen enters the system.","This perturbs the chemical equilibrium because the additional oxygen causes the forward reaction to temporarily become faster than the reverse reaction.","The addition of the oxygen therefore takes the system out of equilibrium and the concentrations of the chemical species change.","Since the forward reaction is temporarily faster than the reverse reaction, the concentration of the reactants decreases and concentration of the products increases.","We call this decrease in the reactants and increase in the products a shift in the reaction. In this case the shift is in the forward direction.","The shift occurs until the forward rate and reverse rate become balanced again, and we establish a new equilibrium state.","This is a specific example of a situation that is very common in chemical equilibrium systems. In the language of chemical equilibrium, we call the addition of oxygen a stress to the system. The response to this stress is a shift in the reaction that establishes a new equilibrium."];
+
+	audio = [["","",""],["LechatlierConcentration_0001.mp3","LechatlierConcentration_0001.ogg","LechatlierConcentration_0001.wav"]];
+
+]]></script>
+	<rect x="1" y="0" width="719" height="900" fill="none" stroke="black" stroke-width="1"/>
+
+  <defs> 
+	<pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <line x1="10" y1="0" x2="10" y2="900" stroke="lightgray" stroke-width="1"/>
+      <line x1="0" y1="10" x2="720" y2="10" stroke="lightgray" stroke-width="1"/>
+      <line x1="20" y1="0" x2="20" y2="900" stroke="lightgray" stroke-width="1"/>
+      <line x1="0" y1="20" x2="720" y2="20" stroke="lightgray" stroke-width="1"/>
+	</pattern>
+
+	<path id="arrow" d="M0,0h8l-4,6z"/>
+	<clipPath id="clp1">
+		<path d="M0 0h690v500h-690z"/>
+	</clipPath>
+
+	<audio xmlns="http://www.w3.org/1999/xhtml">
+		<source id="mp3" src="" type="audio/mpeg"/>
+		<source id="ogg" src="" type="audio/ogg"/>
+		<source id="wav" src="" type="audio/x-wav"/>
+	</audio>
+  </defs>
+  <!-- grid -->
+  <rect fill="url(#grid)" x="0" y="0" width="100%" height="100%" visibility="hidden"/>
+	
+	<svg id="container" x="0" y="0" width="720" height="800">
+		<rect id="background" fill="none" stroke="none" x="0" y="0" width="700" height="500"/>
+		<rect fill="none" stroke="black" stroke-width="1" x="690" y="0" width="30" height="500"/>
+		<rect id="scrollbar" fill="#B2C0CB" x="698" y="35" width="14" height="430" onmousedown="pgScrollset(evt,pg_scrl);" onmousemove="getEvt(evt)" onmouseup="stopscroll()" onmouseout="stopscroll()" fill-opacity="0.0" />
+		<rect id="mark" fill="#B2C0CB" stroke="#004284" stroke-width="1" x="693" y="35" rx=".5" ry=".5" width="24" height="0" onmousedown="enable_drag(evt,true);" onmouseover="d3.select(this).attr('fill','#3398FE')" onmouseout="d3.select(this).attr('fill','#B2C0CB')"/>
+		<g onmousedown="do_scrl=true;v_scroll(ln_scrl,'dn')" onmouseup="stopscroll()" onmouseout="stopscroll()">
+			<rect fill="#B2C0CB" stroke="black" stroke-width="1" x="690" y="0" width="30" height="30" onmouseover="d3.select(this).attr('fill','#3398FE')" onmouseout="d3.select(this).attr('fill','#B2C0CB')"/>
+			<use transform="translate(717 24) rotate(180) scale(3)" xlink:href="#arrow" fill="#004284" pointer-events="none"/>
+		</g>
+		<g onmousedown="do_scrl=true;v_scroll(ln_scrl,'up')" onmouseup="stopscroll()" onmouseout="stopscroll()">
+			<rect fill="#B2C0CB" stroke="black" stroke-width="1" x="690" y="470" width="30" height="30" onmouseover="d3.select(this).attr('fill','#3398FE')" onmouseout="d3.select(this).attr('fill','#B2C0CB')"/>
+			<use transform="translate(693 476) scale(3)" xlink:href="#arrow" fill="#004284" pointer-events="none"/>
+		</g>
+	<g clip-path="url(#clp1)">
+	<g id="content">
+	<g id="step1" visibility="hidden">
 	<path style="stroke:#000000;" d="M27.854,17.997c0.039,0.107,0.059,0.176,0.059,0.205c0,0.044-0.045,0.102-0.135,0.172
 		c-0.091,0.071-0.194,0.155-0.312,0.252l-0.168-0.059l-0.198,0.3c-0.161,0.01-0.315,0.054-0.461,0.132l-0.432-0.103L25.965,19
 		l-0.073,0.132c-0.142-0.107-0.232-0.161-0.271-0.161c-0.02,0-0.029,0.015-0.029,0.044L25.511,19l-0.132,0.132l-0.132-0.161
@@ -24701,5 +24746,41 @@
 		<line style="fill:#3C3C96;stroke:#3C3C96;stroke-width:2;" x1="350.333" y1="776.667" x2="467.484" y2="776.667"/>
 	</g>
 </g>
-<g id="step30" visibility="hidden"></g>
+<g id="step30" visibility="hidden"></g>	</g>
+	</g>
+	</svg>
+	<rect id="dragarea" fill="none" x="0" y="0" width="720" height="500" onmousemove="drag(evt);" onmouseup="enable_drag(evt,false);" onmouseout="enable_drag(evt,false);" pointer-events="none"/>
+
+	<g id="buttons">
+		<g id="next" transform="translate(650,10) scale(0.25)" onclick="next()" onmouseover="d3.select('#next').style('cursor','pointer').selectAll('path').attr('fill','#CBF94A')" onmouseout="d3.select(this).selectAll('path').attr('fill','#3398FE')">
+			<rect x="0" y="0" width="121" height="87" fill-opacity="0.0"/>
+		  	<path d="m92.40259,43.46034l-39.96002,-40.00038l26.31744,0l39.95703,40.00038l-39.95703,39.99962l-26.31744,0l39.96002,-39.99962z" stroke-width="5" stroke="#004284" fill="#3398FE"/>
+  			<path d="m44.40259,43.46034l-39.96002,-40.00038l26.31744,0l39.95703,40.00038l-39.95703,39.99962l-26.31744,0l39.96002,-39.99962z" stroke-width="5" stroke="#004284" fill="#3398FE"/>
+
+		</g>
+		<g id="prev" transform="rotate(180,15,10) translate(-10,-10) scale(0.25)" onclick="prev()" onmouseover="d3.select('#prev').style('cursor','pointer').selectAll('path').attr('fill','#CBF94A')" onmouseout="d3.select('#prev').selectAll('path').attr('fill','#3398FE')">
+			<rect x="0" y="0" width="121" height="87" fill-opacity="0.0"/>
+		  	<path id="svg_1" d="m92.40259,43.46034l-39.96002,-40.00038l26.31744,0l39.95703,40.00038l-39.95703,39.99962l-26.31744,0l39.96002,-39.99962z" stroke-width="5" stroke="#004284" fill="#3398FE"/>
+  			<path id="svg_2" d="m44.40259,43.46034l-39.96002,-40.00038l26.31744,0l39.95703,40.00038l-39.95703,39.99962l-26.31744,0l39.96002,-39.99962z" stroke-width="5" stroke="#004284" fill="#3398FE"/>
+		</g>
+
+	</g>
+	
+	<g id="text">
+		<rect x="1" y="500" width="719" height="100" fill="#B2C0CB" stroke="black" stroke-width="1" />
+<!-- 	Until Internet Explorer provides support for foreignObject in SVG, text will be handled in the HTML file rather than in the SVG itself.
+		<foreignObject x="0" y="500" width="560" height="100">
+			<body xmlns="http://www.w3.org/1999/xhtml">
+				<div id="instruct" style="font-size:14;font-family:Times;width:550px;height:95px;overflow:auto; overflow:-moz-scrollbars-vertical;"></div>
+			</body>
+		</foreignObject> -->
+		<line x1="560" y1="500" x2="560" y2="600" stroke="black" stroke-width="1"/> 
+		<g id="options">
+			<g id="modeSelect">
+				<rect id="modeRect" x="595" y="535" width="90" height="30" fill="#3398FE" stroke="#004284" stroke-width="1" onmouseover="d3.select(this).attr('fill','#CBF94A').style('cursor','pointer')" onmouseout="d3.select(this).attr('fill','#3398FE')" onclick="changeMode();"/>
+				<text id="mode" x="640" y="555" text-anchor="middle" onclick="changeMode();" onmouseover="d3.select(this).style('cursor','pointer'); d3.select('#modeRect').attr('fill','#CBF94A')" onmouseout="d3.select('#modeRect').attr('fill','#3398FE')">Review</text>
+			</g>
+		</g>
+	</g>
+
 </svg>

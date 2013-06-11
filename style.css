@@ -6,3 +6,13 @@
 p {
 	text-align:left;
 }
+
+#instruct {
+	position:absolute;
+	width:550px;
+	height:100px;
+	text-align:left;
+	margin-left:115px;
+	margin-top:500px;
+	overflow:auto;
+}

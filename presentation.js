@@ -3,36 +3,48 @@
 	var STEPS = 21;
 	var currentStep = 0;
 	var lecture = true;
-
-	function setup() {
-		for (j=1; j<= 21; j++) {
-			d3.select('#step' + j).style('cursor', 'pointer');
-		}
-	}
-
-	function changeMode() {
-		if (lecture) {
-			beginReview();
-			d3.select('#mode').text('Lecture')
-		} else if (!lecture) {
-			beginLecture();
-			d3.select('#mode').text('Review');
-		}
-	}
-
-
+	var audio = true;
+	var parentDocument = parent.document;
 
 	function displayText(step) {
 		if (!lecture) {
 			currentStep = step;
 		}
 		
-			d3.select('#instruct').html(text[step]);
+		parentDocument.getElementById('instruct').innerHTML = text[step];
 		
 	}
 
-	function playAudio(step) {
+	function setup() {
+		for (j=1; j<= 21; j++) {
+			d3.select('#step' + j)
+				.style('cursor', 'pointer');
+				// .on('click', function(j){return displayText(j)});
+		}
 
+	
+		
+	}
+
+	function changeMode() {
+		if (lecture) {
+			d3.select('#mode').text('Lecture');
+			beginReview();
+		} else if (!lecture) {
+			d3.select('#mode').text('Review');
+			beginLecture();			
+		}
+	}
+
+
+
+
+
+	function playAudio(step) {
+		// parentDocument.getElementById('mp3').setAttribute('src',audio[step][0]);
+		// parentDocument.getElementById('ogg').setAttribute('src',audio[step][1]);
+		// parentDocument.getElementById('wav').setAttribute('src',audio[step][2]);
+		parentDocument.getElementById('audio').play();
 	}
 	
 	function beginLecture() {
@@ -41,7 +53,7 @@
 		for (i=1; i <= 21; i++) {
 			d3.select('#step' + i).attr('visibility','hidden');
 		}
-		d3.select('#instruct').html("");
+		parentDocument.getElementById('instruct').innerHTML = "";
 	}
 
 	function beginReview() {
@@ -49,27 +61,31 @@
 		for (i=1; i <= 21; i++) {
 			d3.select('#step' + i).attr('visibility','visible');
 		}
-		d3.select('#instruct').html("");
+		parentDocument.getElementById('instruct').innerHTML = "";
 	}
 
 	function next(){
 		if (currentStep < STEPS) {
 			currentStep++;
 			displayText(currentStep);
-			playAudio(currentStep);
 			if (lecture) {
 				d3.select('#step' + currentStep).attr('visibility','visible');
+			}
+			if (audio) {
+				playAudio(currentStep);
 			}
 		}
 	}
 
 	function prev(){
 		if (currentStep > 0) {
-			currentStep--;
-			displayText(currentStep);
-			playAudio(currentStep);
 			if (lecture) {
 				d3.select('#step' + currentStep).attr('visibility','hidden');
+			}
+			currentStep--;
+			displayText(currentStep);
+			if (audio) {
+				playAudio(currentStep);
 			}
 		}
 	}
