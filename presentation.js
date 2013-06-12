@@ -50,10 +50,10 @@
 
 
 	function playAudio(step) {
-		if (audioPlayer.canPlayType && audioPlayer.canPlayType("audio/mpeg")) {
-			audioPlayer.src = audioFiles[step][0];
-		} else if (audioPlayer.canPlayType && audioPlayer.canPlayType("audio/ogg")) {
+		if (audioPlayer.canPlayType && audioPlayer.canPlayType("audio/ogg")) {
 			audioPlayer.src = audioFiles[step][1];
+		} else if (audioPlayer.canPlayType && audioPlayer.canPlayType("audio/mpeg")) {
+			audioPlayer.src = audioFiles[step][0];
 		} else if (audioPlayer.canPlayType && audioPlayer.canPlaytype("audio/x-wav")) {
 			audioPlayer.src = audioFiles[step][2];
 		}
