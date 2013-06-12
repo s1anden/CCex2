@@ -1,6 +1,6 @@
 
 
-	var STEPS = 21;
+	
 	var currentStep = 0;
 	var lecture = true;
 	var audio = true;
@@ -16,10 +16,10 @@
 	}
 
 	function setup() {
-		for (j=1; j<= 21; j++) {
-			d3.select('#step' + j)
-				.style('cursor', 'pointer');
-				// .on('click', function(j){return displayText(j)});
+		for (step=1; step<= STEPS; step++) {
+			d3.select('#step' + step)
+				.style('cursor', 'pointer')
+				.on('click', function(step){return displayText(step);});
 		}
 
 	
@@ -50,7 +50,7 @@
 	function beginLecture() {
 		lecture = true;
 		currentStep = 0;
-		for (i=1; i <= 21; i++) {
+		for (i=1; i <= STEPS; i++) {
 			d3.select('#step' + i).attr('visibility','hidden');
 		}
 		parentDocument.getElementById('instruct').innerHTML = "";
@@ -58,7 +58,7 @@
 
 	function beginReview() {
 		lecture = false;
-		for (i=1; i <= 21; i++) {
+		for (i=1; i <= STEPS; i++) {
 			d3.select('#step' + i).attr('visibility','visible');
 		}
 		parentDocument.getElementById('instruct').innerHTML = "";
