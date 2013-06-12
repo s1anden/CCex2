@@ -1,17 +1,16 @@
-
-
-	
 	var currentStep = 0;
 	var lecture = true;
 	var audio = true;
 	var parentDocument = parent.document;
+	var instruct = parentDocument.getElementById('instruct');
+	var audioPlayer = parentDocument.getElementById('audio');
 
 	function displayText(step) {
 		if (!lecture) {
 			currentStep = step;
 		}
 		
-		parentDocument.getElementById('instruct').innerHTML = text[step];
+		instruct.innerHTML = text[step];
 		
 	}
 
@@ -19,7 +18,7 @@
 		for (step=1; step<= STEPS; step++) {
 			d3.select('#step' + step)
 				.style('cursor', 'pointer')
-				.on('click', function(step){return displayText(step);});
+				.on('click', function(){displayText(this.id.replace("step",""))});
 		}
 
 	
@@ -53,7 +52,7 @@
 		for (i=1; i <= STEPS; i++) {
 			d3.select('#step' + i).attr('visibility','hidden');
 		}
-		parentDocument.getElementById('instruct').innerHTML = "";
+		instruct.innerHTML = "";
 	}
 
 	function beginReview() {
@@ -61,7 +60,7 @@
 		for (i=1; i <= STEPS; i++) {
 			d3.select('#step' + i).attr('visibility','visible');
 		}
-		parentDocument.getElementById('instruct').innerHTML = "";
+		instruct.innerHTML = "";
 	}
 
 	function next(){
