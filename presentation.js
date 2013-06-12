@@ -9,6 +9,10 @@
 		if (!lecture) {
 			currentStep = step;
 		}
+		if (audio) {
+			audioPlayer.pause();
+			playAudio(step);
+		}
 		
 		instruct.innerHTML = text[step];
 		
@@ -19,10 +23,7 @@
 			d3.select('#step' + step)
 				.style('cursor', 'pointer')
 				.on('click', function(){displayText(this.id.replace("step",""))});
-		}
-
-	
-		
+		}		
 	}
 
 	function changeMode() {
@@ -35,15 +36,28 @@
 		}
 	}
 
-
+	function changeAudio() {
+		if (audio) {
+			audio = false;
+			audioPlayer.pause();
+			d3.select('#mute').attr('visibility','visible');
+		} else {
+			audio = true;
+			d3.select('#mute').attr('visibility','hidden');
+		}
+	}
 
 
 
 	function playAudio(step) {
-		// parentDocument.getElementById('mp3').setAttribute('src',audio[step][0]);
-		// parentDocument.getElementById('ogg').setAttribute('src',audio[step][1]);
-		// parentDocument.getElementById('wav').setAttribute('src',audio[step][2]);
-		parentDocument.getElementById('audio').play();
+		if (audioPlayer.canPlayType && audioPlayer.canPlayType("audio/mpeg")) {
+			audioPlayer.src = audioFiles[step][0];
+		} else if (audioPlayer.canPlayType && audioPlayer.canPlayType("audio/ogg")) {
+			audioPlayer.src = audioFiles[step][1];
+		} else if (audioPlayer.canPlayType && audioPlayer.canPlaytype("audio/x-wav")) {
+			audioPlayer.src = audioFiles[step][2];
+		}
+		audioPlayer.play();
 	}
 	
 	function beginLecture() {
@@ -70,9 +84,6 @@
 			if (lecture) {
 				d3.select('#step' + currentStep).attr('visibility','visible');
 			}
-			if (audio) {
-				playAudio(currentStep);
-			}
 		}
 	}
 
@@ -83,8 +94,5 @@
 			}
 			currentStep--;
 			displayText(currentStep);
-			if (audio) {
-				playAudio(currentStep);
-			}
 		}
 	}
