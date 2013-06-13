@@ -56,6 +56,8 @@
 			audioPlayer.src = audioFiles[step][0];
 		} else if (audioPlayer.canPlayType && audioPlayer.canPlaytype("audio/x-wav")) {
 			audioPlayer.src = audioFiles[step][2];
+		} else {
+			changeAudio();
 		}
 		audioPlayer.play();
 	}

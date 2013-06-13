@@ -7,12 +7,23 @@ p {
 	text-align:left;
 }
 
+ul {
+	text-align:left;
+}
+
 #instruct {
 	position:absolute;
 	width:550px;
 	height:100px;
 	text-align:left;
-	margin-left:115px;
+	float:left;
 	margin-top:500px;
+	margin-left:5px;
 	overflow:auto;
+}
+
+#presentation {
+	width:720px;
+	height:600px;
+	margin:auto;
 }
