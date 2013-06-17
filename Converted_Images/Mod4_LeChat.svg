@@ -30,7 +30,7 @@
 		</clipPath>
   	</defs>
   	<!-- grid -->
-  	<rect fill="url(#grid)" x="0" y="0" width="100%" height="100%" visibility="visible"/>
+  	<rect fill="url(#grid)" x="0" y="0" width="100%" height="100%" visibility="hidden"/>
 	
 	<svg id="container" x="0" y="0" width="720" height="800">
 		<g id="scroll">
