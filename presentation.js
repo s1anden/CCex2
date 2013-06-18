@@ -23,7 +23,7 @@
 			d3.select('#step' + step)
 				.style('cursor', 'pointer')
 				.on('click', function(){displayText(this.id.replace("step",""))});
-		}		
+		}	
 	}
 
 	function changeMode() {
