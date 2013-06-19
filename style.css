@@ -1,21 +1,9 @@
-#container {
-	text-align:center;
-	width:50%;
-	margin-left:25%;
-}
-p {
-	text-align:left;
-}
-
-ul {
-	text-align:left;
-}
+/*Must be added to overall stylesheet*/
 
 #instruct {
 	position:absolute;
 	width:550px;
 	height:100px;
-	text-align:left;
 	float:left;
 	margin-top:500px;
 	margin-left:5px;
@@ -26,4 +14,8 @@ ul {
 	width:720px;
 	height:600px;
 	margin:auto;
+}
+
+#content {
+	overflow:auto;
 }
