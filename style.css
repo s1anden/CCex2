@@ -225,7 +225,7 @@ ol.multiple-choice li:hover {
 	-moz-transform:rotate(45deg);
 	-webkit-transform:rotate(45deg);
 	-o-transform:rotate(45deg);
-	position:relative;
+	position:absolute;
 	top:50%;
 	margin-top:-5px;
 	left:5px;
@@ -241,7 +241,7 @@ ol.multiple-choice li:hover {
 	-moz-transform:rotate(-45deg);
 	-webkit-transform:rotate(-45deg);
 	-o-transform:rotate(-45deg);
-	position:relative;
+	position:absolute;
 	top:50%;
 	margin-top:-5px;
 	right:5px;
@@ -255,6 +255,9 @@ ol.multiple-choice li:hover {
 	color:#3398FE !important;
 	border-bottom:none;
 	float:right;
+	position:absolute;
+	bottom:5px;
+	right:5px;
 }
 
 .hint {

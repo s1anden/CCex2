@@ -1,0 +1,84 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+
+<head>
+	<meta charset="utf-8">
+
+	<!-- makes all relative links to base url -->
+	<!-- <base href="http://chemcollective.org/"> <!--[if lte IE 6]></base><![endif]-->
+
+	<title>ChemCollective</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-language" content="en" />
+	
+	<meta name="description" content= "Online Resources for Teaching and Learning Chemistry" /> 
+	
+	<!-- Mobile viewport optimized: j.mp/bplateviewport  -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- favicon.ico -->
+	<link rel="icon" href="favicon.png" >
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+	
+	<!--  stylesheet(s) -->
+
+	<!-- eventually, using css compiled from the commented out less file-->
+	<!--<link rel="stylesheet" type="text/css" href="assets/css/style.css" /> -->
+	
+	<!-- less css stylesheet for development -->
+    <!--<link rel="stylesheet/less" type="text/css" href="  " />-->
+	
+	 <link rel="stylesheet" type="text/css" href="../style.css"/>
+
+	<!-- checks answers -->
+	<script src="../js/autograding.js"></script>
+
+
+</head>
+
+<body>
+	<h3 class="question-number">Question 1</h3>
+	<div class="question-wrapper multiple-choice" id="samp01">
+		<form class="tutor" name="samp01" onsubmit="return check($('#samp01'));">
+			<p class="question">The universal gas constant is approximately 0.0821 L atm mol<sup>-1</sup> K<sup>-1</sup>. How many significant figures are given here?</p>
+
+			<ol class="multiple-choice">
+				<li>
+					<label for="samp01"><input type="radio" name="samp01" value="A">  3</label>
+				</li>
+
+				<li>
+					<label for="samp01"><input type="radio" name="samp01" value="B">  4</label>
+				</li>
+
+				<li>
+					<label for="samp01"><input type="radio" name="samp01" value="C">  5</label>
+				</li>
+			</ol>
+			
+			<a href="#" class="showHints">Hint</a>
+			<div class="hint">
+		        <a href="#" class="prevHint"></a>
+		        <span>First hint</span>
+		        <span>Second hint</span>
+		        <span>Third hint hint hint hint hint hint hint hint hint hint hint hint hint hint hint hint hint hint hint hint hint hint</span>
+		        <a href="#" class="nextHint"></a>
+			</div>
+			<div class="results" id="results-samp01"></div>
+			<input type="submit" value="Check" class="submit">	
+			
+		</form>
+	</div>
+</body>
+	
+</html>
+
+
