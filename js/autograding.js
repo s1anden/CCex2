@@ -132,11 +132,11 @@ function check(question) {
 		}
 	}
 	if (!complete) {
-		$("#results-" + question.attr('id')).css('display','block').html("You have not fully completed this question.").addClass("incorrect");
+		$("#results-" + question.attr('id')).css('display','block').html("You have not fully completed this question.").addClass("incorrect").removeClass('correct');
 	} else if (!correct) {
-		$("#results-"+question.attr('id')).css('display','block').addClass('incorrect').html("Incorrect. " + incorrect[question.attr('id')]);
-	} else {
-		$("#results-"+question.attr('id')).css('display','block').addClass('correct').html("Correct!");
+		$("#results-"+question.attr('id')).css('display','block').addClass('incorrect').removeClass('correct').html("Incorrect. " + incorrect[question.attr('id')]);
+	} else if (correct && complete) {
+		$("#results-"+question.attr('id')).css('display','block').addClass('correct').removeClass('incorrect').html("Correct!");
 	}
 	return false;
 }

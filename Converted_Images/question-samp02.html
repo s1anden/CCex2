@@ -1,0 +1,97 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7 ]> <html class="no-js ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+
+<head>
+	<meta charset="utf-8">
+
+	<!-- makes all relative links to base url -->
+	<!-- <base href="http://chemcollective.org/"> <!--[if lte IE 6]></base><![endif]-->
+
+	<title>ChemCollective</title>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-language" content="en" />
+	
+	<meta name="description" content= "Online Resources for Teaching and Learning Chemistry" /> 
+	
+	<!-- Mobile viewport optimized: j.mp/bplateviewport  -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- favicon.ico -->
+	<link rel="icon" href="favicon.png" >
+
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
+	<script type="text/javascript" src="http://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+	
+	<!--  stylesheet(s) -->
+
+	<!-- eventually, using css compiled from the commented out less file-->
+	<!--<link rel="stylesheet" type="text/css" href="assets/css/style.css" /> -->
+	
+	<!-- less css stylesheet for development -->
+    <!--<link rel="stylesheet/less" type="text/css" href="  " />-->
+	
+	 <link rel="stylesheet" type="text/css" href="../style.css"/>
+
+	<!-- checks answers -->
+	<script src="../js/autograding.js"></script>
+
+
+</head>
+
+<body>
+	<h3 class="question-number">Question 2</h3>
+	<div class="question-wrapper match" id="samp02">
+		<form class="tutor" name="samp02" onsubmit="return check($('#samp02'));">
+			<p class="question">Match the following labels to the diagram. You will not use all of the labels.</p>
+			<div class="match-container">
+				<img height="292px" width="400px" style="margin-left:100px;" src="galvanic-20cell-match.png"/>
+				<hr style="width:100px;transform:rotate(-50deg);-ms-transform:rotate(-50deg);-moz-transform:rotate(-50deg);-webkit-transform:rotate(-50deg);-o-transform:rotate(-50deg);bottom:118px;left:100px;"></hr>
+				<div class="droppable" id="samp02-drop_01" style="bottom:50px;"></div>
+				<hr style="width:50px;transform:rotate(60deg);-ms-transform:rotate(60deg);-moz-transform:rotate(60deg);-webkit-transform:rotate(60deg);-o-transform:rotate(60deg);bottom:250px;left:210px;"></hr>
+				<div class="droppable" id="samp02-drop_02" style="bottom:250px;left:75px;"></div>
+				<hr style="width:75px;transform:rotate(120deg);-ms-transform:rotate(120deg);-moz-transform:rotate(120deg);-webkit-transform:rotate(120deg);-o-transform:rotate(120deg);bottom:230px;left:310px;"></hr>
+				<div class="droppable" id="samp02-drop_03" style="bottom:250px;left:350px;"></div>
+				<hr style="width:75px;transform:rotate(-140deg);-ms-transform:rotate(-140deg);-moz-transform:rotate(-140deg);-webkit-transform:rotate(-140deg);-o-transform:rotate(-140deg);bottom:140px;left:431px;"></hr>
+				<div class="droppable" id="samp02-drop_04" style="bottom:100px;left:500px;"></div>
+				<hr style="width:75px;transform:rotate(-150deg);-ms-transform:rotate(-150deg);-moz-transform:rotate(-150deg);-moz-transform:rotate(-150deg);-webkit-transform:rotate(-150deg);-o-transform:rotate(-150deg);bottom:48px;left:401px;"></hr>
+				<div class="droppable" id="samp02-drop_05" style="bottom:25px;left:475px;"></div>
+			</div>
+
+			
+			<div class="draggable" id="anode">Anode</div>
+			<div class="draggable" id="cathode">Cathode</div>
+			<div class="draggable" id="salt-bridge">Salt Bridge</div>
+			<div class="draggable" id="metal-salt">Metal Salt</div>
+			<div class="draggable" id="electrons-right">Electrons Flow >>></div>
+			<div class="draggable" id="electrons-left">Electrons Flow <<<</div>
+			
+
+			<input type="hidden" name="samp02-drop_01" id="samp02-inputdrop_01" value="">
+			<input type="hidden" name="samp02-drop_02" id="samp02-inputdrop_02" value="">
+			<input type="hidden" name="samp02-drop_03" id="samp02-inputdrop_03" value="">
+			<input type="hidden" name="samp02-drop_04" id="samp02-inputdrop_04" value="">
+			<input type="hidden" name="samp02-drop_05" id="samp02-inputdrop_05" value="">
+			<a href="#" class="showHints">Hint</a>
+			<div class="hint">
+		        <a href="#" class="prevHint"></a>
+		        <span>First hint</span>
+		        <span>Second hint</span>
+		        <span>Third hint</span>
+		        <a href="#" class="nextHint"></a>
+			</div>
+			<div class="results" id="results-samp02"></div>
+			<input type="submit" value="Check" class="submit">	
+			
+		</form>
+	</div>
+</body>
+	
+</html>
+
+
