@@ -58,11 +58,13 @@ a.tooltip:hover span {
 }
 
 .question-wrapper {
-	border: 1px dotted #B2C0CB;
+	border: 2px dotted #B2C0CB;
 	border-radius:5px;
 	padding:10px;
 	margin-top:10px;
 	position:relative;
+	background:#fdfdfd;
+	overflow:hidden;
 }
 
 ol.multiple-choice {
@@ -89,6 +91,8 @@ ol.multiple-choice li:hover {
 	padding:5px;
 	cursor:pointer;
 	background:#fdfdfd;
+	margin-top:-10px;
+	margin-bottom:-10px;
 }
 
 .match-container {
@@ -272,4 +276,8 @@ ol.multiple-choice li:hover {
 	padding-left:30px;
 	padding-right:30px;
 	position:relative;
+}
+
+h3 {
+	margin-top:-10px;
 }

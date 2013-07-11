@@ -137,6 +137,7 @@ function check(question) {
 		$("#results-"+question.attr('id')).css('display','block').addClass('incorrect').removeClass('correct').html("Incorrect. " + incorrect[question.attr('id')]);
 	} else if (correct && complete) {
 		$("#results-"+question.attr('id')).css('display','block').addClass('correct').removeClass('incorrect').html("Correct!");
+		$("#" + question.attr('id')).fadeOut(1000);
 	}
 	return false;
 }
