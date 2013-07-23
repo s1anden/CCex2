@@ -22,6 +22,7 @@
 		for (step=1; step<= STEPS; step++) {
 			d3.select('#step' + step)
 				.style('cursor', 'pointer')
+				.attr('visibility','hidden')
 				.on('click', function(){displayText(this.id.replace("step",""))});
 		}	
 	}
@@ -51,11 +52,11 @@
 
 	function playAudio(step) {
 		if (audioPlayer.canPlayType && audioPlayer.canPlayType("audio/ogg")) {
-			audioPlayer.src = audioFiles[step][1];
+			audioPlayer.src = audioFiles[step] + ".ogg";
 		} else if (audioPlayer.canPlayType && audioPlayer.canPlayType("audio/mpeg")) {
-			audioPlayer.src = audioFiles[step][0];
+			audioPlayer.src = audioFiles[step] + ".mp3";
 		} else if (audioPlayer.canPlayType && audioPlayer.canPlaytype("audio/x-wav")) {
-			audioPlayer.src = audioFiles[step][2];
+			audioPlayer.src = audioFiles[step] + ".wav";
 		} else {
 			changeAudio();
 		}
