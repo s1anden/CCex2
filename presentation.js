@@ -77,6 +77,7 @@
 		for (i=1; i <= STEPS; i++) {
 			d3.select('#step' + i).attr('visibility','visible');
 		}
+		d3.selectAll('.question').attr('visibility','hidden');
 		instruct.innerHTML = "";
 	}
 
